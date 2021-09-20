@@ -1,0 +1,277 @@
+{
+  "epub": {
+    "metadata": {
+      "title": "Osudy dobrého vojáka Švejka za světové války I.–II.",
+      "identifier": "urn:uuid:296c0919-9963-415a-a386-6c26c077b931",
+      "author": "Jaroslav Hašek",
+      "publisher": "Městská knihovna v Praze",
+      "modified": "2021-09-20T09:44:19.149Z"
+    },
+    "chapters": [
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "osudy_dobreho_vojaka_svejka_i_ii_001.md",
+        "xhtml": "osudy_dobreho_vojaka_svejka_i_ii_001.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "osudy_dobreho_vojaka_svejka_i_ii_002.md",
+        "xhtml": "osudy_dobreho_vojaka_svejka_i_ii_002.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "osudy_dobreho_vojaka_svejka_i_ii_003.md",
+        "xhtml": "osudy_dobreho_vojaka_svejka_i_ii_003.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "osudy_dobreho_vojaka_svejka_i_ii_004.md",
+        "xhtml": "osudy_dobreho_vojaka_svejka_i_ii_004.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "osudy_dobreho_vojaka_svejka_i_ii_005.md",
+        "xhtml": "osudy_dobreho_vojaka_svejka_i_ii_005.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "osudy_dobreho_vojaka_svejka_i_ii_006.md",
+        "xhtml": "osudy_dobreho_vojaka_svejka_i_ii_006.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "osudy_dobreho_vojaka_svejka_i_ii_007.md",
+        "xhtml": "osudy_dobreho_vojaka_svejka_i_ii_007.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "osudy_dobreho_vojaka_svejka_i_ii_008.md",
+        "xhtml": "osudy_dobreho_vojaka_svejka_i_ii_008.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "osudy_dobreho_vojaka_svejka_i_ii_009.md",
+        "xhtml": "osudy_dobreho_vojaka_svejka_i_ii_009.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "osudy_dobreho_vojaka_svejka_i_ii_010.md",
+        "xhtml": "osudy_dobreho_vojaka_svejka_i_ii_010.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "osudy_dobreho_vojaka_svejka_i_ii_011.md",
+        "xhtml": "osudy_dobreho_vojaka_svejka_i_ii_011.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "osudy_dobreho_vojaka_svejka_i_ii_012.md",
+        "xhtml": "osudy_dobreho_vojaka_svejka_i_ii_012.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "osudy_dobreho_vojaka_svejka_i_ii_013.md",
+        "xhtml": "osudy_dobreho_vojaka_svejka_i_ii_013.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "osudy_dobreho_vojaka_svejka_i_ii_014.md",
+        "xhtml": "osudy_dobreho_vojaka_svejka_i_ii_014.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "osudy_dobreho_vojaka_svejka_i_ii_015.md",
+        "xhtml": "osudy_dobreho_vojaka_svejka_i_ii_015.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "osudy_dobreho_vojaka_svejka_i_ii_016.md",
+        "xhtml": "osudy_dobreho_vojaka_svejka_i_ii_016.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "osudy_dobreho_vojaka_svejka_i_ii_017.md",
+        "xhtml": "osudy_dobreho_vojaka_svejka_i_ii_017.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "osudy_dobreho_vojaka_svejka_i_ii_018.md",
+        "xhtml": "osudy_dobreho_vojaka_svejka_i_ii_018.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "osudy_dobreho_vojaka_svejka_i_ii_019.md",
+        "xhtml": "osudy_dobreho_vojaka_svejka_i_ii_019.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "osudy_dobreho_vojaka_svejka_i_ii_020.md",
+        "xhtml": "osudy_dobreho_vojaka_svejka_i_ii_020.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "osudy_dobreho_vojaka_svejka_i_ii_021.md",
+        "xhtml": "osudy_dobreho_vojaka_svejka_i_ii_021.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "osudy_dobreho_vojaka_svejka_i_ii_022.md",
+        "xhtml": "osudy_dobreho_vojaka_svejka_i_ii_022.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "osudy_dobreho_vojaka_svejka_i_ii_023.md",
+        "xhtml": "osudy_dobreho_vojaka_svejka_i_ii_023.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "osudy_dobreho_vojaka_svejka_i_ii_024.md",
+        "xhtml": "osudy_dobreho_vojaka_svejka_i_ii_024.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "osudy_dobreho_vojaka_svejka_i_ii_025.md",
+        "xhtml": "osudy_dobreho_vojaka_svejka_i_ii_025.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "osudy_dobreho_vojaka_svejka_i_ii_026.md",
+        "xhtml": "osudy_dobreho_vojaka_svejka_i_ii_026.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "osudy_dobreho_vojaka_svejka_i_ii_027.md",
+        "xhtml": "osudy_dobreho_vojaka_svejka_i_ii_027.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "osudy_dobreho_vojaka_svejka_i_ii_028.md",
+        "xhtml": "osudy_dobreho_vojaka_svejka_i_ii_028.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "osudy_dobreho_vojaka_svejka_i_ii_029.md",
+        "xhtml": "osudy_dobreho_vojaka_svejka_i_ii_029.xhtml"
+      }
+    ],
+    "resources": [
+      {
+        "type": "application/x-dtbncx+xml",
+        "href": "OEBPS/toc.ncx"
+      },
+      {
+        "type": "text/css",
+        "href": "OEBPS/Styles/osudy_dobr_idstyles.css"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/image001_fmt.jpeg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/image003_fmt.jpeg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/image004_fmt.jpeg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/obalka_osudy_dobreho_v_fmt.jpeg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/upoutavka_eknihy_fmt.jpeg"
+      }
+    ],
+    "classes": [
+      "Hyperlink",
+      "MLP-citacni-str-rozdeleni",
+      "MLP-dopis",
+      "MLP-dopis-bez1radku",
+      "MLP-dopis-bez1radku--I",
+      "MLP-dopis-podpis--I",
+      "MLP-licence-hypertext",
+      "MLP-licence-obrazek",
+      "MLP-licence-text",
+      "MLP-obrazky",
+      "MLP-pozn-pod-carou",
+      "MLP-text",
+      "MLP-text--0-12",
+      "MLP-text--12-0",
+      "MLP-text--12-12",
+      "MLP-text--B",
+      "MLP-text--I",
+      "MLP-text--I---0-12",
+      "MLP-text--I---12-0",
+      "MLP-text-bez1radku",
+      "MLP-text-bez1radku--0-12",
+      "MLP-text-bez1radku--12-0",
+      "MLP-text-bez1radku--I",
+      "MLP-text-bez1radku--I---12-0",
+      "MLP-tiraz-autor-a-nazev",
+      "MLP-titulka-autor",
+      "MLP-titulka-nazev",
+      "MLP-titulka-podnazev",
+      "MLP-uroven1-cast",
+      "MLP-uroven1-zvlastni-pripady",
+      "MLP-uroven2-kapitola",
+      "MLP-uroven3-nadpis",
+      "MLP-verse--I---0-12",
+      "MLP-verse--I---12-0",
+      "MLP-verse--I---12-12",
+      "MLP-znak-kurziva-11b",
+      "Normal",
+      "char-style-override-1",
+      "char-style-override-2",
+      "char-style-override-3",
+      "footnote",
+      "footnote-anchor",
+      "footnote-link",
+      "footnotes",
+      "frame-1",
+      "frame-2",
+      "frame-3",
+      "para-style-override-1",
+      "para-style-override-2",
+      "para-style-override-3",
+      "para-style-override-4",
+      "para-style-override-5",
+      "para-style-override-6"
+    ],
+    "github": {
+      "user": "books-are-next",
+      "repo": "osudy-dobreho-vojaka-svejka-za-svetove-valky-I.-II."
+    },
+    "generatedAt": 1632131060113
+  }
+}
