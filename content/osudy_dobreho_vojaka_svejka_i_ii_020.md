@@ -134,9 +134,13 @@ Jinak byl hodný člověk a nebál se svých představených a pečoval o svo
 
 Měl rád na pochodu, když zpívali vojáci písničky. Museli zpívat, i když šli na cvičení i ze cvičení. A jda vedle své roty, zpíval s nimi:
 
-„A když bylo v půlnoci,  
+  
+
+_„A když bylo v půlnoci,  
 voves z pytle vyskočí,  
-žumtarijá bum!“
+žumtarijá bum!“_
+
+  
 
 Těšil se oblibě vojáků, poněvadž byl neobyčejně spravedlivým a neměl ve zvyku někoho týrat.
 
@@ -344,9 +348,11 @@ A poručík v záloze, v civilu pokladník nějaké banky, stál nad těmi pl
 
 Co přečetl, neudělalo na nadporučíka příznivý dojem:
 
-Lieber Heinrich! Mein Mann verfolgt mich. Ich muß bei Dir ein paar Tage gastieren. Dein Bursch ist ein großes Mistvieh. Ich bin unglücklich.
+  
 
-Deine Katy
+_Lieber Heinrich! Mein Mann verfolgt mich. Ich muß bei Dir ein paar Tage gastieren. Dein Bursch ist ein großes Mistvieh. Ich bin unglücklich._
+
+_Deine Katy_
 
 Nadporučík Lukáš vzdychl, zavedl Švejka vedle do prázdné kanceláře, zavřel dveře a počal chodit mezi stoly. Když se konečně zastavil u Švejka, řekl:
 
@@ -364,9 +370,11 @@ Nadporučík vzdychl ještě jednou hlasitě, což opakoval též Švejk po něm
 
 Nadporučík seděl nyní na stole se sklopenou hlavou, mlčel a přemýšlel, ale nevymyslil si prozatím ničeho, než že nakonec sedl ke stolu, vzal obálku, papír a napsal na úřední formát:
 
-Drahá Katy! V službě do 9 hod. večer. Přijdu v deset. Prosím, by ses cítila u mne jako ve své domácnosti. Co se týká Švejka, mého sluhy, dal jsem mu již rozkazy, aby Ti ve všem vyhověl.
+  
 
-Tvůj Jindřich
+_Drahá Katy! V službě do 9 hod. večer. Přijdu v deset. Prosím, by ses cítila u mne jako ve své domácnosti. Co se týká Švejka, mého sluhy, dal jsem mu již rozkazy, aby Ti ve všem vyhověl._
+
+_Tvůj Jindřich_
 
 „Toto psaní,“ řekl nadporučík, „odevzdáte milostivé paní. Při­kazuji vám, abyste se k ní choval uctivě a taktně a vyplňoval všechna její přání, která vám musí být rozkazem. Musíte se chovat galantně a obsluhovat ji poctivě. Zde máte sto korun, které mně vyúčtujete, neboť třebas vás pro něco pošle, objednáte pro ni oběd, večeři a tak dále. Pak koupíte tři lahve vína, krabičku memfisek. Tak. Víc prozatím nic. Můžete jít a ještě jednou vám kladu na srdce, že musíte jí udělat, co jí vidíte na očích.“
 
@@ -502,7 +510,11 @@ Oba rozloučili se přátelsky s nadporučíkem a obchodník s chmelem byl ta
 
 Vrátiv se do ložnice, kde paní Katy se oblékala na cestu, našel nadporučík na umyvadle 400 korun a tento lístek:
 
-Pane nadporučíku! Nezastal jste se mne před tou opicí, mým mužem, idiotem prvního řádu. Dovolil jste, aby mne odvlékl s sebou jako nějakou věc, kterou zapomenul v bytě. Přitom dovolil jste si udělat poznámku, že jste mně nabídl pohostinství. Doufám, že jsem vám nezpůsobila větší útraty než přiložených 400 korun, o které prosím byste se rozdělil se svým sluhou.
+  
+
+_Pane nadporučíku! Nezastal jste se mne před tou opicí, mým mužem, idiotem prvního řádu. Dovolil jste, aby mne odvlékl s sebou jako nějakou věc, kterou zapomenul v bytě. Přitom dovolil jste si udělat poznámku, že jste mně nabídl pohostinství. Doufám, že jsem vám nezpůsobila větší útraty než přiložených 400 korun, o které prosím byste se rozdělil se svým sluhou._
+
+  
 
 Nadporučík Lukáš chvíli stál s lístkem v ruce a pak jej pomalu roztrhal. S úsměvem podíval se na peníze ležící na umyvadle, a vida, že v rozčilení zapomněla hřebínek do vlasů na stolku, když si před zrcadlem upravovala vlasy, uložil jej mezi své fetišistické relikvie.
 
@@ -546,6 +558,8 @@ Byli jste někdy v psinci a viděli jste tam takové uděšené zjevy psí? Ti
 
 Jest několik systémů, jak se kradou psi. Buď přímo, něco na způsob kapesní krádeže, nebo podvodným vylákáním nešťastného tvora k sobě. Pes jest zvíře věrné, ale jen v čítance neb v přírodopise. Dejte očichat i nejvěrnějšímu psu smaženou koňskou uzenku, a je ztracen. Zapomene na pána, vedle kterého kráčí, otočí se a jde za vámi, přičemž mu z tlamy tekou sliny a v předzvěsti a tušení velké radosti nad uzenkou vrtí přívětivě ocasem a protahuje nozdry jako nejbujnější hřebec, když ho vedou ke klisně.
 
+  
+
 Na Malé Straně u Zámeckých schodů je malý výčep piva. Jednoho dne seděli tam v šeru vzadu dva muži. Jeden voják a druhý civilista. Nakloněni k sobě šeptali si tajemně. Vyhlíželi jako spiklenci z dob Benátské republiky.
 
 „Každej den ve vosum hodin,“ šeptal civilista vojákovi, „chodí s ním služka na roh Havlíčkovýho náměstí k parku. Ale von je potvora, kouše o všechno pryč. Nedá se pohladit.“
@@ -575,6 +589,8 @@ Voják s civilistou si ťukli a civilista dále šeptal:
 Oba přátelé si opět ťukli. Ještě když Švejk se živil prodejem psů do vojny, Blahník mu je dodával. Byl to zkušený muž a vypravovalo se o něm, že kupoval pod rukou z pohodnice podezřelé psy a zas je prodával dál. Měl dokonce už jednou vzteklinu a v Pasteurově ústavu ve Vídni byl jako doma. Nyní považoval za svou povinnost nezištně vojákovi Švejkovi pomoci. Znal všechny psy v celé Praze i okolí, a mluvil proto tak tiše, aby se hostinskému neprozradil, poněvadž mu z hostince před půlrokem odnesl pod kabátem štěně, jezevčíka, kterému dal cucat mléko z dětské láhve, takže ho hloupé štěně patrně považovalo za mámu a ani nedutalo pod kabátem.
 
 Kradl ze zásady jen čistokrevné psy a mohl být soudním znalcem. Dodával do všech psinců i soukromým osobám, jak se to dalo, a šel-li po ulici, tu na něho vrčeli psi, které kdysi ukradl, a když stál někde u výkladní skříně, často nějaký mstivý pes vyzdvihl u něho za zády nožičku a pokropil mu kalhoty.
+
+  
 
 V osm hodin ráno druhého dne bylo vidět dobrého vojáka Švejka chodit na rohu Havlíčkova náměstí a parku. Čekal na služku se stájovým pinčem. Konečně se dočkal a kolem něho přeběhl vousatý pes, rozježený, ostrosrstý, s moudrýma černýma očima. Byl veselý jako všichni psi, když si odbyli svou potřebu, a hnal se k vrabcům snídajícím koňský trus na ulici.
 

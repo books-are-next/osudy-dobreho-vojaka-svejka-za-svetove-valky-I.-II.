@@ -18,7 +18,7 @@ Podal nadporučíkovi Lukášovi noviny se zatrženými články, který počal 
 
 „To je v Pester Lloydu?“ otázal se plukovník.
 
-„Ano, pane plukovníku,“ odpověděl nadporučík Lukáš a pokračoval ve čtení: „Vedení války vyžaduje součinnost všech vrstev obyvatelstva rakousko-uherského mocnářství. Chceme-li míti pod střechou bezpečí státu, všechny národy musí podporovati se navzájem a záruka naší budoucnosti je právě v té spontánní úctě, kterou jeden národ má před druhým. Největší oběti našich čackých vojínů na frontách, kde oni neustále postupují kupředu, nebyly by možny, kdyby týl, ona zásobovací i politická tepna našich slavných armád, nebyl sjednoceným, kdyby vyskytovaly se v zádech naší armády živly rozbíjející jednolitost státu a svou agitací a zlomyslností podrývaly autoritu státního celku a zaváděly v souručenství národů naší říše zmatky. Nemůžeme se v této dějinné chvíli mlčky dívati na hrstku lidí, kteří by chtěli se pokoušet z nacionálních místních důvodů rušit sjednocenou práci a zápas všech národů této říše o spravedlivé potrestání těch bídáků, kteří na říši naši bez příčiny napadli, aby ji zbavili veškerých kulturních i civilizačních statků. Nemůžeme mlčky opominout tyto hnusné zjevy výbuchů chorobné duše, která touží jen po rozražení jednomyslnosti v srdcích národů. Měli jsme již několikrát příležitost upozornit v našem časopise na ten zjev, jak vojenské úřady jsou nuceny se vší přísností zakročiti proti těm jednotlivcům od českých pluků, kteří nedbajíce slavné tradice plukovní, rozsívají svým nesmyslným řáděním v našich maďarských městech zlobu proti celému českému národu, který jako celek není ničím vinen a který vždy pevně stál za zájmy této říše, o čemž svědčí celá řada vynikajících českých vojevůdců, z nichž vzpomínáme slavné postavy maršálka Radeckého a jiných obránců rakousko-uherského mocnářství. Proti těmto světlým zjevům stojí několik darebáků zpustlé české lůzy, kteří použili světové války, aby se dobrovolně přihlásili do vojska a mohli uvésti zmatek v jednomyslnost národů monarchie, nezapomínajíce přitom na své nejnižší pudy. Upozornili jsme již jednou na řádění pluku No… v Debrecíně, jehož výtržnosti byly přetřásány i odsouzeny peštskou sněmovnou a jehož plukovní prapor později na frontě byl – konfiskováno. – Kdo má na svědomí ten ohavný hřích? – Konfiskováno. – Kdo hnal české vojáky – konfiskováno. – Co si troufá cizota v naší maďarské vlasti, o tom svědčí nejlépe případ v Királyhidě, maďarské výspě nad Litavou. K jaké národnosti patřili vojáci z nedalekého vojenského tábora v Brucku nad Litavou, kteří přepadli a ztrýznili tamějšího obchodníka pana Gyulu Kákonyie? Jest rozhodně povinností úřadů vyšetřiti tento zločin a optati se vojenského velitelství, které jistě již se touto aférou zabývá, jakou úlohu v tom bezpříkladném štvaní proti příslušníkům Uherského království hraje nadporučík Lukasch, jehož jméno uvádí se po městě ve spojitosti s událostmi posledních dnů, jak nám bylo sděleno naším místním dopisovatelem, který sebral již bohatý materiál o celé aféře, která v dnešní vážné době přímo křičí. Čtenáři Pester Lloydu jistě se zájmem budou sledovati vývin vyšetřování a neopomeneme je ujistit, že je blíže seznámíme s touto událostí eminentní důležitosti. Současně však očekáváme úřední zprávu o királyhidském zločinu, spáchaném na maďarském obyvatelstvu. Že se věcí bude zabývat peštská sněmovna, je nabíledni, aby nakonec se ukázalo jasně, že čeští vojáci, projíždějící Uherským královstvím na front, nesmí považovat zemi koruny svatého Štěpána, jako by ji měli v pachtu. Jestli pak někteří příslušníci toho národa, který v Királyhidě tak pěkně reprezentoval souručenství všech národů tohoto mocnářství, ještě dnes nechápou situaci, ať zůstanou hezky zticha, neboť ve válce takové lidi kulka, provaz, kriminál a bajonet naučí již poslouchat a podřídit se nejvyšším zájmům naší společné vlasti.“
+„Ano, pane plukovníku,“ odpověděl nadporučík Lukáš a pokračoval ve čtení: „Vedení války vyžaduje součinnost všech vrstev obyvatelstva rakousko-uherského mocnářství. Chceme-li míti pod střechou bezpečí státu, všechny národy musí podporovati se navzájem a záruka naší budoucnosti je právě v té spontánní úctě, kterou jeden národ má před druhým. Největší oběti našich čackých vojínů na frontách, kde oni neustále postupují kupředu, nebyly by možny, kdyby týl, ona zásobovací i politická tepna našich slavných armád, nebyl sjednoceným, kdyby vyskytovaly se v zádech naší armády živly rozbíjející jednolitost státu a svou agitací a zlomyslností podrývaly autoritu státního celku a zaváděly v souručenství národů naší říše zmatky. Nemůžeme se v této dějinné chvíli mlčky dívati na hrstku lidí, kteří by chtěli se pokoušet z nacionálních místních důvodů rušit sjednocenou práci a zápas všech národů této říše o spravedlivé potrestání těch bídáků, kteří na říši naši bez příčiny napadli, aby ji zbavili veškerých kulturních i civilizačních statků. Nemůžeme mlčky opominout tyto hnusné zjevy výbuchů chorobné duše, která touží jen po rozražení jednomyslnosti v srdcích národů. Měli jsme již několikrát příležitost upozornit v našem časopise na ten zjev, jak vojenské úřady jsou nuceny se vší přísností zakročiti proti těm jednotlivcům od českých pluků, kteří nedbajíce slavné tradice plukovní, rozsívají svým nesmyslným řáděním v našich maďarských městech zlobu proti celému českému národu, který jako celek není ničím vinen a který vždy pevně stál za zájmy této říše, o čemž svědčí celá řada vynikajících českých vojevůdců, z nichž vzpomínáme slavné postavy maršálka Radeckého a jiných obránců rakousko-uherského mocnářství. Proti těmto světlým zjevům stojí několik darebáků zpustlé české lůzy, kteří použili světové války, aby se dobrovolně přihlásili do vojska a mohli uvésti zmatek v jednomyslnost národů monarchie, nezapomínajíce přitom na své nejnižší pudy. Upozornili jsme již jednou na řádění pluku No… v Debrecíně, jehož výtržnosti byly přetřásány i odsouzeny peštskou sněmovnou a jehož plukovní prapor později na frontě byl – _konfiskováno._ – Kdo má na svědomí ten ohavný hřích? – _Konfiskováno._ – Kdo hnal české vojáky – _konfiskováno._ – Co si troufá cizota v naší maďarské vlasti, o tom svědčí nejlépe případ v Királyhidě, maďarské výspě nad Litavou. K jaké národnosti patřili vojáci z nedalekého vojenského tábora v Brucku nad Litavou, kteří přepadli a ztrýznili tamějšího obchodníka pana Gyulu Kákonyie? Jest rozhodně povinností úřadů vyšetřiti tento zločin a optati se vojenského velitelství, které jistě již se touto aférou zabývá, jakou úlohu v tom bezpříkladném štvaní proti příslušníkům Uherského království hraje nadporučík Lukasch, jehož jméno uvádí se po městě ve spojitosti s událostmi posledních dnů, jak nám bylo sděleno naším místním dopisovatelem, který sebral již bohatý materiál o celé aféře, která v dnešní vážné době přímo křičí. Čtenáři Pester Lloydu jistě se zájmem budou sledovati vývin vyšetřování a neopomeneme je ujistit, že je blíže seznámíme s touto událostí eminentní důležitosti. Současně však očekáváme úřední zprávu o királyhidském zločinu, spáchaném na maďarském obyvatelstvu. Že se věcí bude zabývat peštská sněmovna, je nabíledni, aby nakonec se ukázalo jasně, že čeští vojáci, projíždějící Uherským královstvím na front, nesmí považovat zemi koruny svatého Štěpána, jako by ji měli v pachtu. Jestli pak někteří příslušníci toho národa, který v Királyhidě tak pěkně reprezentoval souručenství všech národů tohoto mocnářství, ještě dnes nechápou situaci, ať zůstanou hezky zticha, neboť ve válce takové lidi kulka, provaz, kriminál a bajonet naučí již poslouchat a podřídit se nejvyšším zájmům naší společné vlasti.“
 
 „Kdo je podepsán pod článkem, pane nadporučíku?“
 
@@ -44,7 +44,11 @@ Plukovník přelistoval se ve spisech a ukázal nadporučíkovi Lukášovi na t
 
 Myslím, že jsem to dobře stylizoval:
 
-Divizijní soud čís. N a velitelství pluku čís. N prohlašuje, že článek uveřejněný ve zdejším časopise o domnělých výtržnostech mužstva pluku čís. N nezakládá se v ničem na pravdě a od první až do poslední řádky vymyšlen a že vyšetřování zavedené proti oněm časopisům přivodí přísné potrestání viníků.
+  
+
+_Divizijní soud čís. N a velitelství pluku čís. N prohlašuje, že článek uveřejněný ve zdejším časopise o domnělých výtržnostech mužstva pluku čís. N nezakládá se v ničem na pravdě a od první až do poslední řádky vymyšlen a že vyšetřování zavedené proti oněm časopisům přivodí přísné potrestání viníků._
+
+  
 
 Divizijní soud ve svém přípise na velitelství našeho pluku,“ pokračoval plukovník, „přichází k tomu mínění, že se vlastně o nic jiného nejedná než o soustavné štvaní proti vojenským částem přicházejícím z Cislajtánie do Translajtánie. A porovnejte přitom, kolik vojska odešlo na frontu od nás a kolik od nich. To vám řeknu, že mně je český voják milejší než taková maďarská sběř. Když si vzpomenu, že pod Bělehradem stříleli Maďaři po našem druhém maršbataliónu, který nevěděl, že jsou to Maďaři, kteří po nich střílí, a počal pálit do deutschmajstrů na pravém křídle, a deutschmajstři zas si to také spletli a pustili oheň po bosenském regimentu, který stál vedle! To byla tenkrát situace!
 
@@ -92,6 +96,8 @@ Uslyšev, že Švejka naznačil plukovník ordonancí u 11. kumpanie, zvolal:
 
 „Pomoz nám pánbůh.“
 
+  
+
 U divizijního soudu, v baráku opatřeném mřížemi, vstávali podle předpisu v sedm hodin ráno a dávali do pořádku kavalce válející se v prachu po zemi. Pryčen nebylo. V jednom přepažení v dlouhé místnosti skládali podle předpisu deky na slamník, a kteří byli s prací hotovi, seděli na lavicích podle stěny a buď si hledali vši, ti, kteří přišli z fronty, nebo se bavili vypravováním různých příhod.
 
 Švejk se starým sapérem Vodičkou seděli na lavici u dveří ještě s několika vojáky od různých regimentů a formací.
@@ -114,15 +120,21 @@ Kolem prošel hubený, vytáhlý voják, utrápeného vzezření, s koštětem.
 
 Voják s koštětem odkašlal a spustil:
 
-„Vše zavšiveno, front se drbe celý,  
+  
+
+_„Vše zavšiveno, front se drbe celý,  
 veš po nás leze veliká.  
 Pan generál se válí na posteli  
-a každej den se převlíká.
+a každej den se převlíká._
 
-Vším u vojska se velmi dobře daří,  
+  
+
+_Vším u vojska se velmi dobře daří,  
 i na šarže už přivyká,  
 s vší pruskou už se hbitě páří  
-ten starý všivák rakouský.“
+ten starý všivák rakouský.“_
+
+  
 
 Ztrápený voják-učitel si přisedl na lavici a povzdechl:
 
@@ -204,17 +216,21 @@ Otec že byl alkoholik a zemřel sebevraždou před jeho narozením, matka že 
 
 Panečku, měli jste vidět, jak ho ještě rádi pustili z vojny, a asi pět maníků, kteří seděli s ním v cimře, všichni si to pro všechen případ napsali na papírek asi takhle:
 
-Otec alkoholik. Matka prostitutka.
+  
 
-I. sestra (utopila)
+_Otec alkoholik. Matka prostitutka._
 
-II. sestra (vlak)
+_I. sestra (utopila)_
 
-Bratr (z mostu)
+_II. sestra (vlak)_
 
-Dědeček † ženu, petrolej, zapálil.
+_Bratr (z mostu)_
 
-II. babička (cikáni, sirky) † atd.
+_Dědeček † ženu, petrolej, zapálil._
+
+_II. babička (cikáni, sirky) † atd._
+
+  
 
 A jeden, když to začal taky přednášet štábnímu lékařovi, už se nedostal ani přes bratrance a štábní lékař, poněvadž už to byl třetí případ, mu řekl: ‚Ty chlape, a tvoje sestřenice z otcovy strany se vrhla ve Vídni z šestýho patra, ty jseš strašně zanedbaného vychování, a tak tě spraví korekce.‘ Tak ho odvedli do korekce, svázali do kozelce, a hned ho přešlo strašně zanedbaný vychování, i otec alkoholik, i matka prostitutka a raději se přihlásil dobrovolně na front.“
 
@@ -325,6 +341,8 @@ Když vycházeli z baráku, tu Vodička, chtěje manifestačně vyjádřit svou
 To si pamatuj,“ pokračoval Švejk v úvaze, „že se před vojenskejma soudy žádnej nesmí přiznávat. Když jsem seděl u garnisonsgerichtu, tak se ve vedlejší cimře jeden voják přiznal, a jak se to vostatní dozvěděli, tak mu dali deku a poručili mu, že musí svý přiznání vodvolat.“
 
 „Kdybych udělal něco nečestnýho, tak bych se nepřiznal,“ řekl sapér Vodička, „ale když se mne ten kluk auditorská přímo zeptal: Pral jste se?, tak jsem řekl: Ano, pral jsem se. Ztýral jste někoho? Zajisté, pane auditore. Poranil jste při tom někoho? Ovšemže, pane auditore. Ať ví, s kým mluví. A to je právě ta vostuda, že nás vosvobodili. To je, jako kdyby nechtěl věřit tomu, že jsem přerazil vo ty kluky maďarský überšvunk, že jsem z nich udělal nudle, boule a modřiny. Tys byl přece při tom, jak v jeden moment jsem měl tři kluky maďarský na sobě, a jak za chvilku válelo se to všechno na zemi a já šlapal po nich. A po tom po všem zastaví takovej usmrkanej auditorskej kluk s náma vyšetřování. To je, jako by mně řek: ‚Kam se serete, vy a prát se.‘ Až bude po vojně a budu v civilu, já ho, vočumu, někde najdu a pak mu ukážu, jestli se nedovedu prát. Potom přijedu sem do Királyhidy a udělám tady takový binec, že to svět neviděl a že se budou lidi schovávat do sklepa, až se dozvědí, že jsem se přišel podívat na ty rošťáky v Királyhidě, na ty lumpy, na ty pacholky.“
+
+  
 
 V kanceláři bylo všechno odbyto velice rychle. Nějaký felák s hubou ještě zamaštěnou od oběda, podávaje Švejkovi a Vodičkovi papíry s náramně vážnou tváří, nedal si ujít té příležitosti, aby nepronesl k oběma řeč, ve které apeloval na jich vojenského ducha, proplétaje to, poněvadž byl Vasrpolák, různými pěknými výrazy svého nářečí, jako „marekvium“, „glupi rolmopsie“, „krajcová sedmina“, „sviňa porýpaná“ a „dum vám baně na mjesjnuckovy vaši gzichty“.
 

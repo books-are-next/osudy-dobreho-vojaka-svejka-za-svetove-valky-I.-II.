@@ -18,6 +18,8 @@ A v garnizóně trojice: štábní profous Slavík, hejtman Linhart a šikova
 
 Štábní profous Slavík stal se zlodějem za republiky a je dnes zavřen. Nezakotvil se chudák v republice jako jiní vojenští páni.
 
+  
+
 Je úplně přirozené, že štábní profous Slavík, když přejímal Švejka, vrhl na něho pohled plný němé výčitky:
 
 „I ty máš porouchanou pověst, že jsi se dostal až sem mezi nás? My ti, chlapečku, pobyt zde osladíme, jako všem, kteří upadli v naše ruce, a ty naše ruce nejsou nějaké dámské ručky.“
@@ -100,13 +102,17 @@ Polní kurát byl opravdu dnes ve výtečné náladě. Sám ani nevěděl, proč
 
 „Zpívejte něco, hoši,“ křičel dolů, „nebo chcete, abych vás naučil nové písničce? Tak zpívejte za mnou:
 
-Ze všech znejmilejší  
+  
+
+_Ze všech znejmilejší  
 svou milou já mám,  
 nechodím tam za ní sám,  
 chodí za ní jiných více,  
 milenců má na tisíce,  
 a ta moje znejmilejší  
-je Panenka Maria – – –
+je Panenka Maria – – –_
+
+  
 
 Vy se tomu, holomci, nikdy nenaučíte,“ pokračoval polní kurát, „já jsem pro to, všechny vás postřílet; rozumíte mně dobře?! Já to tvrdím z tohoto božího místa, ničemové, neboť bůh je něco, co se vás nebojí a co s vámi zatočí, až budete z toho pitomí, neboť vy váháte obrátit se ke Kristu a raději jdete po trnité cestě hříchu.“
 
@@ -253,6 +259,8 @@ A všechno, co se nashromáždilo za den v duši auditorově, hejtman Linhart 
 Má se sice tak říkat jen králům a císařům, ale ani prostý štábní profous, hlava nekorunovaná, nebyl s tím spokojen. Odcházeje od auditora, zkopal na chodbě trestance konkaře, dělajícího úklid na chodbě.
 
 Co se týká Švejka, umínil si štábní profous, že Švejk musí alespoň jednu noc přespat ještě na garnizóně, aby také ještě něčeho užil.
+
+  
 
 Noc strávená na garnizóně patří vždy k milým vzpomínkám.
 

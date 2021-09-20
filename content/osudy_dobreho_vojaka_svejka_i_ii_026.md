@@ -128,14 +128,22 @@ A Švejk počal vypravovat své zkušenosti s polním kurátem Otto Katzem tak
 
 Teprve řev z vagónů vzadu přerušil vypravování Švejkovo. Dva­náctá kumpanie, kde byli samí Němci od Krumlovska a Kašperských Hor, hulákala:
 
-„Wann ich kumm, wann ich kumm,  
-wann ich wieda, wieda kumm.“
+  
+
+_„Wann ich kumm, wann ich kumm,  
+wann ich wieda, wieda kumm.“_
+
+  
 
 A z jiného vagónu nějaký zoufalec řval ke vzdalujícím se Budě­jovicům:
 
-„Und du, mein Schatz,  
+  
+
+_„Und du, mein Schatz,  
 bleibst hier.  
-Holarjó, holarjó, holo!“
+Holarjó, holarjó, holo!“_
+
+  
 
 Bylo to takové hrozné jódlování a ječení, že ho museli kamarádi odtáhnout od otevřených dveří dobytčího vozu.
 
@@ -179,9 +187,13 @@ Byl přerušen výkřikem ze spaní vrchního polního kuráta:
 
 A jednoroční dobrovolník počal zpívat:
 
-„Spi, děťátko, spi, zavři očka svý,  
+  
+
+_„Spi, děťátko, spi, zavři očka svý,  
 pánbůh bude s tebou spáti,  
-andělíček kolíbati, spi, děťátko, spi.“
+andělíček kolíbati, spi, děťátko, spi.“_
+
+  
 
 Zoufalý desátník nereagoval již na nic. Díval se tupě do kraje a dal plný průběh naprosté dezorganizaci v arestantském kupé.
 
@@ -247,13 +259,19 @@ Můj šéf, pan Fuchs, seděl jako vždy v kavárně a četl krajinské noviny
 
 Četl jsem hlasitě před celou kavárenskou publikou:
 
+  
+
 ‚Ctěná redakce!
 
 Upozornil jsem, že váš časopis zavádí názvosloví nezvyklé a neodůvodněné, že příliš málo dbá čistoty jazyka českého, vymýšlí si různá zvířata. Uvedl jsem doklad, že místo všeobecně užívaného starodávného názvu sojka zavádí váš redaktor žaludník, což má podklad v překladě německého názvu Eichelhäher – sojka.‘
 
+  
+
 ‚Sojka,‘ opakoval po mně zoufale majitel časopisu.
 
 Četl jsem klidně dál:
+
+  
 
 ‚Nato jsem od vašeho redaktora Světa zvířat obdržel dopis nesmírně hrubého, osobního a neumaleného rázu, kde jsem byl nazván trestuhodně ignorantským hovadem, což zasluhuje pokárání důrazného. Tak se neodpovídá na věcné vědecké výtky mezi slušnými lidmi. Rád bych věděl, kdo je z nás obou větší hovado. Snad, pravda, neměl jsem činiti výtky dopisnicí a dopsati listem, ale pro nával práce nevšiml jsem si té malichernosti, ale nyní po sprostém výpadu vašeho redaktora Svět zvířat vedu na veřejný pranýř.
 
@@ -263,15 +281,21 @@ Než to jsou věci vedlejší, ač by zajisté nebylo na škodu, kdyby se váš 
 
 Nejde ostatně o osobní polemiku bláznivého chlapa, nýbrž o věc, a proto opakuji znova, že vymýšlet si z překladů názvy jest nepřípustné, když máme všeobecně známý domácí název sojka.‘
 
+  
+
 ‚Ano, sojka,‘ ještě zoufalejším hlasem pronesl můj šéf.
 
 Čtu spokojeně dál, nedaje se přerušovat.
 
+  
+
 ‚Je to darebáctví, když se to děje od neodborníků a surovců. Kdo kdy říkal sojce ořešník? V díle Naši ptáci na str. 148 jest latinský název: Garrulus glandarius B. A., je ten můj pták – sojka.
 
-Redaktor vašeho listu zajisté uzná, že znám lépe svého ptáka, než ho může znát neodborník. Ořešník se nazývá podle dr. Bayera Mucifraga carycatectes B., a to B neznamená, jak mně psal váš redaktor, že je to začáteční písmeno slova blb. Čeští ptakopisci znají vůbec jenom sojku obecnou, nikoliv vašeho žaludníka, kterého vynašel právě ten pán, na kterého patří začáteční písmeno B podle jeho teorie. To jest neurvalý osobní nájezd, který na věci nic nezmění.
+Redaktor vašeho listu zajisté uzná, že znám lépe svého ptáka, než ho může znát neodborník. Ořešník se nazývá podle dr. Bayera Mucifraga carycatectes B., a to _B_ neznamená, jak mně psal váš redaktor, že je to začáteční písmeno slova blb. Čeští ptakopisci znají vůbec jenom sojku obecnou, nikoliv vašeho žaludníka, kterého vynašel právě ten pán, na kterého patří začáteční písmeno _B_ podle jeho teorie. To jest neurvalý osobní nájezd, který na věci nic nezmění.
 
 Sojka zůstane sojkou, i kdyby se redaktor Světa zvířat z toho podě…l, a zůstane to jen dokladem, jak lehkomyslně a nevěcně se leckdys píše, byť by se i on dovolával Brehma nápadně neurvale. Ten sprosťák píše, že sojka patří podle Brehma do čeledi krokodýlovitých, str. 452, kde se mluví o ťuhýku čili strakoši obecném (Lanius minor L.). Pak se tento ignorant, smím-li to jeho jméno zdrobnit, dovolává opět Brehma, že sojka patří do čeledi patnácté, a Brehm havranovité počítá do čeledi sedmnácté, k nimž druží se havrani, rod kavek, a jest tak sprostý, že i mne nazval kavkou (Colaeus) a rodem strak, vran modrých, podčeledí blbounů nejapných, ačkoliv na téže stránce jedná se o sojkách hájních a strakách pestrých…‘
+
+  
 
 ‚Sojky hájní,‘ vzdychl můj vydavatel časopisu, chytaje se za hlavu, ‚dejte to sem, ať to dočtu.‘
 
@@ -351,6 +375,8 @@ Vojenský vlak vjížděl do stanice, kde inspekce prohlížela vagóny. Vlak se
 
 Do vagónu vstoupila inspekce.
 
+  
+
 Velitelem vojenského vlaku byl štábem naznačen rezervní důstojník doktor Mráz.
 
 Na takové hloupé služby vždy házeli rezervní důstojníky. Doktor Mráz byl z toho jelen. Nemohl se dopočítat pořád jednoho vagónu, ačkoliv byl v civilu profesorem matematiky na reálném gymnáziu. Kromě toho na poslední stanici hlášený stav mužstva z jednotlivých vagónů kolísal s číslem udaným po skončeném nástupu do vagónů na budějovickém nádraží. Zdálo se mu, když se díval do papírů, že kde se vzalo tu se vzalo o dvě polní kuchyně víc. Neobyčejně nepříjemné šimrání v zádech působilo mu konstatování, že se mu rozmnožili koně neznámým způsobem. V seznamu důstojníků nemohl se dopátrat dvou kadetů, kteří mu scházeli. V kanceláři pluku v předním vagóně hledali neustále jeden psací stroj. Z toho chaosu rozbolela ho hlava, snědl již tři aspirinové prášky a nyní revidoval vlak s bolestným výrazem v obličeji.
@@ -405,7 +431,7 @@ Po odchodu inspekce nemohl desátník udržet se jízlivé poznámky:
 
 U batalionsraportu, když jsem to vysvětlil obrstlajtnantovi, že nejsme žádní vechtři, ale císařští vojáci, dal mne zavřít na dva dny, ale já jsem žádal, aby mne přeložili k regimentsraportu. U regimentsraportu pan obršt po mým vysvětlování na mě zařval, že jsem pitomec, abych táh ke všem čertům. Já zas na to: ‚Poslušně hlásím, pane obršt, abych byl předveden k brigaderaportu.‘ Toho se lek a hned dal do kanceláře zavolat našeho šupáka Schreitra a ten mě musel vodprosit přede všema oficírama za to slovo vechtr. Potom mne dohonil na dvoře a voznámil mně, že vode dneška mně nadávat nebude, ale že mě přivede na garnizón.
 
-Já jsem si vod tý doby dával na sebe největší pozor, ale neuhlídal jsem se. Stál jsem post u magacínu a na stěně každej post na zeď vždycky něco napsal. Buď tam vykreslil ženský přirození, nebo tam napsal nějakej veršíček. Já jsem si na nic nemohl vzpomenout, a tak jsem se z dlouhý chvíle podepsal na stěně pod název ‚Supák Schreiter je hnát‘. A ten pacholek supák hned to udal, poněvadž za mnou slídil jak červenej pes. Nešťastnou náhodou ještě nad tím nápisem byl jinej: ‚My na vojnu nepůjdeme, my se na ni vysereme,‘ a to bylo v roce 1912, když jsme měli jít do Srbska kvůli tomu konzulovi Procházkovi. Tak mě hned poslali do Terezína k landgerichtu. Asi patnáctkrát tu zeď od magacínu s těma nápisama i s mým podpisem páni od vojenskýho soudu fotografovali, desetkrát mně dali napsat, aby zkoumali můj rukopis, ‚My na vojnu nepůjdeme, my se na ni vysereme‘, patnáctkrát musel jsem psát před nimi ‚Supák Schreiter je hnát‘, a nakonec přijel jeden znalec písma a dal mně napsat: Bylo 29. července 1897, kdy Králový Dvůr nad Labem poznal hrůzy prudkého a rozvodněného Labe. ‚To ještě nestačí,‘ povídal auditor, ‚nám se jedná o to vysrání. Nadiktujte mu něco, kde je hodně s a r.‘ Tak mně diktoval: Srb, srub, svrab, srabařina, cherubín, rubín, holota. Von už byl z toho ten soudní znalec písma tumpachovej a pořád se vohlížel dozadu, kde stál voják s bajonetem, a nakonec řekl, že to musí do Vídně, abych napsal třikrát za sebou: Také začíná už slunko pálit, horko je znamenité.
+Já jsem si vod tý doby dával na sebe největší pozor, ale neuhlídal jsem se. Stál jsem post u magacínu a na stěně každej post na zeď vždycky něco napsal. Buď tam vykreslil ženský přirození, nebo tam napsal nějakej veršíček. Já jsem si na nic nemohl vzpomenout, a tak jsem se z dlouhý chvíle podepsal na stěně pod název ‚Supák Schreiter je hnát‘. A ten pacholek supák hned to udal, poněvadž za mnou slídil jak červenej pes. Nešťastnou náhodou ještě nad tím nápisem byl jinej: ‚My na vojnu nepůjdeme, my se na ni vysereme,‘ a to bylo v roce 1912, když jsme měli jít do Srbska kvůli tomu konzulovi Procházkovi. Tak mě hned poslali do Terezína k landgerichtu. Asi patnáctkrát tu zeď od magacínu s těma nápisama i s mým podpisem páni od vojenskýho soudu fotografovali, desetkrát mně dali napsat, aby zkoumali můj rukopis, ‚My na vojnu nepůjdeme, my se na ni vysereme‘, patnáctkrát musel jsem psát před nimi ‚Supák Schreiter je hnát‘, a nakonec přijel jeden znalec písma a dal mně napsat: Bylo 29. července 1897, kdy Králový Dvůr nad Labem poznal hrůzy prudkého a rozvodněného Labe. ‚To ještě nestačí,‘ povídal auditor, ‚nám se jedná o to vysrání. Nadiktujte mu něco, kde je hodně _s_ a _r_.‘ Tak mně diktoval: Srb, srub, svrab, srabařina, cherubín, rubín, holota. Von už byl z toho ten soudní znalec písma tumpachovej a pořád se vohlížel dozadu, kde stál voják s bajonetem, a nakonec řekl, že to musí do Vídně, abych napsal třikrát za sebou: Také začíná už slunko pálit, horko je znamenité.
 
 Vodpravili celej materiál do Vídně a nakonec vyšlo to tak, že pokud se týká těch nápisů, že to není moje ruka, podpis že je můj, na kterej jsem se přiznal, a že za to jsem vodsouzenej na šest neděl, poněvadž jsem se podepsal, když jsem stál na vartě, a nemoh jsem prej hlídat po tu dobu, co jsem se podpisoval na zdi.“
 
@@ -417,8 +443,12 @@ Vodpravili celej materiál do Vídně a nakonec vyšlo to tak, že pokud se tý
 
 Jestli vás, pane kaprál, zavřou,“ pokračoval Švejk s milým úsměvem, „jestli se vám stane nějaký to příkoří, tak nesmíte ztrácet ducha, a jestli voni si budou myslet svoje, vy si taky myslete svoje. Jako jsem znal jednoho uhlíře, kerej byl se mnou zavřenej na začátku války na policejním ředitelství v Praze, nějakej František Škvor, pro velezradu, a později snad taky vodpravenej kvůli nějakej pragmatickej sankci. Ten člověk, když se ho u vejslechu ptali, jestli má nějaký námitky proti protokolu, řek:
 
-‚Ať si bylo, jak si bylo, přece jaksi bylo,  
-ještě nikdy nebylo, aby jaksi nebylo.‘
+  
+
+_‚Ať si bylo, jak si bylo, přece jaksi bylo,  
+ještě nikdy nebylo, aby jaksi nebylo.‘_
+
+  
 
 Potom ho za to dali do temný komůrky a nedali mu nic jíst a pít po dva dny a zas ho vyvedli k vejslechu, a on stál na svým, že ať si bylo, jak si bylo, přece jaksi bylo, ještě nikdy nebylo, aby jaksi nebylo. Může bejt, že šel s tím i pod šibenici, když ho potom dali k vojenskýmu soudu.“
 
@@ -516,8 +546,12 @@ Počal rozdávat cigarety ze své tašky všem, nejen Švejkovi, a prohlašoval
 
 Vrchní polní kurát se odmlčel a potom převáděl rozhovor na kuchařský problém ve Starém i Novém zákoně, kde právě v těch dobách dbali velice na úpravu chutných krmí po bohoslužbách a jiných církevních slavnostech. Potom vyzval všechny, aby něco zazpívali, načež Švejk spustil jako vždycky nešťastně:
 
-„Ide Marína od Hodonína,  
-za ní pan farář s bečicú vína.“
+  
+
+_„Ide Marína od Hodonína,  
+za ní pan farář s bečicú vína.“_
+
+  
 
 Ale vrchní polní kurát se nerozhněval.
 
@@ -639,6 +673,8 @@ Nadporučík Lukáš si vzdychl.
 
 „Poslušně hlásím, že už lezu, pane obrlajtnant.“
 
+  
+
 Nad vojenským táborem v Mostě panovalo noční ticho. V barácích pro mužstvo třásli se vojáci zimou a v důstojnických barácích otvírali okna, poněvadž bylo přetopeno.
 
 Od jednotlivých objektů, před kterými stály stráže, ozývaly se občas kroky hlídky, která si plašila chůzí spánek.
@@ -747,29 +783,51 @@ Nemluvil mnoho a pil zato víc, kombinuje, co má vlastně napsat té přísné
 
 Ve velice dobré náladě odešel do malé kavárny U kříže sv. Štěpána, kde zašel do malého chambre séparée, vyhnal odtamtud nějakou Rumunku, která se nabízela, že se svlékne do naha a že si s ní může dělat, co chce, poručil si inkoust, péro a dopisní papír, láhev koňaku a napsal po bedlivé úvaze toto psaní, které se mu zdálo být vůbec nejhezčím, které kdy napsal:
 
-Milostivá paní!
+  
 
-Byl jsem včera přítomen v městském divadle hře, která Vás rozhořčila. Sledoval jsem Vás již při celém prvním jednání, Vás i Vašeho pana manžela. Jak jsem pozoroval…
+_Milostivá paní!_
+
+_Byl jsem včera přítomen v městském divadle hře, která Vás rozhořčila. Sledoval jsem Vás již při celém prvním jednání, Vás i Vašeho pana manžela. Jak jsem pozoroval…_
+
+  
 
 „Jen do něho,“ řekl si nadporučík Lukáš, „jaké má právo ten chlap mít takovou roztomilou ženu. Vždyť vypadá jako oholený pavián.“
 
 Psal dál:
 
-Váš pan manžel s nejlepším porozuměním díval se na oplzlosti prováděné na jevišti ve hře, která ve Vás, milostivá paní, působila odpor, poněvadž to nebylo umění, ale hnusné působení na nejintimnější city člověka.
+  
+
+_Váš pan manžel s nejlepším porozuměním díval se na oplzlosti prováděné na jevišti ve hře, která ve Vás, milostivá paní, působila odpor, poněvadž to nebylo umění, ale hnusné působení na nejintimnější city člověka._
+
+  
 
 „Ta ženská má poprsí,“ pomyslil si nadporučík Lukáš, „jen přímo do toho!“
 
-Odpusťte, milostivá paní, že mne neznáte, ale přesto že jsem k Vám upřímný. Viděl jsem v životě mnoho žen, ale žádná na mne neučinila takový dojem jako Vy, neboť Váš úsudek a životní názor shoduje se úplně s mým názorem. Jsem přesvědčen, že Váš pan manžel je čistý sobec, který Vás tahá s sebou…
+  
+
+_Odpusťte, milostivá paní, že mne neznáte, ale přesto že jsem k Vám upřímný. Viděl jsem v životě mnoho žen, ale žádná na mne neučinila takový dojem jako Vy, neboť Váš úsudek a životní názor shoduje se úplně s mým názorem. Jsem přesvědčen, že Váš pan manžel je čistý sobec, který Vás tahá s sebou…_
+
+  
 
 „To nejde,“ řekl k sobě nadporučík Lukáš a přeškrtl „schleppt mit“ a místo toho psal:
 
-… který v zájmu svém vodí Vás, milostivá, s sebou na divadelní představení odpovídající jedině jeho vkusu. Mám rád upřímnost, nevtírám se nijak ve Váš soukromý život, a přál bych si pohovořit s Vámi soukromě o čistém umění…
+  
+
+_… který v zájmu svém vodí Vás, milostivá, s sebou na divadelní představení odpovídající jedině jeho vkusu. Mám rád upřímnost, nevtírám se nijak ve Váš soukromý život, a přál bych si pohovořit s Vámi soukromě o čistém umění…_
+
+  
 
 „Zde v hotelích to nepůjde, budu ji muset zatáhnout do Vídně,“ pomyslil si ještě nadporučík, „vezmu si komandýrovku.“
 
-Proto osměluji se, milostivá paní, poprositi Vás o setkání, abychom se blíže čestně seznámili, což jistě neodřeknete tomu, jehož v nejkratší době očekávají svízelné válečné pochody a který, v případě Vašeho laskavého svolení, zachová si v bitevní vřavě nejkrásnější vzpomínku na duši, která ho stejně pochopila, jako ji on sám chápal. Vaše rozhodnutí bude mi pokynem, Vaše odpověď rozhodujícím okamžikem v životě.
+  
+
+_Proto osměluji se, milostivá paní, poprositi Vás o setkání, abychom se blíže čestně seznámili, což jistě neodřeknete tomu, jehož v nejkratší době očekávají svízelné válečné pochody a který, v případě Vašeho laskavého svolení, zachová si v bitevní vřavě nejkrásnější vzpomínku na duši, která ho stejně pochopila, jako ji on sám chápal. Vaše rozhodnutí bude mi pokynem, Vaše odpověď rozhodujícím okamžikem v životě._
+
+  
 
 Podepsal se, vypil koňak a poručil si ještě jednu láhev, a pije číšku za číškou, takřka po každé větě doopravdy zaslzel, když přečetl své poslední řádky.
+
+  
 
 Bylo devět hodin ráno, když Švejk probudil nadporučíka Lukáše:
 
@@ -864,6 +922,8 @@ A ještě tišeji dodal:
 „Uvidíš, že nám nedá ten kluk maďarská žádnou práci.“
 
 A kdyby byl někdo v průjezdě a rozuměl česky, byl by zaslechl již ze schodů hlasitěji pronesené Vodičkovo heslo: „Ty Maďary neznáš…“, heslo, ku kterému on došel v tichém lokále nad řekou Litavou, mezi zahradami slavné Királyhidy, obklopené vrchy, na které budou vojáci vzpomínat vždy s proklínáním při vzpomínkách na ty všechny übunky do světové války i za světové války, na kterých se cvičili teoreticky masakrům a řežím.
+
+  
 
 Švejk s Vodičkou stáli před dveřmi bytu pana Kákonyiho. Než přitlačil na knoflík zvonku, poznamenal Švejk:
 

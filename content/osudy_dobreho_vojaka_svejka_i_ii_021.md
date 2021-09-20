@@ -48,8 +48,12 @@ Strašně se vždy rozčiloval, když četl v novinách, že opět přivezli za
 
 Nebyl o nic horší než německý básník Vierordt, který uveřejnil za války verše, aby Německo nenávidělo a zabíjelo s železnou duší milióny francouzských ďáblů:
 
-Ať až k oblakům nad hory  
-hromadí se lidské kosti a kouřící se maso…
+  
+
+_Ať až k oblakům nad hory  
+hromadí se lidské kosti a kouřící se maso…_
+
+  
 
 Ukončiv vyučování ve škole jednoročních dobrovolníků, vyšel si nadporučík Lukáš na procházku s Maxem.
 
@@ -110,6 +114,8 @@ Plukovník vlastnoručně ho táhl do kasáren k potrestání, spílaje mu moř
 „Co s tím Švejkem udělám?“ pomyslil si nadporučík. „Rozbiju mu hubu, ale to nestačí. I řemínky mu tahat z těla je na toho lumpa málo.“ Nedbaje, že se měl sejít s jednou dámou, zamířil rozčíleně k domovu.
 
 „Já ho zabiju, pacholka,“ řekl k sobě, sedaje do elektriky.
+
+  
 
 Mezitím byl dobrý voják Švejk pohřížen v rozmluvu s ordonancí z kasáren. Voják přinesl nadporučíkovi nějaké listiny k podpisu a čekal nyní.
 
@@ -201,14 +207,22 @@ Nadporučík se odvrátil, vzdychl a uznal za vhodné místo Švejkem obírat s
 
 Švejk šukal již v kuchyni a nadporučík Lukáš slyšel zpěv Švejkův:
 
-„Mašíruje Grenevil Prašnou bránou na špacír,  
-šavle se mu blejskají, hezký holky plakají…“
+  
+
+_„Mašíruje Grenevil Prašnou bránou na špacír,  
+šavle se mu blejskají, hezký holky plakají…“_
+
+  
 
 Potom dál z kuchyně ozýval se zpěv:
 
-„My vojáci, my jsme páni,  
+  
+
+_„My vojáci, my jsme páni,  
 nás milujou holky samy,  
-fasujeme peníze, máme se všudy dobře…“
+fasujeme peníze, máme se všudy dobře…“_
+
+  
 
 „Ty se máš jistě dobře, holomku,“ pomyslil si nadporučík a odplivl si.
 
@@ -219,6 +233,8 @@ Ve dveřích se objevila hlava Švejkova:
 „Už jsem slyšel,“ řekl nadporučík, když se mu ordonanc v předsíni chtěl hlásit.
 
 Řekl to stísněným hlasem a odcházel, vrhaje na Švejka zničující pohled.
+
+  
 
 Nebyl to raport, bylo to něco horšího. Plukovník seděl velice zachmuřeně v křesle, když nadporučík vstoupil do jeho kanceláře.
 
@@ -246,6 +262,6 @@ Vrátiv se domů, řekl k Švejkovi významně:
 
 „Poslušně hlásím, pane obrlajtnant, že maršbatalión je maršbaťák a marška že je marškumpačka. My to vždycky zkracujem.“
 
-„Tak vám, Švejku,“ slavnostním hlasem řekl nadporučík, „oznamuji, že pojedete se mnou maršbaťákem, když máte rád takovou zkráceninu. Ale nemyslete si, že na frontě budete vyvádět podobné blbosti jako zde. Máte radost?“
+„Tak vám, Švejku,“ slavnostním hlasem řekl nadporučík, „oznamuji, že pojedete se mnou _maršbaťákem_, když máte rád takovou zkráceninu. Ale nemyslete si, že na frontě budete vyvádět podobné blbosti jako zde. Máte radost?“
 
 „Poslušně hlásím, pane obrlajtnant, že mám náramnou radost,“ odpověděl dobrý voják Švejk, „to bude něco nádhernýho, když voba padneme spolu za císaře pána a jeho rodinu…“

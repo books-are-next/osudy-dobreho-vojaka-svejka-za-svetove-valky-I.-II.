@@ -82,7 +82,7 @@ Hosté se zvedli, zaplatili a tiše odešli. Švejk osaměl s paní Palivcovou
 
 „Je to věc výcviku,“ poznamenal Švejk, „byl ten čalouník hloupej člověk?“
 
-„Asi jako můj muž,“ odpověděla s pláčem, „ptal se ho, jestli by střílel proti Srbům. A on mu řek, že neumí střílet, že byl jednou na střelnici a prostřílel tam korunu. Pak jsme všichni slyšeli, že pan Bretschneider řekl, vytahuje si zápisník: ‚I hleďme, zase nová pěkná velezrada!‘, a odešel s tím čalouníkem z Příčné ulice, který se již nevrátil.“
+„Asi jako můj muž,“ odpověděla s pláčem, „ptal se ho, jestli by střílel proti Srbům. A on mu řek, že neumí střílet, že byl jednou na střelnici a prostřílel tam _korunu_. Pak jsme všichni slyšeli, že pan Bretschneider řekl, vytahuje si zápisník: ‚I hleďme, zase nová pěkná velezrada!‘, a odešel s tím čalouníkem z Příčné ulice, který se již nevrátil.“
 
 „Ono se jich nevrátí víc,“ pravil Švejk, „dejte mně rum.“
 
@@ -200,7 +200,7 @@ Pak šla stlát postel, neobyčejně pečlivě uváděla všechno do pořádku a
 
 Nevím, jestli ti pánové, kteří po převratu prohlíželi policejní archív, rozšifrovali položky tajného fondu státní policie, kde stálo: B… 40 K, F… 50 K, L… 80 K atd., ale rozhodně se mýlili, že B, F, L jsou začáteční písmena nějakých pánů, kteří za 40, 50, 80 atd. korun prodávali český národ černožlutému orlu.
 
-B znamená bernardýn, F foxteriér a L značí leonbergra. Tyto všechny psy přivedl Bretschneider od Švejka na policejní ředitelství. Byly to ohyzdné obludy, které neměly toho nejmenšího společného s nějakou čistokrevnou rasou, za kterou je Švejk Bretschneidrovi vydával.
+_B_ znamená bernardýn, _F_ foxteriér a _L_ značí leonbergra. Tyto všechny psy přivedl Bretschneider od Švejka na policejní ředitelství. Byly to ohyzdné obludy, které neměly toho nejmenšího společného s nějakou čistokrevnou rasou, za kterou je Švejk Bretschneidrovi vydával.
 
 Bernardýn byla směs z nečistokrevného pudla a nějakého po­uličního čokla, foxteriér měl uši jezevčíka a velikost řeznického psa se zakroucenýma nohama, jako by prodělal andělskou nemoc. Leonberger připomínal hlavou chlupatou tlamu stájového pinče, měl useknutý ohon, výšku jezevčíka a zadek holý jako proslulí psíci naháčkové američtí.
 

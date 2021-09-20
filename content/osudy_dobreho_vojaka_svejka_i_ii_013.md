@@ -36,16 +36,22 @@ Paní Müllerová se dala do pláče:
 
 A zatímco paní Müllerová, uplakaná a rozechvělá, cedila kávu, dobrý voják Švejk si zpíval na posteli:
 
-„Jenerál Windischgrätz a vojenští páni  
+  
+
+_„Jenerál Windischgrätz a vojenští páni  
 od východu slunce vojnu započali;  
 hop, hop, hop!  
 Vojnu započali, takto jsou zvolali:  
 Pomoz nám Kristus Pán s Panenkou Marií;  
-hop, hop, hop!“
+hop, hop, hop!“_
+
+  
 
 Uděšená paní Müllerová pod dojmem strašného válečného zpěvu zapomněla na kávu a třesouc se na celém těle uděšeně naslouchala, jak dobrý voják Švejk dál zpívá na posteli:
 
-„S Panenkou Marií a ty čtyry mosty,  
+  
+
+_„S Panenkou Marií a ty čtyry mosty,  
 postav si, Pimonte, silnější forposty;  
 hop, hop, hop!  
 Byla bitva, byla, tam u Solferina,  
@@ -56,13 +62,19 @@ vždyť se tam sekala vosumnáctá chasa;
 hop, hop, hop!  
 Vosumnáctá chaso, neboj se ty nouze,  
 vždyť za tebou vezou peníze na voze;  
-hop, hop, hop!“
+hop, hop, hop!“_
+
+  
 
 „Milostpane, proboha jich prosím,“ ozvalo se žalostivě z kuchyně, ale Švejk již končil svou válečnou píseň:
 
-„Peníze na voze a menáž v kočáře,  
+  
+
+_„Peníze na voze a menáž v kočáře,  
 kerejpak regiment tohlencto dokáže?  
-Hop, hop, hop!“
+Hop, hop, hop!“_
+
+  
 
 Paní Müllerová vyrazila ze dveří a běžela pro lékaře. Vrátila se za hodinu, zatímco Švejk si zdříml.
 
@@ -118,7 +130,11 @@ Když Švejk revírnímu inspektorovi ukázal, že to má černé na bílém, ž
 
 O celé této události objevil se v Pražských úředních novinách tento článek:
 
-Vlastenectví mrzáka. Včera dopoledne byli chodci na hlavních pražských třídách svědky scény, která krásně mluví o tom, že v této veliké a vážné době i synové našeho národa mohou dáti nejskvělejší příklady věrnosti a oddanosti k trůnu stařičkého mocnáře. Zdá se nám, že se vrátily doby starých Řeků a Římanů, kdy Mucius Scaevola dal se odvésti do boje, nedbaje své upálené ruky. Nejsvětější city a zájmy byly včera krásně demonstrovány mrzákem o berlích, kterého stará matička vezla na vozíku pro nemocné. Tento syn českého národa dobrovolně, nedbaje své neduživosti, dal se odvésti na vojnu, aby dal svůj život i statky za svého císaře. A jestli jeho volání „Na Bělehrad!“ mělo tak živý ohlas v pražských ulicích, jest to jen svědectvím, že Pražané skýtají vzorné příklady lásky k vlasti a k panovnickému domu.
+  
+
+_Vlastenectví mrzáka._ Včera dopoledne byli chodci na hlavních pražských třídách svědky scény, která krásně mluví o tom, že v této veliké a vážné době i synové našeho národa mohou dáti nejskvělejší příklady věrnosti a oddanosti k trůnu stařičkého mocnáře. Zdá se nám, že se vrátily doby starých Řeků a Římanů, kdy Mucius Scaevola dal se odvésti do boje, nedbaje své upálené ruky. Nejsvětější city a zájmy byly včera krásně demonstrovány mrzákem o berlích, kterého stará matička vezla na vozíku pro nemocné. Tento syn českého národa dobrovolně, nedbaje své neduživosti, dal se odvésti na vojnu, aby dal svůj život i statky za svého císaře. A jestli jeho volání „Na Bělehrad!“ mělo tak živý ohlas v pražských ulicích, jest to jen svědectvím, že Pražané skýtají vzorné příklady lásky k vlasti a k panovnickému domu.
+
+  
 
 Ve stejném smyslu psal i Prager Tagblatt, který končil svůj článek slovy, že mrzáka dobrovolce vyprovázel zástup Němců, kteří ho svými těly chránili před lynčováním ze strany českých agentů známé Dohody.
 

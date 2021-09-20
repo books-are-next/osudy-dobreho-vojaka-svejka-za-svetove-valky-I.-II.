@@ -44,17 +44,25 @@ Nato ho lékaři požádali, aby si sedl na židli, a jeden ho klepal do kolena
 
 A Švejk spustil:
 
-„Což ten mladý mnich v tom křesle  
+  
+
+_„Což ten mladý mnich v tom křesle  
 čelo v ruku pravou kloní,  
 dvě hořké, žhavé slzy  
-po bledých lících se roní…
+po bledých lících se roní…_
+
+  
 
 Dál to neumím,“ pokračoval Švejk. „Jestli chcete, tak vám zazpívám:
 
-Jak je mi teskno okolo srdce,  
+  
+
+_Jak je mi teskno okolo srdce,  
 co těžce, bolně zdvíhá ňadra má,  
 když tiše sedím, do dálky hledím,  
-tam, tam do dálky touha má…
+tam, tam do dálky touha má…_
+
+  
 
 A také to dál neumím,“ vzdychl Švejk. „Znám ještě první sloku z ‚Kde domov můj‘ a potom ‚Jenerál Windischgrätz a vojenští páni od východu slunce vojnu započali‘ a ještě pár takových národních písniček jako ‚Zachovej nám, Hospodine‘ a ‚Když jsme táhli k Jaroměři‘ a ‚Tisíckrát pozdravujeme Tebe‘…“
 

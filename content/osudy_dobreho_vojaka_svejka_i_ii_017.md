@@ -32,10 +32,12 @@ Potom o něm psali jako o mučedníkovi, zatímco naše aeroplány připravova
 
 Měli jsme z toho nehoráznou švandu a na provizorním kříži, kde pochovali zbytky po polním kurátovi, objevil se přes noc tento hřbitovní nápis:
 
-Co stihnout může nás, to stihlo také tebe.  
+  
+
+_Co stihnout může nás, to stihlo také tebe.  
 Tys nebe sliboval nám, brachu, jistě.  
 Pak na tebe to spadlo při mši svaté z nebe.  
-Flek po tobě jen zůstal na tom místě.
+Flek po tobě jen zůstal na tom místě._
 
 ## 2
 
@@ -101,9 +103,11 @@ Jestli farář tvrdil, že polní oltář nepatří do pohovky, polní kurát se
 
 Nakonec šli do sakristie kostela a farář vydal polní oltář pod touto zápiskou:
 
-Přijal jsem polní oltář, který se náhodou dostal do chrámu ve Vršovicích.
+  
 
-Polní kurát Otto Katz
+_Přijal jsem polní oltář, který se náhodou dostal do chrámu ve Vršovicích._
+
+_Polní kurát Otto Katz_
 
 Slavný polní oltář byl od jedné židovské firmy, Moritz Mahler ve Vídni, která vyráběla všemožné mešní potřeby a předměty náboženské, jako růžence a obrázky svatých.
 

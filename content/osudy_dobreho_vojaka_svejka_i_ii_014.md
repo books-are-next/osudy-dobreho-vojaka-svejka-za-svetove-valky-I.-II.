@@ -174,17 +174,25 @@ Baronka zatím vytahovala dárky z koše. Tucet pečených kuřat, zabalených 
 
 Potom vytáhla z koše tři láhve vína pro rekonvalescenty a dvě krabice cigaret. Vše elegantně rozložila na prázdnou postel vedle Švejka, kam přibyla ještě pěkně vázaná kniha Příběhy ze života našeho mocnáře, kterou napsal nynější zasloužilý šéfredaktor naší úřední Československé republiky, který se ve starém Frantíkovi viděl. Potom se octly na posteli balíčky čokolády s tímž nápisem „Gott strafe England!“ a opět s podobiznami rakouského i německého císaře. Na čokoládě už si nedrželi ruce a každý se udělal pro sebe a ukazovali na sebe záda. Pěkný byl dvouřadový kartáček na zuby s nápisem „Viribus unitis“, aby každý, kdo si čistí zuby, vzpomínal na Rakousko. Elegantním a velice vhodným dárečkem do fronty a do zákopů byla souprava na čištění nehtů. Na krabici byl obrázek, jak praská šrapnel a nějaký člověk v šišáku se žene s bodákem kupředu. Pod tím: „Für Gott, Kaiser und Vaterland!“ Bez obrázku byl balík sušenek, zato byl tam verš:
 
-Österreich, du edles Haus,  
+  
+
+_Österreich, du edles Haus,  
 steck deine Fahne aus,  
 laß sie im Winde weh’n,  
-Österreich muß ewig stehn!
+Österreich muß ewig stehn!_
+
+  
 
 s českým překladem umístěným na druhé straně:
 
-Rakousko, vznešený dům,  
+  
+
+_Rakousko, vznešený dům,  
 vystrč prapor svůj,  
 nech ho ve větrech vlát,  
-Rakousko věčně musí stát!
+Rakousko věčně musí stát!_
+
+  
 
 Posledním dárkem byl bílý hyacint v kořenáči.
 
@@ -268,10 +276,14 @@ Vojenští páni podívali se na sebe a zavolali šikovatele.
 
 Švejk odcházel s šikovatelem do kanceláře a po cestě přes nádvoří bručel si:
 
-„Vždycky jsem si myslel,  
+  
+
+_„Vždycky jsem si myslel,  
 že je vojna špás,  
 že tam budu tejden nebo dvě neděle,  
-přijdu domů zas…“
+přijdu domů zas…“_
+
+  
 
 A zatímco na Švejka řval v kanceláři důstojník mající službu, že takoví chlapi, jako je Švejk, se mají střílet, komise nahoře v nemocničních pokojích pobíjela simulanty. Ze sedmdesáti pacientů zachránili se jen dva. Jeden, který měl uraženou nohu granátem, a druhý s opravdovým kostižerem.
 
