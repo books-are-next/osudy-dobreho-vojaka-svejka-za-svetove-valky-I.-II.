@@ -1,0 +1,21 @@
+baseURL = ""
+relativeurls = true
+uglyurls = true
+disableKinds = ["taxonomyTerm", "taxonomy"]
+
+publishDir = "./_temp"
+contentDir = "./content"
+staticDir = "./static"
+
+[markup.goldmark.renderer]
+unsafe = true
+
+
+
+
+[outputFormats.meta]
+mediaType = "application/json"
+baseName = "_book"
+isPlainText = true
+notAlternative = true
+
