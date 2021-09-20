@@ -70,9 +70,9 @@ Já byl tenkrát právě u brigády, abych si dal potvrdit kompanieverpflegungs
 
 „Nyní máme zimu již za sebou,“ prohodil významně nadporučík.
 
-„Rum je, pane obrlajtnant, v poli nezbytnou věcí v jakékoliv roční době, stejně jako víno. Působí, abych tak řekl, dobrou náladu. Za půl esšálku vína a čtvrt litru rumu budou se vám lidi prát s každým… Který dobytek to zas klepá na dveře, cožpak nečte na dveřích Nicht klopfen!? Herein!“
+„Rum je, pane obrlajtnant, v poli nezbytnou věcí v jakékoliv roční době, stejně jako víno. Působí, abych tak řekl, dobrou náladu. Za půl esšálku vína a čtvrt litru rumu budou se vám lidi prát s každým… Který dobytek to zas klepá na dveře, cožpak nečte na dveřích _Nicht klopfen_!? Herein!“
 
-Nadporučík Lukáš otočil se na židli ke dveřím a zpozoroval, že se dveře pomalu a tiše otvírají. A stejně tak tiše vstoupil do kanceláře 11. marškumpanie dobrý voják Švejk, salutuje již ve dveřích a patrně již tenkrát, když klepal na dveře, dívaje se na nápis Nicht klopfen.
+Nadporučík Lukáš otočil se na židli ke dveřím a zpozoroval, že se dveře pomalu a tiše otvírají. A stejně tak tiše vstoupil do kanceláře 11. marškumpanie dobrý voják Švejk, salutuje již ve dveřích a patrně již tenkrát, když klepal na dveře, dívaje se na nápis _Nicht klopfen_.
 
 Jeho salutování bylo plnozvučným doprovodem k jeho neskonale spokojené, bezstarostné tváři. Vypadal jako řecký bůh zlodějství ve střízlivé uniformě rakouského infanteráka.
 
@@ -148,21 +148,29 @@ To když byly ty obrázky sv. Pelegrina vytištěny, tak ještě na druhou stra
 
 Pan Tauchen se celou noc potil a přišel ráno celý nevyspalý votvírat krám a neměl nic sepsanýho. Dokonce zapomněl, jak se ten svatej do toho koření pro krávy jmenuje. Tak ho vytrh z bídy náš sluha Ferdinand. Ten uměl všechno. Když jsme sušili na půdě heřmánkový thé, tak si tam vždycky vlez, zul si boty a naučil nás, že se přestanou nohy potit. Chytal holuby na půdě, uměl votvírat pult s penězma a ještě nás učil jinejm melouchům se zbožím. Já jako kluk jsem měl doma takovou lékárnu, kterou jsem si přines z krámu domů, že ji neměli ani u milosrdnejch. A ten pomoh panu Tauchenovi, jen řek: ‚Tak to sem dají, pane Tauchen, ať se na to kouknu,‘ hned mu poslal pan Tauchen pro pivo. A než jsem pivo přines, tak už náš sluha Ferdinand byl s tím napolovic hotov a už předčítal:
 
-‚Z nebes říše přicházím,  
+  
+
+_‚Z nebes říše přicházím,  
 blahou pověst přináším.  
 Kráva, tele, každý vůl  
 potřebuje jako sůl  
 Kokoškovo koření,  
-jež ho zbaví trápení…‘
+jež ho zbaví trápení…‘_
+
+  
 
 Potom, když vypil pivo a pořádně si lízl tinktury amáry, šlo mu to rychle a dokončil to ve vokamžiku moc hezky:
 
-‚Vynašel to Pelegrinus svatý,  
+  
+
+_‚Vynašel to Pelegrinus svatý,  
 jeden balík za dva zlatý.  
 Svatý Pelegrine, chraň nám naše stádo,  
 které tvé koření vždycky pije rádo.  
 Vděčný hospodář tě chvalozpěvem slaví,  
-svatý Pelegrine, chraň nám naše krávy…‘
+svatý Pelegrine, chraň nám naše krávy…‘_
+
+  
 
 Potom, když přišel pan Kokoška, pan Tauchen šel s ním do komptoáru, a když vyšel ven, ukazoval nám dva zlatníky, ne jeden, jak měl slíbeno, a chtěl se s panem Ferdinandem rozdělit napolovic. Ale sluhu Ferdinanda, když viděl ty dva zlatníky, chyt najednou mamon. Že prej ne, buď všechno, anebo nic. Tak tedy pan Tauchen mu nedal nic a nechal si ty dvě zlatky pro sebe, vzal mě vedle do magacínu, dal mně pohlavek a řek, že dostanu takových pohlavků sto, když se někde vopovážím říct, že on to nesestavoval a nespisoval, i kdyby si šel Ferdinand stěžovat k našemu starýmu, že musím říct, že sluha Ferdinand je lhář. Musel jsem mu to vodpřísáhnout před nějakým plucarem s estragonovým voctem.
 
@@ -277,6 +285,8 @@ Pauza. Nové zvonění, Švejk bere sluchátko a je zasypán spoustou nadávek:
 „Hned budu s deseti maníkama u magacínu,“ ozval se od baráku četař Fuchs, a Švejk nepromluviv již ani slova odcházel ze skupiny šarží, které byly stejně překvapeny jako četař Fuchs.
 
 „Už to začíná,“ řekl malý desátník Blažek, „budeme pakovat.“
+
+  
 
 Když se Švejk vrátil do kanceláře 11. marškumpačky, neměl opět času zapálit si dýmku, neboť ozval se opět telefon. Se Švejkem mluvil poznovu nadporučík Lukáš:
 
@@ -544,9 +554,13 @@ Lukáš podíval se na něho. V tom okamžiku mu připadal jako velké dítě, 
 
 Nadporučík Lukáš sedl si ke stolu a byl v takové náladě, že začal psát sentimentální psaní své tetičce.
 
-Milá tetičko!
+  
 
-Právě jsem dostal rozkaz, abych byl připraven se svou marškumpanií k odjezdu na front. Může být, že toto psaní jest poslední, které ode mne dostaneš, neboť jsou všude kruté boje a naše ztráty jsou veliké. Proto jest mně těžké ukončit tento dopis slovem „Na shledanou!“ Spíše se hodí poslat Ti poslední sbohem!
+_Milá tetičko!_
+
+_Právě jsem dostal rozkaz, abych byl připraven se svou marškumpanií k odjezdu na front. Může být, že toto psaní jest poslední, které ode mne dostaneš, neboť jsou všude kruté boje a naše ztráty jsou veliké. Proto jest mně těžké ukončit tento dopis slovem „Na shledanou!“ Spíše se hodí poslat Ti poslední sbohem!_
+
+  
 
 „To ostatní dopíšu až ráno,“ pomyslil si nadporučík Lukáš a šel si lehnout.
 
@@ -564,19 +578,29 @@ A při vzpomínce na to, jak u sousedů jednou praskl celý špekbuřt a rozv
 
 Zdálo se mu, že si pozval nějakého nešiku řezníka a tomu že při nabíjení jitrnic praskají jitrnicová střívka. Potom zas, že řezník zapomněl udělat jelita, že se ztratil ovar a že se nedostává špejlů na jitrnice. Potom se mu zdálo něco o polním soudu, poněvadž ho chytli, když tahal z polní kuchyně kus masa. Nakonec viděl sám sebe, že visí na jedné lípě v aleji vojenského tábora v Brucku nad Litavou.
 
+  
+
 Když se Švejk probudil s probouzejícím se jitrem, které přišlo ve vůni vařených kávových konzerv ze všech rotných kuchyní, mechanicky, jako by právě skončil telefonní rozhovor, pověsil sluchátko a podnikl po kanceláři malou ranní procházku, přičemž si zpíval.
 
 Začal hned zprostředka textu písně, jak voják se převleče za holku a jde za svou milou do mlýna, kde ho položí mlynář k dceři, ale předtím volá na mlynářku:
 
-„Panímámo, dej večeři,  
-ať ta holka povečeří.“
+  
+
+_„Panímámo, dej večeři,  
+ať ta holka povečeří.“_
+
+  
 
 Mlynářka nakrmí podlého chlapa. A potom rodinná tragédie:
 
-„Mlynářovic ráno vstali,  
+  
+
+_„Mlynářovic ráno vstali,  
 na dveřích napsáno měli:  
 ‚Vaše dcera Anna Nána  
-už není poctivá panna.‘“
+už není poctivá panna.‘“_
+
+  
 
 Švejk vložil do konce písně tolik hlasu, že kancelář ožila, neboť se probudil účetní šikovatel Vaněk a tázal se, kolik je hodin.
 
@@ -696,6 +720,8 @@ Vaněk, srkaje černou kávu, do které si přilil rum z láhve s nápisem ‚
 
 „My jsme jedna ruka,“ odpověděl Švejk. „Jedna ruka druhou myje. My už jsme spolu moc toho prodělali. Kolikrát už nás chtěli vod sebe roztrhnout, ale zas jsme se sešli. Von se vždy na mě spoleh se vším, až se tomu kolikrát sám divím. Taky jste teď jistě slyšel, abych vám připomněl ještě jednou, že mu máte najít nějakýho novýho pucfleka a já že si ho musím prohlídnout a dát vo něm dobrozdání. Von pan obrlajtnant s každým pucflekem není spokojenej.“
 
+  
+
 Plukovník Schröder, když si na konferenci zavolal všechny důstojníky pochodového praporu, učinil tak opět s velkou láskou, aby se mohl vymluvit. Kromě toho bylo nutno učinit nějaké rozhodnutí v aféře jednoročního dobrovolníka Marka, který nechtěl čistit záchody a byl pro vzpouru poslán plukovníkem Schrödrem k divizijnímu soudu.
 
 Od divizijního soudu přibyl právě včera v noci na hauptvachu, kde byl držen pod stráží. Současně s ním dodán byl do plukovní kanceláře přípis divizijního soudu, nesmírně zmatený, ve kterém se poukazuje na to, že v tomto případě nejde o vzpouru, poněvadž jednoroční dobrovolníci nemají čistit záchody, nicméně že však jde o superordinationsverletzung, kterýžto delikt může být prominut řádným chováním v poli. Z těchto důvodů že se obžalovaný jednoroční dobrovolník Marek posílá zpět k svému pluku a vyšetřování o porušení kázně zastavuje se až do konce války a že bude obnoveno při nejbližším přestupku, který spáchá jednoroční dobrovolník Marek.
@@ -732,6 +758,8 @@ A tak zůstali dál jednoroční dobrovolník i Teveles pod stráží na haupt
 
 Potom tam ještě k nim strčili frajtra Peroutku od 13. marškumpanie, který, když se včera rozšířila pověst po lágru, že se jede na pozici, se ztratil a byl ráno patrolou objeven u Bílé růže v Brucku. Vymlouval se, že chtěl před odjezdem prohlédnout známý skleník hraběte Harracha u Brucku a na zpáteční cestě že zabloudil, a teprve ráno celý unavený že dorazil k Bílé růži. (Zatím spal s Růženkou od Bílé růže.)
 
+  
+
 Situace byla stále nevyjasněnou. Pojede se, nebo se nepojede. Švejk u telefonu v kanceláři 11. maršky vyslechl nejrůznější názory, pesimistické i optimistické. 12. marškumpanie telefonovala, že prý někdo z kanceláře slyšel, že se bude čekat až na cvičení ve střelbě s pohyblivými figurami a že se pojede až po feldmäßigschießübungách. Tento optimistický názor nesdílela 13. marškumpačka, která telefonovala, že právě se vrátil kaprál Havlík z města a slyšel od jednoho železničního zřízence, že už vozy jsou na stanici.
 
 Vaněk vytrhl Švejkovi sluchátko z ruky a křičel rozčileně, že ajznboňáci vědí starého kozla, teď že byl právě v plukovní kanceláři.
@@ -752,14 +780,18 @@ Potom zas zpožděný telefonogram o konzervách, což bylo již včera večer 
 
 Pak telefonogram po všech bataliónech, kumpaniích a částech pluku:
 
-Kopie telefonogramů brigády No 75692
+  
 
-Příkaz brigádě čís. 172
+_Kopie telefonogramů brigády No 75692_
 
-Při výkazech o hospodářství polních kuchyní sleduje tento pořádek při vyjmenování produktů spotřebovaných: 1. maso, 2. konzervy, 3. zelenina čerstvá, 4. sušená zelenina, 5. rýže, 6. makaróny, 7. kroupy a krupice, 8. brambory,
+_Příkaz brigádě čís. 172_
 
-místo dřívějšího:  
-4. sušená zelenina, 5. čerstvá zelenina.
+_Při výkazech o hospodářství polních kuchyní sleduje tento pořádek při vyjmenování produktů spotřebovaných: 1. maso, 2. konzervy, 3. zelenina čerstvá, 4. sušená zelenina, 5. rýže, 6. makaróny, 7. kroupy a krupice, 8. brambory,_
+
+_místo dřívějšího:  
+4. sušená zelenina, 5. čerstvá zelenina._
+
+  
 
 Když to přečetl Švejk účetnímu šikovateli, prohlásil Vaněk slavnostně, že takové telefonogramy se házejí do latríny:
 
@@ -767,7 +799,11 @@ Když to přečetl Švejk účetnímu šikovateli, prohlásil Vaněk slavnostně
 
 Potom přijal Švejk ještě jeden telefonogram, který byl tak rychle diktován, že Švejk z toho zachytil na blok jen to, co vypadalo jako šifra:
 
-In der Folge genauer erlaubt gewesen oder das selbst einem hingegen immerhin eingeholet werden.
+  
+
+_In der Folge genauer erlaubt gewesen oder das selbst einem hingegen immerhin eingeholet werden._
+
+  
 
 „To jsou všechno zbytečnosti,“ řekl Vaněk, když se Švejk nehorázně divil, co napsal, a třikrát za sebou si to hlasitě předčítal, „samé hlouposti, ačkoliv čertví, může to být také šifrováno, ale na to nejsme u nás u kumpanie zařízeni. To se může také zahodit.“
 
@@ -811,6 +847,8 @@ A telefon opět odnášel si záchvěvy nového nervového života, kdy stará 
 
 V tu dobu nadporučík Lukáš studoval ve své komnatě právě doručené jemu od štábu pluku šifry s poučením, jak je luštit, a současně sekretní šifrovaný rozkaz o směru, kterým se bude ubírat maršbatalión na haličské hranice (první etapa).
 
+  
+
 7217 – 1238 – 457 – 2121 – 35 = Mošon
 
 8922 – 375 – 7282 = Ráb
@@ -818,6 +856,8 @@ V tu dobu nadporučík Lukáš studoval ve své komnatě právě doručené jem
 4432 – 1238 – 7217 – 35 – 8922 – 35 = Komarn
 
 7282 – 9299 – 310 – 375 – 7881 – 298 – 475 – 7979 = Budapešť
+
+  
 
 Luště tyto šifry, povzdechl si nadporučík Lukáš:
 

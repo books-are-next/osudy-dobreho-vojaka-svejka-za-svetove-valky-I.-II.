@@ -174,9 +174,11 @@ Přísný pán psal něco na aktech, a podávaje Švejkovi péro, vyzval ho, ab
 
 A Švejk podepsal udání Bretschneidrovo i tento dodatek:
 
-Vše výše ukázaná obvinění proti mně zakládají se na pravdě.
+  
 
-Josef Švejk
+_Vše výše ukázaná obvinění proti mně zakládají se na pravdě._
+
+_Josef Švejk_
 
 Když podepsal, obrátil se k přísnému pánovi:
 

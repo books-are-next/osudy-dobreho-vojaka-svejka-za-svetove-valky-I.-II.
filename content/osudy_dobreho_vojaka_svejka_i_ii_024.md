@@ -8,7 +8,7 @@ Nešlo o nic jiného než o maličkost, o počet zavazadel, která Švejk opa
 
 „Ukradli nám kufr,“ vytýkal nadporučík Švejkovi; „to se jen tak řekne, holomku!“
 
-„Poslušně hlásím, pane obrlajtnant,“ ozval se tiše Švejk, „dovopravdy ho ukradli. Na nádraží se vždycky potlouká moc takových šizuňků a já si to představuju tak, že jednomu z nich se nepochybně zamlouval váš kufr a ten člověk že nepochybně využitkoval toho, jak jsem vodešel vod zavazadel, abych vám vohlásil, že s našima zavazadlama je všechno v pořádku. Von moh ten náš kufr ukradnout právě jen v takovej příznivej okamžik. Po takovým okamžiku voni pasou. Před dvěma léty na Severozápadním nádraží ukradli jedné paničce kočárek i s holčičkou v peřinkách a byli tak šlechetní, že holčičku vodevzdali na policejní komisařství u nás v ulici, že prej ji našli pohozenou v průjezdě. Potom udělaly noviny z tý ubohý paní krkavčí matku.“ A Švejk důrazně prohlásil: „Na nádraží se kradlo vždycky a bude se krást dál. Jinak to nejde.“
+„Poslušně hlásím, pane obrlajtnant,“ ozval se tiše Švejk, „dovopravdy ho ukradli. Na nádraží se vždycky potlouká moc takových šizuňků a já si to představuju tak, že jednomu z nich se _nepochybně_ zamlouval váš kufr a ten člověk že _nepochybně_ využitkoval toho, jak jsem vodešel vod zavazadel, abych vám vohlásil, že s našima zavazadlama je všechno v pořádku. Von moh ten náš kufr ukradnout právě jen v takovej příznivej okamžik. Po takovým okamžiku voni pasou. Před dvěma léty na Severozápadním nádraží ukradli jedné paničce kočárek i s holčičkou v peřinkách a byli tak šlechetní, že holčičku vodevzdali na policejní komisařství u nás v ulici, že prej ji našli pohozenou v průjezdě. Potom udělaly noviny z tý ubohý paní krkavčí matku.“ A Švejk důrazně prohlásil: „Na nádraží se kradlo vždycky a bude se krást dál. Jinak to nejde.“
 
 „Já jsem přesvědčen, Švejku,“ ujal se slova nadporučík, „že to s vámi jednou prachšpatně skončí. Pořád ještě nevím, děláte-li ze sebe vola, nebo jste se už volem narodil. Co bylo v tom kufru?“
 
@@ -30,7 +30,7 @@ Vida hrozný posuněk nadporučíkův, pokračoval Švejk laskavým hlasem:
 
 „Poslušně hlásím, pane obrlajtnant, že to nevím,“ měkce řekl Švejk, „ještě jste se vo tom nezmiňoval.“
 
-Nadporučíkovi bezděčně zacvakaly zuby, vzdychl si, vytáhl z pláště Bohemii a četl zprávy o velkých vítězstvích, o činnosti německé ponorky E na Středozemním moři, a když přišel na zprávu o novém německém vynálezu na vyhazování měst do povětří pomocí zvláštních bomb vrhaných z letadel, které vybuchují třikrát za sebou, byl vyrušen hlasem Švejka, který promluvil na holohlavého pána:
+Nadporučíkovi bezděčně zacvakaly zuby, vzdychl si, vytáhl z pláště Bohemii a četl zprávy o velkých vítězstvích, o činnosti německé ponorky _E_ na Středozemním moři, a když přišel na zprávu o novém německém vynálezu na vyhazování měst do povětří pomocí zvláštních bomb vrhaných z letadel, které vybuchují třikrát za sebou, byl vyrušen hlasem Švejka, který promluvil na holohlavého pána:
 
 „Dovolte, vašnosti, neráčíte být pan Purkrábek, zástupce banky Slávie?“
 
@@ -186,6 +186,8 @@ Když se vlak hnul, vyhlédl nadporučík Lukáš z okna a viděl na peróně 
 
 Nadporučík Lukáš si povzdechl. Nebyl to povzdech lítosti. Bylo mu lehce u srdce, že Švejk zůstal na peróně. Dokonce i ten plešatý generálmajor nezdál se mu být takovou protivnou obludou.
 
+  
+
 Vlak již dávno supěl k Českým Budějovicím, ale na peróně nádraží lidí kolem Švejka neubývalo.
 
 Švejk mluvil o své nevině a přesvědčil zástup tak, že se vyjádřila jedna paní:
@@ -280,9 +282,13 @@ Takovými plakáty, jejichž text, s vymyšlenými vzácnými vzory, v kancel�
 
 Zatímco šikovatel šel shánět nějakého důstojníka, Švejk si přečetl na plakátu:
 
-VOZATAJEC JOSEF BONG
+  
+
+**VOZATAJEC JOSEF BONG**
 
 Vojáci zdravotního sboru dopravovali těžce raněné k vozům, připraveným v kryté úžlabině. Jakmile byl plný, odjelo se s ním na obvaziště. Rusové, vypátravše tyto vozy, počali je obstřelovati granáty. Kůň vozatajce Josefa Bonga od c. a k. 3. vozatajské švadrony byl usmrcen střepinou granátu. Bong bědoval: „Ubohý můj bělouši, je veta po tobě!“ Vtom sám zasažen byl kusem granátu. Přesto vypřáhnul svého koně a odtáhl trojspřeží za bezpečný úkryt. Nato se vrátil pro postroj svého usmrceného koně. Rusové stříleli stále. „Jen si střílejte, zpropadení zuřivci, já postroj tady nenechám!“ a snímal dál postroj z koně, bruče si ona slova. Konečně byl hotov a vláčel se s postrojem zpět k vozu. Zde mu bylo vyslechnouti hromobití od zdravotních vojínů pro jeho dlouhou nepřítomnost. „Nechtěl jsem tam nechat postroj, je skoro nový. Bylo by ho škoda, pomyslil jsem si. Nemáme nazbyt takových věcí,“ omlouval se statečný vojín, odjížděje k obvazišti, kde se teprve hlásil jako raněný. Jeho rytmistr ozdobil později prsa jeho stříbrnou medailí za statečnost.
+
+  
 
 Když Švejk dočetl a šikovatel se ještě nevracel, řekl k landverákům na strážnici:
 
@@ -368,15 +374,23 @@ A za půl hodiny, když Švejka napojili ještě černou kávou a dali mu krom
 
 Zpíval si starou vojenskou píseň:
 
-„Když jsme táhli k Jaroměři,  
-ať si nám to kdo chce věří…“
+  
+
+_„Když jsme táhli k Jaroměři,  
+ať si nám to kdo chce věří…“_
+
+  
 
 A čertví jak se to stalo, že dobrý voják Švejk místo na jih k Budějovicům šel pořád rovně na západ.
 
 Šel sněhy silnice, ve mraze, zahalen v svůj vojenský plášť, jako poslední z gardy Napoleonovy vracející se z výpravy na Moskvu, s tím toliko rozdílem, že si zpíval vesele:
 
-„Já jsem si vyšel na špacír  
-do háje zelenýho.“
+  
+
+_„Já jsem si vyšel na špacír  
+do háje zelenýho.“_
+
+  
 
 A v zasněžených lesích v nočním tichu hučelo to ozvěnou, až se po vesnicích rozštěkali psi.
 

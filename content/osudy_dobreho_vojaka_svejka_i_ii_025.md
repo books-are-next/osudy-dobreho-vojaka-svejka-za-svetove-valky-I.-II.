@@ -12,8 +12,12 @@ Stejně vedou také všechny cesty do Českých Budějovic. O čemž byl plnou 
 
 A tak Švejk se objevil na západ od Milevska v Květově, když již vystřídal všechny vojenské písně, které znal o mašírování vojáků, takže byl nucen začít znova před Květovem s písní:
 
-„Když jsme mašírovali,  
-všechny holky plakaly…“
+  
+
+_„Když jsme mašírovali,  
+všechny holky plakaly…“_
+
+  
 
 Nějaká stará babička, která vracela se z kostela, zavedla na cestě od Květova do Vráže, což je neustále západním směrem, řeč se Švejkem křesťanským pozdravem:
 
@@ -267,7 +271,7 @@ Strážmistr pokynul závodčímu, a když oba vyšli do vedlejší komnaty, st
 
 „Slyšeli to? Neumí rusky! Chlap všemi mastmi mazaná! Všechno přiznal, až to nejdůležitější nepřiznal. Zítra ho budeme lifrovat do Písku, k panu okresnímu. Kriminalistika záleží na chytrosti a vlídnosti. Viděli to, jak jsem ho utopil přívalem otázek. Kdo by si to byl o něm myslel. Vypadá tak pitomě a hloupě, ale na takové lidi se právě musí zchytra. Teď ho někam usaďte a já půjdu sepsat o tom protokol.“
 
-A ještě odpůldne kvečeru četnický strážmistr sepisoval s líbezným úsměvem protokol, v němž v každé větě objevovalo se slovo spionageverdächtig.
+A ještě odpůldne kvečeru četnický strážmistr sepisoval s líbezným úsměvem protokol, v němž v každé větě objevovalo se slovo _spionageverdächtig_.
 
 Četnickému strážmistrovi Flanderkovi se situace, čím déle psal tou podivnou úřední němčinou, vyjasňovala, a když skončil: „So melde ich gehorsam, wird der feindliche Offizier heutigen Tages, nach Bezirksgendarmeriekommando Písek, überliefert,“ usmál se na své dílo a zavolal na četnického závodčího:
 
@@ -349,11 +353,11 @@ Instrukce pro placené informátory z místního obyvatelstva, začíslené na 
 
 Každý den přinášel nové instrukce, návody, dotazníky a nařízení. Zaplaven tou spoustou vynálezů rakouského ministerstva vnitra, strážmistr Flanderka měl ohromnou spoustu restů a dotazníky zodpovídal stereotypně, že je u něho všechno v pořádku a loajalita že je mezi místním obyvatelstvem stupnice I.a.
 
-Rakouské ministerstvo vnitra vynalezlo pro loajalitu a neochvějnost k mocnářství tyto stupnice: I.a, I.b, I.c – II.a, II.b, II.c – III.a, III.b, III.c – IV.a, IV.b, IV.c. Tahle poslední římská čtverka znamenala ve spojení s a velezrádce a provaz, s b internovat, s c pozorovat a zavřít.
+Rakouské ministerstvo vnitra vynalezlo pro loajalitu a neochvějnost k mocnářství tyto stupnice: I.a, I.b, I.c – II.a, II.b, II.c – III.a, III.b, III.c – IV.a, IV.b, IV.c. Tahle poslední římská čtverka znamenala ve spojení s _a_ velezrádce a provaz, s _b_ internovat, s _c_ pozorovat a zavřít.
 
 Ve stolku četnického strážmistra nalézaly se všemožné tiskopisy a rejstříky. Vláda chtěla vědět o každém občanu, co si o ní myslí.
 
-Strážmistr Flanderka kolikrát zoufale lomil rukama nad těmi tiskovinami, které neúprosně přibývaly každou poštou. Jakmile uviděl známé obálky s razítkem „Portofrei – dienstlich“, srdce mu vždy zabušilo a v noci, přemýšleje o všem, přicházel k přesvědčení, že se konce války nedočká, že zemské četnické velitelství ho připraví o poslední špetku rozumu a že se nebude moci těšit z vítězství rakouských zbraní, poněvadž bude mít buď o kolečko víc, nebo míň. A okresní četnické velitelství bombardovalo ho denně dotazy, proč není zodpověděn dotazník pod číslem 72345/721af d, jak vyřízena instrukce pod číslem 88992/822gfeh z, jaké jsou praktické výsledky návodu pod číslem 123456/1292br V. atd.
+Strážmistr Flanderka kolikrát zoufale lomil rukama nad těmi tiskovinami, které neúprosně přibývaly každou poštou. Jakmile uviděl známé obálky s razítkem „Portofrei – dienstlich“, srdce mu vždy zabušilo a v noci, přemýšleje o všem, přicházel k přesvědčení, že se konce války nedočká, že zemské četnické velitelství ho připraví o poslední špetku rozumu a že se nebude moci těšit z vítězství rakouských zbraní, poněvadž bude mít buď o kolečko víc, nebo míň. A okresní četnické velitelství bombardovalo ho denně dotazy, proč není zodpověděn dotazník pod číslem 72345/721af _d_, jak vyřízena instrukce pod číslem 88992/822gfeh _z_, jaké jsou praktické výsledky návodu pod číslem 123456/1292br _V_. atd.
 
 Nejvíce mu dala starostí instrukce, jak získati z místního obyvatelstva placené donášeče a informátory. Nakonec, poněvadž uznal za nemožné, aby to mohl být někdo z místa, kde začínají Blata a kde je ten lid taková tvrdá palice, připadl na myšlenku vzít na tu službu obecního pasáka, kterému říkali „Pepku, vyskoč!“. Byl to kretén, který vždy na tuto výzvu vyskočil. Jedna z těch ubohých, přírodou a lidmi zanedbaných postav, mrzák, který za pár zlatek ročně a za tu nějakou obživu pásl obecní dobytek.
 
@@ -475,7 +479,7 @@ Závodčí se tak rozčílil, že vstal a zvolal:
 
 „Vono to má háček,“ ozval se Švejk, „jestli je člověk chytrej, tak mu nikdy nic nedokážou.“
 
-„A dokážou,“ vyjádřil se důrazně strážmistr, „jestli i oni jsou tak chytří a mají svou metodu. Vy se sám o tom přesvědčíte. – Přesvědčíte se,“ opakoval již mírným tónem, připojiv k tomu přívětivý úsměv, „u nás nikdo s vytáčkami nepochodí, pravda, pane závodčí?“
+„A dokážou,“ vyjádřil se důrazně strážmistr, „jestli i oni jsou tak chytří a mají _svou metodu_. Vy se sám o tom přesvědčíte. – Přesvědčíte se,“ opakoval již mírným tónem, připojiv k tomu přívětivý úsměv, „u nás nikdo s vytáčkami nepochodí, pravda, pane závodčí?“
 
 Závodčí kývl souhlasně a zmínil se, že u některých lidí je věc již prohraná předem, že ani maska naprostého klidu nepomůže, že čím víc někdo vypadá klidněji, že tím víc ho to usvědčuje.
 
@@ -755,7 +759,7 @@ Od vypuknutí války visely nad četnickými stanicemi v píseckém okresu tě�
 
 Byla to pravá strašidelná nálada. Hromy byrokratismu hřměly a bily do četnických strážmistrů, závodčích, mužstva, zřízenců. Pro každou pitomost disciplinární vyšetřování.
 
-„Chceme-li vyhrát válku,“ říkal na svých inspekcích po četnických stanicích, „musí a být a, b – b, všude musí být tečka na i.“
+„Chceme-li vyhrát válku,“ říkal na svých inspekcích po četnických stanicích, „musí _a_ být _a_, _b_ – _b_, všude musí být tečka na _i_.“
 
 Cítil se obklopen zradou a utvořil si přesný dojem, že každý četník na okrese má nějaké hříchy vyplývající z války, že každý má za sebou v té vážné době nějaké opomenutí ve službě.
 
@@ -767,7 +771,7 @@ A honili jej pátrat po loajalitě v okresu. Vypadalo to strašidelně. Ženy 
 
 Pak jel jeden maršový batalión a několik píseckých židů řvalo „Heil, nieder mit den Serben!“ a dostalo takových pěkných pár facek, že týden se nemohli ukázat na ulici.
 
-A mezitímco se dály tyto epizody, které jasně ukazovaly, že když po kostelích na varhany hrají „Zachovej nám, Hospodine“, že je to jenom chatrné pozlátko a všeobecná přetvářka, z četnických stanic přicházely ty známé odpovědi na dotazníky à la Putim, že je všechno v nejlepším pořádku, agitace že se nikde nevede proti válce, smýšlení obyvatelstva římská jednička a, nadšení římská jednička a–b.
+A mezitímco se dály tyto epizody, které jasně ukazovaly, že když po kostelích na varhany hrají „Zachovej nám, Hospodine“, že je to jenom chatrné pozlátko a všeobecná přetvářka, z četnických stanic přicházely ty známé odpovědi na dotazníky à la Putim, že je všechno v nejlepším pořádku, agitace že se nikde nevede proti válce, smýšlení obyvatelstva římská jednička _a_, nadšení římská jednička _a_–_b_.
 
 „Vy nejste četníci, ale obecní policajti,“ říkával na svých obchůzkách, „místo toho, abyste zbystřili svou pozornost o tisíc procent, stává se z vás pomalu dobytek.“
 
@@ -780,6 +784,8 @@ Následoval pak vždy výpočet všech povinností nešťastných četníků, p�
 Rytmistr byl pevně přesvědčen, že stojí zde na stráži, že něco zachraňuje a že všichni ti četníci z četnických stanic, které jsou pod ním, že je to líná sběř, egoisté, podlci, podvodníci, kteří vůbec ničemu jinému nerozumí nežli kořalce, pivu a vínu. A poněvadž mají nepatrné příjmy, že se, aby mohli chlastat, dají podplácet a rozbíjejí pomalu, ale jistě Rakousko. Jediný člověk, kterému důvěřoval, byl jeho vlastní strážmistr na okresním velitelství, který však vždycky v hospodě říkal:
 
 „Tak jsem vám zas měl dneska srandu z našeho starýho mrťafy…“
+
+  
 
 Rytmistr studoval bericht četnického strážmistra z Putimě o Švejkovi. Před ním stál jeho četnický strážmistr Matějka a myslel si, aby mu rytmistr vlezl na záda i se všemi berichty, poněvadž dole u Otavy čekají na něho s partií šnopsa.
 
@@ -797,11 +803,11 @@ Rytmistr pohlédl na Švejka a uviděl v jeho klidné tváři tolik bezstarost
 
 „Jak jste přišel k uniformě?“
 
-„Každej voják, když narukuje, dostane uniformu,“ odpověděl Švejk s mírným úsměvem, „já sloužím u 91. regimentu, a nejenže jsem od svýho regimentu neutek, nýbrž naopak.“
+„Každej voják, když narukuje, dostane uniformu,“ odpověděl Švejk s mírným úsměvem, „já sloužím u 91. regimentu, a nejenže jsem od svýho regimentu neutek, nýbrž _naopak_.“
 
 Slovo naopak provázel takovým přízvukem, že se rytmistr zatvářil žalostně a otázal se:
 
-„Jak to naopak?“
+„Jak to _naopak_?“
 
 „To je věc náramně jednoduchá,“ svěřil se Švejk, „já jdu k svýmu regimentu, já ho hledám, a neutíkám od něho. Já si nic jinýho nepřeju než se co nejdřív dostat k svýmu regimentu. Já už jsem taky z toho celej nervózní, že se patrně vzdaluju od Českých Budějovic, když si pomyslím, že tam na mne čeká celej regiment. Pan strážmistr v Putimi ukazoval mně na mapě, že Budějovice jsou na jih, a on místo toho obrátil mne na sever.“
 
@@ -825,9 +831,13 @@ Mluvil ohnivě a rytmistr mechanicky kreslil tužkou na kus papíru mrtvý kruh
 
 Rytmistr se dlouho nerozmýšlel a pomyslil si jen, že taková okružní cesta člověka, který chce se dostat k svému regimentu, je známkou nejhlubší lidské degenerace, i dal vyklepat v kanceláři na stroji, šetře všech pravidel a krás úředního slohu:
 
-Slavnému velitelství c. k. pěšího pluku č. 91 v Českých Budě­jovicích.
+  
 
-V příloze předvádí se Josef Švejk, dle dotyčného tvrzení býti pěšákem téhož pluku, zadržený na základě svého vyjádření v Putimi, okres Písek, četnickou stanicí, podezřelý ze zběhnutí. Týž uvádí, že se odebírá k svému výše označenému pluku. Předvedený jest menší zavalité postavy, souměrného obličeje a nosu s modrýma očima, bez zvláštního znamení. V příloze B1 zasílá se účet za stravování dotyčného k laskavému převedení na účet min. zem. obrany s žádostí o potvrzení přijetí předvedeného. V příloze C1 zasílá se ku potvrzení seznam erárních věcí, které měl zadržený na sobě v době svého zachycení.
+_Slavnému velitelství c. k. pěšího pluku č. 91 v Českých Budě­jovicích._
+
+_V příloze předvádí se Josef Švejk, dle dotyčného tvrzení býti pěšákem téhož pluku, zadržený na základě svého vyjádření v Putimi, okres Písek, četnickou stanicí, podezřelý ze zběhnutí. Týž uvádí, že se odebírá k svému výše označenému pluku. Předvedený jest menší zavalité postavy, souměrného obličeje a nosu s modrýma očima, bez zvláštního znamení. V příloze B1 zasílá se účet za stravování dotyčného k laskavému převedení na účet min. zem. obrany s žádostí o potvrzení přijetí předvedeného. V příloze C1 zasílá se ku potvrzení seznam erárních věcí, které měl zadržený na sobě v době svého zachycení._
+
+  
 
 Cesta z Písku do Budějovic ve vlaku ušla Švejkovi bystře a rychle. Jeho společníkem byl mladý četník, nováček, který nespouštěl ze Švejka oči a měl hrozný strach, aby mu Švejk neutekl. Po celé cestě luštil těžký problém: „Kdybych teď musel jít na malou nebo na velkou stranu, jak to udělám?“
 
@@ -844,6 +854,8 @@ Službu v kasárnách měl již druhý den nadporučík Lukáš. Seděl, ničeh
 U celé té scény byl praporčík Koťátko, který později vypravoval, že po tom hlášení Švejkově nadporučík Lukáš vyskočil, chytil se za hlavu a upadl naznak na Koťátko, a že když ho vzkřísili, Švejk, který po celou tu dobu vzdával čest, opakoval: „Poslušně hlásím, pane obrlajtnant, že jsem opět zde!“ A tu nadporučík Lukáš, celý bledý, třesoucí se rukou vzal papíry týkající se Švejka, podepsal, požádal všechny, aby vyšli, četníkovi že řekl, že je tak dobře, a že se se Švejkem uzavřel v kanceláři.
 
 Tím skončila Švejkova budějovická anabaze. Je jisto, že kdyby byla popřána Švejkovi volnost pohybu, že by byl sám došel do Budějovic. Jestli úřady se mohly chvástat, že ony dopravily Švejka na místo služby, je to prostě omyl. Při jeho energii a nezmarné chuti bojovat zakročení úřadů v tom případě bylo házením klacků Švejkovi pod nohy.
+
+  
 
 Švejk a nadporučík Lukáš dívali se sobě do očí.
 
@@ -885,7 +897,9 @@ Svou zpověď zakončil jednoroční dobrovolník slavnostně:
 
 „Došlo i na Kartágo, z Ninive udělali zříceniny, milý příteli, ale hlavu vzhůru! Ať si nemyslí, že když mne pošlou na frontu, že dám jednu ránu. Regimentsraport! Vyloučení ze školy! Ať žije c. k. kretenismus! Budu já jim dřepět ve škole a skládat zkoušky. Kadet, fénrich, lajtnant, obrlajtnant. Naseru jim! Offiziersschule. Behandlung jener Schüler derselben, welche einen Jahrgang repetieren müssen! Vojenská paralýza. Nosí se kvér na levém nebo pravém rameni? Kolik má kaprál hvězdiček? Evidenzhaltung Militärreservemänner! – Himlhergot není co kouřit, kamaráde. Nechcete, abych vás naučil plivat na strop? Podívejte se, to se dělá takhle. Myslete si přitom něco, a vaše přání se splní. Jestli rád pijete pivo, mohu vám doporučiti výbornou vodu tamhle ve džbáně. Máte-li hlad a chcete-li chutně pojíst, doporučuji vám Měšťanskou besedu. Mohu vám též rekomendovat, abyste psal z dlouhé chvíle básně. Já již zde složil epopej:
 
-Je profous doma? On spí, hochu, klidně,  
+  
+
+_Je profous doma? On spí, hochu, klidně,  
 zde armády je těžiště,  
 než nový befél přijde opět z Vídně,  
 že ztraceno je celé bojiště.  
@@ -894,7 +908,9 @@ on z pryčen staví barikádu.
 Z úst mu při té práci splyne,  
 když se mu to podaří:  
 ‚Říš rakouská nezahyne,  
-sláva vlasti, císaři!‘
+sláva vlasti, císaři!‘_
+
+  
 
 Vidíte, kamaráde,“ pokračoval tlustý jednoroční dobrovolník, „pak ať někdo řekne, že mizí mezi lidem úcta k našemu milému mocnářství. Uvězněný muž, který nemá co kouřit a na kterého čeká regimentsraport, podává nejkrásnější případ příchylnosti k trůnu. Skládá ve svých písních hold své širší vlasti, ohrožené ze všech stran výpraskem. Je zbaven svobody, ale z jeho úst plynou verše neochvějné oddanosti. Morituri te salutant, caesar! Mrtví tě pozdravují, císaři, ale profous je pacholek. Máš to pěknou čeládku ve svých službách. Předevčírem dal jsem mu pět korun, aby mně koupil cigarety, a on chlap mizerná dnes ráno řekl, že se zde nesmí kouřit, že by z toho měl opletání a těch pět korun že mně vrátí, až bude lénunk. Ano, kamaráde, nevěřím dnes ničemu. Nejlepší hesla jsou zvrácena. Vězně okrádati! A ten chlap si ještě ke všemu celý den zpívá. ‚Wo man singt, da leg’ dich sicher nieder, böse Leute haben keine Lieder!‘ Ničema, uličník, padouch, zrádce!“
 
@@ -904,14 +920,18 @@ Jednoroční dobrovolník dal nyní Švejkovi otázku o jeho vině.
 
 Jednoroční dobrovolník si odplivl:
 
-„Vidíte, kamaráde, jaká hovada rodí se pod sluncem. Vykašlu se jim na jednoročácké štráfky i na všechna privilegia: ‚Vy, jednoroční dobrovolníku, jste dobytek.‘ Jak to zní pěkně: ‚Jste dobytek,‘ a ne to sprosté: ‚Jsi dobytek.‘ A po smrti dostanete signum laudis nebo velkou stříbrnou medaili. C. k. dodavatelé mrtvol s hvězdičkami i bez hvězdiček. Oč je šťastnější každý vůl. Toho zabijou na porážce a netahají ho předtím pořád na execírák a na feldschießen.“
+„Vidíte, kamaráde, jaká hovada rodí se pod sluncem. Vykašlu se jim na jednoročácké štráfky i na všechna privilegia: ‚Vy, jednoroční dobrovolníku, jste dobytek.‘ Jak to zní pěkně: ‚_Jste_ dobytek,‘ a ne to sprosté: ‚_Jsi_ dobytek.‘ A po smrti dostanete signum laudis nebo velkou stříbrnou medaili. C. k. dodavatelé mrtvol s hvězdičkami i bez hvězdiček. Oč je šťastnější každý vůl. Toho zabijou na porážce a netahají ho předtím pořád na execírák a na feldschießen.“
 
 Tlustý jednoroční dobrovolník převalil se na druhý slamník a pokračoval:
 
 „To je jisté, že tohle musí jednou všechno prasknout a že to nemůže trvat věčně. Zkuste pumpovat slávu do prasete, tak vám nakonec přece jen vybouchne. Kdybych jel na frontu, tak bych napsal na ešalon:
 
-Lidskými hnáty zúrodníme lán.  
-Acht Pferde oder achtundvierzig Mann.“
+  
+
+_Lidskými hnáty zúrodníme lán.  
+Acht Pferde oder achtundvierzig Mann.“_
+
+  
 
 Otevřely se dveře a objevil se profous, přinášeje čtvrt porce komisárku pro oba a čerstvou vodu.
 
@@ -933,13 +953,21 @@ Seděli se Švejkem na pryčně a hryzli komisárek.
 
 Dal se do zpěvu:
 
-„Nebála se ani čerta,  
-vtom ji potkal kanonýr.“
+  
+
+_„Nebála se ani čerta,  
+vtom ji potkal kanonýr.“_
+
+  
 
 „Milý příteli,“ vykládal dál, „pozorujeme-li to všechno v měřítku naší milé monarchie, dospíváme neodvolatelně k tomu závěru, že je to s ní právě tak jako se strýcem Puškina, o kterém ten napsal, že nezbývá jen, poněvadž strýc je chcíplotina:
 
-Vzdychat i myslet pro sebe,  
-kdypak čert vezme tebe!“
+  
+
+_Vzdychat i myslet pro sebe,  
+kdypak čert vezme tebe!“_
+
+  
 
 Ozvalo se opět zarachocení klíče ve dveřích a profous na chodbě rozsvěcoval petrolejovou lampičku.
 
@@ -1029,21 +1057,29 @@ Anebo,“ pokračoval Švejk, „taky je náramná legrace, když pozůstalí po
 
 „Z toho vyplývá,“ řekl jednoroční dobrovolník, „že všechna sláva polní tráva. Teď vydali ve Vídni Zápisník jednoročního dobrovolníka a tam je tento úchvatný verš v českém překladě:
 
-Byl jednou jednoročák statný,  
+  
+
+_Byl jednou jednoročák statný,  
 ten za vlast, krále svého pad  
 a příklad podal druhům zdatný,  
-jak za vlast třeba bojovat.
+jak za vlast třeba bojovat._
 
-Hle, mrtvolu již na lafetě nesou,  
+  
+
+_Hle, mrtvolu již na lafetě nesou,  
 na prsa hejtman dal mu řád,  
 modlitby tiché ku nebi se vznesou  
-za toho, který za vlast pad.
+za toho, který za vlast pad._
+
+  
 
 Tak mně připadá,“ řekl jednoroční dobrovolník po krátké pomlčce, „že duch vojenský v nás upadá, navrhuji, milý příteli, abychom v noční tmě, v tichu našeho vězení, si zazpívali o kanonýrovi Jabůrkovi. To povznese vojenského ducha. Ale musíme řvát, aby to bylo slyšet po celých Mariánských kasárnách. Navrhuji proto, abychom se postavili ke dveřím.“
 
 A z arestu ozval se za chvíli řev, až se na chodbě okna třásla:
 
-„… A u kanónu stál  
+  
+
+_„… A u kanónu stál  
 a pořád ládo – ládo…  
 a u kanónu stál  
 a pořád ládoval.  
@@ -1052,7 +1088,9 @@ utrhla mu obě ruce,
 a von klidně stál  
 a pořád ládo – ládo…  
 u kanónu stál  
-a pořád ládoval…“
+a pořád ládoval…“_
+
+  
 
 Na nádvoří ozvaly se kroky a hlasy.
 
@@ -1152,7 +1190,7 @@ To se ví,“ hovořil dál k jednoročnímu dobrovolníkovi, „milostpán stu
 
 Plukovník pronesl poslední slova významně pomalu a odplivl si:
 
-„Klasický filozof, který v opilosti sráží důstojníkům v noci čepice z hlavy. Mensch! Ještě štěstí, že to byl jen takový důstojník od dělostřelectva.“
+„Klasický filozof, který v opilosti sráží důstojníkům v noci čepice z hlavy. Mensch! Ještě štěstí, že to byl jen _takový_ důstojník od dělostřelectva.“
 
 V tom posledním byla soustředěna všechna zášť 91. regimentu proti dělostřelectvu v Budějovicích. Běda dělostřelci, který padl v noci do rukou patroly od pluku, a naopak. Zášť hrozná, nesmiřitelná, vendeta, krevní msta, dědící se z ročníku na ročník, provázená na obou stranách tradičními historkami, jak buď infanteristi naházeli dělostřelce do Vltavy, nebo opačně. Jak se seprali v Port Arthuru, u Růže a v jiných četných zábavních místnostech jihočeské metropole.
 
@@ -1200,25 +1238,37 @@ Tak se opět setkal Švejk s jednoročním dobrovolníkem v plukovním arestě
 
 Nadporučík Lukáš zdrceně se vypotácel z plukovníkovy kanceláře.
 
+  
+
 Během těch tří dnů, které strávil Švejk ve společnosti jednoročního dobrovolníka Marka, bavil se velice dobře. Každého večera oba pořádali na pryčnách vlastenecké projevy.
 
 Večer z arestu ozývalo se vždy „Zachovej nám, Hospodine“ a „Prinz Eugen, der edle Ritter“. Přezpívali též celou řadu vojenských písniček, a když přicházíval profous, znělo mu na uvítanou:
 
-Ten náš starej profous,  
+  
+
+_Ten náš starej profous,  
 ten nesmí zemříti,  
 pro toho si musí  
-čert z pekla přijíti.
+čert z pekla přijíti._
 
-Přijde pro něj s vozem  
+  
+
+_Přijde pro něj s vozem  
 a praští s ním vo zem,  
 čerti si s ním v pekle  
-pěkně zatopěj…
+pěkně zatopěj…_
+
+  
 
 A nad pryčnu nakreslil jednoroční dobrovolník profouse a pod něho napsal text staré písničky:
 
-Když jsem šel do Prahy pro jelita,  
+  
+
+_Když jsem šel do Prahy pro jelita,  
 potkal jsem na cestě tajtrlíka.  
 Nebyl to tajtrlík, byl to profous,  
-kdybych byl neutek, byl by mne kous.
+kdybych byl neutek, byl by mne kous._
+
+  
 
 A zatímco oba tak dráždili profouse, jako v Seville andaluského býka dráždí červeným šátkem, nadporučík Lukáš s úzkostí očekával, kdy se objeví Švejk, aby hlásil, že nastupuje opět službu.
