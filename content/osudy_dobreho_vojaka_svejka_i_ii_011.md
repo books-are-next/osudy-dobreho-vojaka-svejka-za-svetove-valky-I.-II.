@@ -70,7 +70,7 @@ A nečekaje na odpověď, vyjasňoval:
 
 „Jestli byla s rumem, tak to bude horší, poněvadž je dražší. U soudu se všechno počítá, dává dohromady, aby to vylezlo nejmíň na zločin.“
 
-„U soudu…,“ malomyslně zašeptal svědomitý otec rodiny, a svěsiv hlavu, upadl v nepříjemný stav, kdy člověka žerou výčitky svědomí.[1](#footnote-27518-1)
+„U soudu…,“ malomyslně zašeptal svědomitý otec rodiny, a svěsiv hlavu, upadl v nepříjemný stav, kdy člověka žerou výčitky svědomí.[^1]
 
 „A vědí doma,“ otázal se Švejk, „že jste zavřenej, nebo počkají, až to bude v novinách?“
 
@@ -136,4 +136,4 @@ Někdo z nadšeného davu narazil mu klobouk přes uši a tak za sběhu lidu d
 
 A kdesi v dálných dálavách historie snášela se k Evropě pravda, že zítřek rozboří i plány přítomnosti.
 
-[1](#footnote-27518-1-backlink) Někteří spisovatelé užívají výrazu „hryžou výčitky svědomí“. Nepovažuji ten výraz úplně přiléhajícím. I tygr člověka žere, a nehryže.
+[^1]: Někteří spisovatelé užívají výrazu „hryžou výčitky svědomí“. Nepovažuji ten výraz úplně přiléhajícím. I tygr člověka žere, a nehryže.

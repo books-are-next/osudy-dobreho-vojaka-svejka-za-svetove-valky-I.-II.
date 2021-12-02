@@ -206,7 +206,7 @@ Auditor hledal v zásuvkách akta týkající se Švejka, ale nemohl jako vždy
 
 „Bude to mít hejtman Linhart,“ řekl po dlouhém hledání, „čertví kam se u mne ta všechna akta ztrácejí. Patrně jsem je poslal k Linhartovi. Hned tam zatelefonuji – – – Haló, zde nadporučík auditor Bernis, pane hejtmane. Já bych prosil, nemáte-li tam spisy týkající se jakéhosi Švejka… Že musí být Švejk u mne? To se divím… Že jsem to od vás přejímal? To se opravdu divím… Sedí na šestnáctce… Já vím, pane hejtmane, že šestnáctku mám já. Ale já myslil, že spisy o Švejkovi se tam někde u vás válejí… Že si vyprošujete, abych tak s vámi mluvil? Že se u vás nic neválí? Haló, haló…“
 
-Auditor Bernis se posadil ke stolu a rozhořčeně odsuzoval nepořádky ve vedení vyšetřování. Mezi ním a hejtmanem Linhartem panovalo již dávno nepřátelství, v kterém byli velice důslední. Dostal-li se spis patřící Linhartovi do rukou Bernise, založil ho Bernis, že se nikdo v tom nevyznal. Linhart dělal totéž se spisy patřícími Bernisovi. Ztráceli si navzájem přílohy.[2](#footnote-27518-2)
+Auditor Bernis se posadil ke stolu a rozhořčeně odsuzoval nepořádky ve vedení vyšetřování. Mezi ním a hejtmanem Linhartem panovalo již dávno nepřátelství, v kterém byli velice důslední. Dostal-li se spis patřící Linhartovi do rukou Bernise, založil ho Bernis, že se nikdo v tom nevyznal. Linhart dělal totéž se spisy patřícími Bernisovi. Ztráceli si navzájem přílohy.[^2]
 
 (Spisy o Švejkovi byly nalezeny v archívu vojenského soudu teprve až po převratu s touto relací: „Hodlal odhodit pokryteckou masku a vystoupit veřejně proti osobě našeho panovníka a našemu státu.“ Spisy byly zastrčeny do spisů týkajících se jakéhosi Josefa Koudely. Na obálce byl křížek a pod ním „Vyřízeno“ a datum.)
 
@@ -296,4 +296,4 @@ Ale Švejk zklamal jejich naděje. Nevrátil se více do šestnáctky. Devatená
 
 Nějaký pihovatý voják od zeměbrany, který měl největší fantazii, rozhlásil, že Švejk střelil po svém hejtmanovi a že dnes ho odvedli na motolské cvičiště na popravu.
 
-[2](#footnote-27518-2-backlink) Třicet procent lidí, kteří seděli na garnizóně, sedělo tam přes celou válku, aniž by byli jednou u výslechu.
+[^2]: Třicet procent lidí, kteří seděli na garnizóně, sedělo tam přes celou válku, aniž by byli jednou u výslechu.

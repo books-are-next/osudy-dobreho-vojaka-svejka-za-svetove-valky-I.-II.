@@ -9,8 +9,9 @@ meta:
   publisher: Městská knihovna v Praze
   modified: '2021-09-20T09:44:19.149Z'
   languageCode: cs
-chapters:
-  - osudy_dobreho_vojaka_svejka_i_ii_001.html
+  publisherShort: mkp
+  edition: beletrie
+readingOrder:
   - osudy_dobreho_vojaka_svejka_i_ii_002.html
   - osudy_dobreho_vojaka_svejka_i_ii_005.html
   - osudy_dobreho_vojaka_svejka_i_ii_006.html
@@ -36,6 +37,7 @@ chapters:
   - osudy_dobreho_vojaka_svejka_i_ii_026.html
   - osudy_dobreho_vojaka_svejka_i_ii_027.html
   - osudy_dobreho_vojaka_svejka_i_ii_028.html
+  - colophon.html
 tocBase:
   - link: osudy_dobreho_vojaka_svejka_i_ii_005.html
     title: ÚVOD
@@ -91,5 +93,6 @@ static:
   - title
   - fonts
   - resources
+  - template-images
   - favicon.png
 ---

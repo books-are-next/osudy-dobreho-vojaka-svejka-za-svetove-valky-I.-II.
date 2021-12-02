@@ -129,7 +129,7 @@ Malý oddal se úplně požitkářství. Vedle něho seděla jedna slečna, mluv
 
 Švejk pil. Čahoun přetancoval a vrátil se se svou tanečnicí ke stolu. Potom zpívali, tančili, neustále pili, poplácávali své společnice. A v atmosféře prodejné lásky, nikotinu a alkoholu kroužilo nenápadně staré heslo „Po nás ať přijde potopa!“
 
-Odpůldne k nim přisedl nějaký voják a nabízel se, že jim udělá za pětku flegmónu a otravu krve. Má s sebou injekční stříkačku a stříkne jim do nohy nebo do ruky petrolej.[3](#footnote-27518-3) Budou s tím ležet nejmíň dva měsíce, a jestli budou krmit ránu slinami, tak třebas půl roku, a musí je pustit úplně z vojny.
+Odpůldne k nim přisedl nějaký voják a nabízel se, že jim udělá za pětku flegmónu a otravu krve. Má s sebou injekční stříkačku a stříkne jim do nohy nebo do ruky petrolej.[^3] Budou s tím ležet nejmíň dva měsíce, a jestli budou krmit ránu slinami, tak třebas půl roku, a musí je pustit úplně z vojny.
 
 Čahoun, který úplně již ztratil všechnu duševní rovnováhu, dal si na záchodě od vojáka stříknout petrolej pod kůži do nohy.
 
@@ -582,4 +582,4 @@ Přišel až k ránu, probudil Švejka a řekl:
 
 „Zítra pojedeme sloužit polní mši. Vařte černou kávu s rumem. Anebo ještě lepší, vařte grog.“
 
-[3](#footnote-27518-3-backlink) Je to prostředek dosti osvědčený dostat se do nemocnice. Ale zápach petroleje, který zůstane i v otoku, prozrazuje. Benzín je lepší, protože dříve vyprchá. Později si vstřikovali éter s benzínem a ještě později došli k jinému zdokonalení.
+[^3]: Je to prostředek dosti osvědčený dostat se do nemocnice. Ale zápach petroleje, který zůstane i v otoku, prozrazuje. Benzín je lepší, protože dříve vyprchá. Později si vstřikovali éter s benzínem a ještě později došli k jinému zdokonalení.
