@@ -1,0 +1,256 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>Conversion report</title>
+  <script src="https://cdn.jsdelivr.net/npm/vue@2"></script>
+
+  <link href="https://fonts.googleapis.com/icon?family=Material+Icons"
+      rel="stylesheet">
+  <link rel="stylesheet" href="./assets/autocomplete.css" />
+  <link rel="stylesheet" href="./assets/nestable.css" />
+  <link rel="stylesheet" href="./assets/style.css" />
+</head>
+<body>
+  <script type="text/x-template" id="autocomplete-tpl">
+    <div class="autocomplete">
+      <label :for="id">{{label}}<br>
+        <textarea :id="id" :rows="rows" :cols="cols" class="autocomplete-input" :placeholder="placeholder" @focusout="focusout" @focus="focus" @keydown.13="chooseItem" @keydown.tab="chooseItem" @keydown.40="moveDown" @keydown.38="moveUp" v-bind:value="value" v-on:input="$emit('input', $event.target.value)"></textarea>
+        <ul :class="{'autocomplete-list': true, [id+'-list']: true}" v-if="searchMatch.length > 0">
+          <li :class="{active: selectedIndex === index}" v-for="(result, index) in searchMatch" @click="selectItem(index), chooseItem()" v-html="highlightWord(result)">
+          </li>
+        </ul>
+      </label>
+      <div class="autocomplete-matching">
+        <p><b>{{ matching.length }} classes</b></p>
+        <ul>
+          <li v-for="name in matching">{{ name }}</li>
+        </ul>
+      </div>
+    </div>
+  </script>
+
+  <main>
+    <div id="app">
+      <p style="float: right" v-if="epub.generatedAt">generated {{ generatedAgo }} m ago</p>
+      <h1>Conversion: {{ epub.metadata.title }}</h1>
+
+      <nav>
+        <ul>
+          <li v-on:click="navToMeta" :class="[tab == 'metadata' ? 'active' : '']">Metadata</li>
+          <li v-on:click="navToStructure" :class="[tab == 'structure' ? 'active' : '']">Structure</li>
+          <li v-on:click="navToFormat" :class="[tab == 'format' ? 'active' : '']">Format</li>
+          <li v-on:click="navToData" :class="[tab == 'data' ? 'active' : '']">Data export</li>
+        </ul>
+      </nav>
+
+      <div v-if="tab == 'structure'" class="structure">
+        <div>
+          <vue-nestable v-model="params.structure">
+            <vue-nestable-handle
+              slot-scope="{ item }"
+              :item="item">
+
+              <div v-bind:class="[ (item.role == 'remove') ? 'removed' : '', !item.inToc ? 'not-in-toc' : '' ]">
+                <h2 v-if="item.isSection">Section</h2>
+                <h2 v-else>
+                  <icon :role="item.role"></icon>
+
+                  <span class="material-icons" v-on:click="() => showPreview(item.xhtml)">visibility</span>
+
+                  {{ item.filename }}: {{ item.title ? item.title : "—" }}
+                </h2>
+
+                <div class="controls">
+                  <div v-if="!item.isSection" class="role">
+                    <label title="cover">
+                      <input type="radio" value="cover" v-model="item.role">
+                      <span class="btn">
+                        <span class="material-icons">photo</span> <span class="desc">cover</span>
+                      </span>
+                    </label>
+
+                    <label title="chapter">
+                      <input type="radio" value="chapter" v-model="item.role">
+                      <span class="btn">
+                        <span class="material-icons">subject</span> <span class="desc">chapter</span>
+                      </span>
+                    </label>
+
+                    <label v-if="!item.isSection" title="break">
+                      <input type="radio" value="break" v-model="item.role">
+                      <span class="btn">
+                        <span class="material-icons">subtitles</span> <span class="desc">break</span>
+                      </span>
+                    </label>
+
+                    <label v-if="!item.isSection" title="colophon">
+                      <input type="radio" value="colophon" v-model="item.role">
+                      <span class="btn">
+                        <span class="material-icons">copyright</span> <span class="desc">colophon</span>
+                      </span>
+                    </label>
+
+                    <label v-if="!item.isSection" title="remove">
+                      <input type="radio" value="remove" v-model="item.role">
+                      <span class="btn">
+                        <span class="material-icons">close</span> <span class="desc">remove</span>
+                      </span>
+                    </label>
+                  </div>
+
+                  <label v-if="!item.isSection" class="show-in-toc">
+                    <span class="btn">
+                      <span class="material-icons">list</span> <span>in TOC</span>
+                    </span>
+
+                    <input type="checkbox" v-model="item.inToc">
+
+                    <span v-if="item.inToc" class="material-icons toggle-on">toggle_on</span>
+                    <span v-else class="material-icons toggle-off">toggle_off</span>
+                  </label>
+
+                  <div v-if="item.children && item.children.length" class="list-type">
+                    <label title="plain">
+                      <input type="radio" value="plain" v-model="item.listType">
+                      <span class="btn">
+                        <span class="material-icons">menu</span> <span class="desc">plain</span>
+                      </span>
+                    </label>
+
+                    <label title="bulleted">
+                      <input type="radio" value="bulleted" v-model="item.listType">
+                      <span class="btn">
+                        <span class="material-icons">format_list_bulleted</span> <span class="desc">bulleted</span>
+                      </span>
+                    </label>
+
+                    <label title="numbered">
+                      <input type="radio" value="numbered" v-model="item.listType">
+                      <span class="btn">
+                        <span class="material-icons">format_list_numbered</span> <span class="desc">numbered</span>
+                      </span>
+                    </label>
+                  </div>
+                </div>
+              </div>
+            </vue-nestable-handle>
+          </vue-nestable>
+
+          <div v-on:click="addSection">Add section</div>
+        </div>
+
+        <div class="toc-preview">
+          <h2>TOC preview</h2>
+
+          <toc-preview :items="params.structure" :list-type="'plain'"></toc-preview>
+
+          <hr>
+
+          <toc-specials :structure="params.structure"></toc-specials>
+
+          <div class="box">
+            <p>Not included in TOC:</p>
+            <ul>
+              <li>removed documents</li>
+              <li>documents without title</li>
+              <li>single sub-documents (represented by their parent documents)</li>
+              <li>colophon and book cover (appended in the bottom)</li>
+            </ul>
+            <p><b>Note:</b> Preview does not include sub-headings inside chapters.</p>
+          </div>
+        </div>
+      </div>
+
+      <div class="metadata" v-if="tab == 'metadata'">
+        <label>
+          Title
+          <input type="text" v-model="params.metadata.title">
+        </label>
+        <label>
+          Subtitle
+          <input type="text" v-model="params.metadata.subtitle">
+        </label>
+        <label>
+          Author
+          <input type="text" v-model="params.metadata.author">
+        </label>
+        <label>
+          Edition
+          <input type="text" v-model="params.metadata.edition">
+        </label>
+
+        <label>
+          Publisher
+          <input type="text" v-model="params.metadata.publisher">
+        </label>
+        <label>
+          Publisher (short)
+          <input type="text" v-model="params.metadata.publisherShort">
+        </label>
+
+        <label>
+          ISBN
+          <input type="text" v-model="params.metadata.isbn">
+        </label>
+        <label>
+          Identifier
+          <input type="text" v-model="params.metadata.identifier">
+        </label>
+
+        <label>
+          Year of publishing
+          <input type="text" v-model="params.metadata.yearPublished">
+        </label>
+        <label>
+          Language<br>
+          <select v-model="params.metadata.languageCode">
+            <option value="cs">czech</option>
+            <option value="en">english</option>
+          </select>
+        </label>
+
+        <h2>Chapter titles
+          <p v-if="!params.elements || (params.elements.title == '' && params.elements.subtitle == '')" class="info-box">Select title & subtitle classes in tab “Format” to retrieve automatic title suggestions.</p>
+          <button v-else v-on:click="applyAllSuggestions">Apply all suggestions</button>
+        </h2>
+        <ul class="chapters">
+          <toc-item-edit-title v-for="(item, index) in params.structure" :item="item" :key="index" @preview="showPreview" @updatetitle="applyTitleSuggestion" @updatesubtitle="applySubtitleSuggestion"></toc-item-edit-title>
+        </ul>
+      </div>
+
+      <div v-if="tab == 'format'" class="els">
+        <autocomplete v-for="el in elements" v-bind:key="el.name" :label="el.title" rows="5" :items="epub.classes" textarea="true" v-model="params.elements[el.name]"></autocomplete>
+
+        <h2>Unused classes</h2>
+        <ul class="unused-classes">
+          <li v-for="name in unmatchedClassNames"><css-preview :name="name" :styles="css"></css-preview></li>
+        </ul>
+      </div>
+
+      <div v-if="tab == 'data'">
+        <p v-if="paramsUrl" class="paramsLink"><a target="_blank" :href="paramsUrl">params.json in the repository</a></p>
+
+        <p class="copyButton">
+          <button id="copy-report" v-on:click="copyReport">Copy all data</button>
+          <label><input type="checkbox" v-model="extractionComplete"> extraction complete</label>
+        </p>
+
+        <textarea id="report">{{ exportedData }}</textarea>
+      </div>
+
+      <div v-if="previewUrl != null" class="view-chapter">
+        <div class="view-chapter-tabs">
+          <span v-bind:class="[previewTab == 'preview' ? 'active' : '', 'tab']" v-on:click="setPreviewTab('preview')">preview</span>
+          <span v-bind:class="[previewTab == 'code' ? 'active' : '', 'tab']" v-on:click="setPreviewTab('code')">HTML</span>
+        </div>
+        <div class="view-chapter-close" v-on:click="showPreview(null)">close</div>
+        <iframe v-if="previewTab == 'preview'" :src="previewUrl"></iframe>
+        <html-preview v-else :src="previewUrl"/>
+      </div>
+    </div>
+  </main>
+
+  <script src="./assets/editor.js"></script>
+</body>
+</html>

@@ -1,0 +1,319 @@
+{
+  "@context": "https://readium.org/webpub-manifest/context.jsonld",
+  "metadata": {
+    "@type": "http://schema.org/Book",
+    "title": "Osudy dobrého vojáka Švejka za světové války I.–II.",
+    "identifier": "urn:uuid:296c0919-9963-415a-a386-6c26c077b931",
+    "author": "Jaroslav Hašek",
+    "publisher": "Městská knihovna v Praze",
+    "language": "cs-CZ",
+    "modified": "2021-12-02T19:23:00.445Z",
+    "subject": "subject",
+    "generator": "Adobe InDesign",
+    "Sigil version": "0.9.9"
+  },
+  "readingOrder": [
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/osudy_dobreho_vojaka_svejka_i_ii_001.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/osudy_dobreho_vojaka_svejka_i_ii_002.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/osudy_dobreho_vojaka_svejka_i_ii_003.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/osudy_dobreho_vojaka_svejka_i_ii_004.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/osudy_dobreho_vojaka_svejka_i_ii_005.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/osudy_dobreho_vojaka_svejka_i_ii_006.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/osudy_dobreho_vojaka_svejka_i_ii_007.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/osudy_dobreho_vojaka_svejka_i_ii_008.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/osudy_dobreho_vojaka_svejka_i_ii_009.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/osudy_dobreho_vojaka_svejka_i_ii_010.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/osudy_dobreho_vojaka_svejka_i_ii_011.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/osudy_dobreho_vojaka_svejka_i_ii_012.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/osudy_dobreho_vojaka_svejka_i_ii_013.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/osudy_dobreho_vojaka_svejka_i_ii_014.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/osudy_dobreho_vojaka_svejka_i_ii_015.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/osudy_dobreho_vojaka_svejka_i_ii_016.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/osudy_dobreho_vojaka_svejka_i_ii_017.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/osudy_dobreho_vojaka_svejka_i_ii_018.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/osudy_dobreho_vojaka_svejka_i_ii_019.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/osudy_dobreho_vojaka_svejka_i_ii_020.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/osudy_dobreho_vojaka_svejka_i_ii_021.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/osudy_dobreho_vojaka_svejka_i_ii_022.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/osudy_dobreho_vojaka_svejka_i_ii_023.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/osudy_dobreho_vojaka_svejka_i_ii_024.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/osudy_dobreho_vojaka_svejka_i_ii_025.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/osudy_dobreho_vojaka_svejka_i_ii_026.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/osudy_dobreho_vojaka_svejka_i_ii_027.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/osudy_dobreho_vojaka_svejka_i_ii_028.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/osudy_dobreho_vojaka_svejka_i_ii_029.xhtml"
+    }
+  ],
+  "resources": [
+    {
+      "type": "application/x-dtbncx+xml",
+      "href": "OEBPS/toc.ncx"
+    },
+    {
+      "type": "text/css",
+      "href": "OEBPS/Styles/osudy_dobr_idstyles.css"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/image001_fmt.jpeg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/image003_fmt.jpeg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/image004_fmt.jpeg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/obalka_osudy_dobreho_v_fmt.jpeg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/upoutavka_eknihy_fmt.jpeg"
+    }
+  ],
+  "toc": [
+    {
+      "title": "ÚVOD",
+      "href": "OEBPS/Text/osudy_dobreho_vojaka_svejka_i_ii_005.xhtml#toc_marker-1"
+    },
+    {
+      "title": "DÍL I. V ZÁZEMÍ",
+      "children": [
+        {
+          "title": "1. Zasáhnutí dobrého vojáka Švejka do světové války",
+          "href": "OEBPS/Text/osudy_dobreho_vojaka_svejka_i_ii_007.xhtml#toc_marker-2-1"
+        },
+        {
+          "title": "2. Dobrý voják Švejk na policejním ředitelství",
+          "href": "OEBPS/Text/osudy_dobreho_vojaka_svejka_i_ii_008.xhtml#toc_marker-2-2"
+        },
+        {
+          "title": "3. Švejk před soudními lékaři",
+          "href": "OEBPS/Text/osudy_dobreho_vojaka_svejka_i_ii_009.xhtml#toc_marker-2-3"
+        },
+        {
+          "title": "4. Švejka vyhodili z blázince",
+          "href": "OEBPS/Text/osudy_dobreho_vojaka_svejka_i_ii_010.xhtml#toc_marker-2-4"
+        },
+        {
+          "title": "5. Švejk na policejním komisařství v Salmově ulici",
+          "href": "OEBPS/Text/osudy_dobreho_vojaka_svejka_i_ii_011.xhtml#toc_marker-2-5"
+        },
+        {
+          "title": "6. Švejk opět doma, proraziv začarovaný kruh",
+          "href": "OEBPS/Text/osudy_dobreho_vojaka_svejka_i_ii_012.xhtml#toc_marker-2-6"
+        },
+        {
+          "title": "7. Švejk jde na vojnu",
+          "href": "OEBPS/Text/osudy_dobreho_vojaka_svejka_i_ii_013.xhtml#toc_marker-2-7"
+        },
+        {
+          "title": "8. Švejk simulantem",
+          "href": "OEBPS/Text/osudy_dobreho_vojaka_svejka_i_ii_014.xhtml#toc_marker-2-8"
+        },
+        {
+          "title": "9. Švejk na garnizóně",
+          "href": "OEBPS/Text/osudy_dobreho_vojaka_svejka_i_ii_015.xhtml#toc_marker-2-9"
+        },
+        {
+          "title": "10. Švejk vojenským sluhou u polního kuráta",
+          "children": [
+            {
+              "title": "1",
+              "href": "OEBPS/Text/osudy_dobreho_vojaka_svejka_i_ii_016.xhtml#toc_marker-2-10-1"
+            },
+            {
+              "title": "2",
+              "href": "OEBPS/Text/osudy_dobreho_vojaka_svejka_i_ii_016.xhtml#toc_marker-2-10-2"
+            },
+            {
+              "title": "3",
+              "href": "OEBPS/Text/osudy_dobreho_vojaka_svejka_i_ii_016.xhtml#toc_marker-2-10-3"
+            },
+            {
+              "title": "4",
+              "href": "OEBPS/Text/osudy_dobreho_vojaka_svejka_i_ii_016.xhtml#toc_marker-2-10-4"
+            }
+          ],
+          "href": "OEBPS/Text/osudy_dobreho_vojaka_svejka_i_ii_016.xhtml#toc_marker-2-10"
+        },
+        {
+          "title": "11. Švejk jede s polním kurátem sloužit polní mši",
+          "children": [
+            {
+              "title": "1",
+              "href": "OEBPS/Text/osudy_dobreho_vojaka_svejka_i_ii_017.xhtml#toc_marker-2-11-1"
+            },
+            {
+              "title": "2",
+              "href": "OEBPS/Text/osudy_dobreho_vojaka_svejka_i_ii_017.xhtml#toc_marker-2-11-2"
+            }
+          ],
+          "href": "OEBPS/Text/osudy_dobreho_vojaka_svejka_i_ii_017.xhtml#toc_marker-2-11"
+        },
+        {
+          "title": "12. Náboženská debata",
+          "href": "OEBPS/Text/osudy_dobreho_vojaka_svejka_i_ii_018.xhtml#toc_marker-2-12"
+        },
+        {
+          "title": "13. Švejk jde zaopatřovat",
+          "href": "OEBPS/Text/osudy_dobreho_vojaka_svejka_i_ii_019.xhtml#toc_marker-2-13"
+        },
+        {
+          "title": "14. Švejk vojenským sluhou u nadporučíka Lukáše",
+          "children": [
+            {
+              "title": "1",
+              "href": "OEBPS/Text/osudy_dobreho_vojaka_svejka_i_ii_020.xhtml#toc_marker-2-14-1"
+            },
+            {
+              "title": "2",
+              "href": "OEBPS/Text/osudy_dobreho_vojaka_svejka_i_ii_020.xhtml#toc_marker-2-14-2"
+            },
+            {
+              "title": "3",
+              "href": "OEBPS/Text/osudy_dobreho_vojaka_svejka_i_ii_020.xhtml#toc_marker-2-14-3"
+            },
+            {
+              "title": "4",
+              "href": "OEBPS/Text/osudy_dobreho_vojaka_svejka_i_ii_020.xhtml#toc_marker-2-14-4"
+            },
+            {
+              "title": "5",
+              "href": "OEBPS/Text/osudy_dobreho_vojaka_svejka_i_ii_020.xhtml#toc_marker-2-14-5"
+            },
+            {
+              "title": "6",
+              "href": "OEBPS/Text/osudy_dobreho_vojaka_svejka_i_ii_020.xhtml#toc_marker-2-14-6"
+            }
+          ],
+          "href": "OEBPS/Text/osudy_dobreho_vojaka_svejka_i_ii_020.xhtml#toc_marker-2-14"
+        },
+        {
+          "title": "15. Katastrofa",
+          "href": "OEBPS/Text/osudy_dobreho_vojaka_svejka_i_ii_021.xhtml#toc_marker-2-15"
+        }
+      ],
+      "href": "OEBPS/Text/osudy_dobreho_vojaka_svejka_i_ii_006.xhtml#toc_marker-2"
+    },
+    {
+      "title": "DOSLOV K PRVNÍMU DÍLU „V ZÁZEMÍ“",
+      "href": "OEBPS/Text/osudy_dobreho_vojaka_svejka_i_ii_022.xhtml#toc_marker-3"
+    },
+    {
+      "title": "DÍL II. NA FRONTĚ",
+      "children": [
+        {
+          "title": "1. Švejkovy nehody ve vlaku",
+          "href": "OEBPS/Text/osudy_dobreho_vojaka_svejka_i_ii_024.xhtml#toc_marker-4-1"
+        },
+        {
+          "title": "2. Švejkova budějovická anabaze",
+          "href": "OEBPS/Text/osudy_dobreho_vojaka_svejka_i_ii_025.xhtml#toc_marker-4-2"
+        },
+        {
+          "title": "3. Švejkovy příhody v Királyhidě",
+          "href": "OEBPS/Text/osudy_dobreho_vojaka_svejka_i_ii_026.xhtml#toc_marker-4-3"
+        },
+        {
+          "title": "4. Nová utrpení",
+          "href": "OEBPS/Text/osudy_dobreho_vojaka_svejka_i_ii_027.xhtml#toc_marker-4-4"
+        },
+        {
+          "title": "5. Z Mostu nad Litavou k Sokalu",
+          "href": "OEBPS/Text/osudy_dobreho_vojaka_svejka_i_ii_028.xhtml#toc_marker-4-5"
+        }
+      ],
+      "href": "OEBPS/Text/osudy_dobreho_vojaka_svejka_i_ii_023.xhtml#toc_marker-4"
+    }
+  ]
+}

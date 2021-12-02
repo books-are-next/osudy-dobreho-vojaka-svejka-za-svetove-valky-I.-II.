@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd"><ncx version="2005-1" xmlns="http://www.daisy.org/z3986/2005/ncx/">
+  <head>
+    <meta content="urn:uuid:296c0919-9963-415a-a386-6c26c077b931" name="dtb:uid"/>
+    <meta content="4" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Osudy dobrého vojáka Švejka za světové války I.–II.</text>
+  </docTitle>
+  <docAuthor>
+    <text>Jaroslav Hašek</text>
+  </docAuthor>
+  <navMap>
+    <navPoint id="navpoint1" playOrder="1">
+      <navLabel>
+        <text>ÚVOD</text>
+      </navLabel>
+      <content src="Text/osudy_dobreho_vojaka_svejka_i_ii_005.xhtml#toc_marker-1"/>
+    </navPoint>
+    <navPoint id="navpoint2" playOrder="2">
+      <navLabel>
+        <text>DÍL I. V ZÁZEMÍ</text>
+      </navLabel>
+      <content src="Text/osudy_dobreho_vojaka_svejka_i_ii_006.xhtml#toc_marker-2"/>
+      <navPoint id="navpoint3" playOrder="3">
+        <navLabel>
+          <text>1. Zasáhnutí dobrého vojáka Švejka do světové války</text>
+        </navLabel>
+        <content src="Text/osudy_dobreho_vojaka_svejka_i_ii_007.xhtml#toc_marker-2-1"/>
+      </navPoint>
+      <navPoint id="navpoint4" playOrder="4">
+        <navLabel>
+          <text>2. Dobrý voják Švejk na policejním ředitelství</text>
+        </navLabel>
+        <content src="Text/osudy_dobreho_vojaka_svejka_i_ii_008.xhtml#toc_marker-2-2"/>
+      </navPoint>
+      <navPoint id="navpoint5" playOrder="5">
+        <navLabel>
+          <text>3. Švejk před soudními lékaři</text>
+        </navLabel>
+        <content src="Text/osudy_dobreho_vojaka_svejka_i_ii_009.xhtml#toc_marker-2-3"/>
+      </navPoint>
+      <navPoint id="navpoint6" playOrder="6">
+        <navLabel>
+          <text>4. Švejka vyhodili z blázince</text>
+        </navLabel>
+        <content src="Text/osudy_dobreho_vojaka_svejka_i_ii_010.xhtml#toc_marker-2-4"/>
+      </navPoint>
+      <navPoint id="navpoint7" playOrder="7">
+        <navLabel>
+          <text>5. Švejk na policejním komisařství v Salmově ulici</text>
+        </navLabel>
+        <content src="Text/osudy_dobreho_vojaka_svejka_i_ii_011.xhtml#toc_marker-2-5"/>
+      </navPoint>
+      <navPoint id="navpoint8" playOrder="8">
+        <navLabel>
+          <text>6. Švejk opět doma, proraziv začarovaný kruh</text>
+        </navLabel>
+        <content src="Text/osudy_dobreho_vojaka_svejka_i_ii_012.xhtml#toc_marker-2-6"/>
+      </navPoint>
+      <navPoint id="navpoint9" playOrder="9">
+        <navLabel>
+          <text>7. Švejk jde na vojnu</text>
+        </navLabel>
+        <content src="Text/osudy_dobreho_vojaka_svejka_i_ii_013.xhtml#toc_marker-2-7"/>
+      </navPoint>
+      <navPoint id="navpoint10" playOrder="10">
+        <navLabel>
+          <text>8. Švejk simulantem</text>
+        </navLabel>
+        <content src="Text/osudy_dobreho_vojaka_svejka_i_ii_014.xhtml#toc_marker-2-8"/>
+      </navPoint>
+      <navPoint id="navpoint11" playOrder="11">
+        <navLabel>
+          <text>9. Švejk na garnizóně</text>
+        </navLabel>
+        <content src="Text/osudy_dobreho_vojaka_svejka_i_ii_015.xhtml#toc_marker-2-9"/>
+      </navPoint>
+      <navPoint id="navpoint12" playOrder="12">
+        <navLabel>
+          <text>10. Švejk vojenským sluhou u polního kuráta</text>
+        </navLabel>
+        <content src="Text/osudy_dobreho_vojaka_svejka_i_ii_016.xhtml#toc_marker-2-10"/>
+        <navPoint id="navpoint13" playOrder="13">
+          <navLabel>
+            <text>1</text>
+          </navLabel>
+          <content src="Text/osudy_dobreho_vojaka_svejka_i_ii_016.xhtml#toc_marker-2-10-1"/>
+        </navPoint>
+        <navPoint id="navpoint14" playOrder="14">
+          <navLabel>
+            <text>2</text>
+          </navLabel>
+          <content src="Text/osudy_dobreho_vojaka_svejka_i_ii_016.xhtml#toc_marker-2-10-2"/>
+        </navPoint>
+        <navPoint id="navpoint15" playOrder="15">
+          <navLabel>
+            <text>3</text>
+          </navLabel>
+          <content src="Text/osudy_dobreho_vojaka_svejka_i_ii_016.xhtml#toc_marker-2-10-3"/>
+        </navPoint>
+        <navPoint id="navpoint16" playOrder="16">
+          <navLabel>
+            <text>4</text>
+          </navLabel>
+          <content src="Text/osudy_dobreho_vojaka_svejka_i_ii_016.xhtml#toc_marker-2-10-4"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="navpoint17" playOrder="17">
+        <navLabel>
+          <text>11. Švejk jede s polním kurátem sloužit polní mši</text>
+        </navLabel>
+        <content src="Text/osudy_dobreho_vojaka_svejka_i_ii_017.xhtml#toc_marker-2-11"/>
+        <navPoint id="navpoint18" playOrder="18">
+          <navLabel>
+            <text>1</text>
+          </navLabel>
+          <content src="Text/osudy_dobreho_vojaka_svejka_i_ii_017.xhtml#toc_marker-2-11-1"/>
+        </navPoint>
+        <navPoint id="navpoint19" playOrder="19">
+          <navLabel>
+            <text>2</text>
+          </navLabel>
+          <content src="Text/osudy_dobreho_vojaka_svejka_i_ii_017.xhtml#toc_marker-2-11-2"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="navpoint20" playOrder="20">
+        <navLabel>
+          <text>12. Náboženská debata</text>
+        </navLabel>
+        <content src="Text/osudy_dobreho_vojaka_svejka_i_ii_018.xhtml#toc_marker-2-12"/>
+      </navPoint>
+      <navPoint id="navpoint21" playOrder="21">
+        <navLabel>
+          <text>13. Švejk jde zaopatřovat</text>
+        </navLabel>
+        <content src="Text/osudy_dobreho_vojaka_svejka_i_ii_019.xhtml#toc_marker-2-13"/>
+      </navPoint>
+      <navPoint id="navpoint22" playOrder="22">
+        <navLabel>
+          <text>14. Švejk vojenským sluhou u nadporučíka Lukáše</text>
+        </navLabel>
+        <content src="Text/osudy_dobreho_vojaka_svejka_i_ii_020.xhtml#toc_marker-2-14"/>
+        <navPoint id="navpoint23" playOrder="23">
+          <navLabel>
+            <text>1</text>
+          </navLabel>
+          <content src="Text/osudy_dobreho_vojaka_svejka_i_ii_020.xhtml#toc_marker-2-14-1"/>
+        </navPoint>
+        <navPoint id="navpoint24" playOrder="24">
+          <navLabel>
+            <text>2</text>
+          </navLabel>
+          <content src="Text/osudy_dobreho_vojaka_svejka_i_ii_020.xhtml#toc_marker-2-14-2"/>
+        </navPoint>
+        <navPoint id="navpoint25" playOrder="25">
+          <navLabel>
+            <text>3</text>
+          </navLabel>
+          <content src="Text/osudy_dobreho_vojaka_svejka_i_ii_020.xhtml#toc_marker-2-14-3"/>
+        </navPoint>
+        <navPoint id="navpoint26" playOrder="26">
+          <navLabel>
+            <text>4</text>
+          </navLabel>
+          <content src="Text/osudy_dobreho_vojaka_svejka_i_ii_020.xhtml#toc_marker-2-14-4"/>
+        </navPoint>
+        <navPoint id="navpoint27" playOrder="27">
+          <navLabel>
+            <text>5</text>
+          </navLabel>
+          <content src="Text/osudy_dobreho_vojaka_svejka_i_ii_020.xhtml#toc_marker-2-14-5"/>
+        </navPoint>
+        <navPoint id="navpoint28" playOrder="28">
+          <navLabel>
+            <text>6</text>
+          </navLabel>
+          <content src="Text/osudy_dobreho_vojaka_svejka_i_ii_020.xhtml#toc_marker-2-14-6"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="navpoint29" playOrder="29">
+        <navLabel>
+          <text>15. Katastrofa</text>
+        </navLabel>
+        <content src="Text/osudy_dobreho_vojaka_svejka_i_ii_021.xhtml#toc_marker-2-15"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navpoint30" playOrder="30">
+      <navLabel>
+        <text>DOSLOV K PRVNÍMU DÍLU „V ZÁZEMÍ“</text>
+      </navLabel>
+      <content src="Text/osudy_dobreho_vojaka_svejka_i_ii_022.xhtml#toc_marker-3"/>
+    </navPoint>
+    <navPoint id="navpoint31" playOrder="31">
+      <navLabel>
+        <text>DÍL II. NA FRONTĚ</text>
+      </navLabel>
+      <content src="Text/osudy_dobreho_vojaka_svejka_i_ii_023.xhtml#toc_marker-4"/>
+      <navPoint id="navpoint32" playOrder="32">
+        <navLabel>
+          <text>1. Švejkovy nehody ve vlaku</text>
+        </navLabel>
+        <content src="Text/osudy_dobreho_vojaka_svejka_i_ii_024.xhtml#toc_marker-4-1"/>
+      </navPoint>
+      <navPoint id="navpoint33" playOrder="33">
+        <navLabel>
+          <text>2. Švejkova budějovická anabaze</text>
+        </navLabel>
+        <content src="Text/osudy_dobreho_vojaka_svejka_i_ii_025.xhtml#toc_marker-4-2"/>
+      </navPoint>
+      <navPoint id="navpoint34" playOrder="34">
+        <navLabel>
+          <text>3. Švejkovy příhody v Királyhidě</text>
+        </navLabel>
+        <content src="Text/osudy_dobreho_vojaka_svejka_i_ii_026.xhtml#toc_marker-4-3"/>
+      </navPoint>
+      <navPoint id="navpoint35" playOrder="35">
+        <navLabel>
+          <text>4. Nová utrpení</text>
+        </navLabel>
+        <content src="Text/osudy_dobreho_vojaka_svejka_i_ii_027.xhtml#toc_marker-4-4"/>
+      </navPoint>
+      <navPoint id="navpoint36" playOrder="36">
+        <navLabel>
+          <text>5. Z Mostu nad Litavou k Sokalu</text>
+        </navLabel>
+        <content src="Text/osudy_dobreho_vojaka_svejka_i_ii_028.xhtml#toc_marker-4-5"/>
+      </navPoint>
+    </navPoint>
+  </navMap>
+</ncx>
