@@ -1,5 +1,4 @@
 {
-  "extractionComplete": false,
   "params": {
     "metadata": {
       "title": "Osudy dobrého vojáka Švejka za světové války I.–II.",
@@ -36,319 +35,321 @@
         "xhtml": "osudy_dobreho_vojaka_svejka_i_ii_001.xhtml",
         "id": 0,
         "role": "cover",
-        "numberedChildren": false,
         "inToc": false,
-        "children": [],
         "title": "",
-        "subtitle": ""
+        "subtitle": "",
+        "listType": "plain",
+        "children": []
       },
       {
         "filename": "osudy_dobreho_vojaka_svejka_i_ii_002.md",
         "xhtml": "osudy_dobreho_vojaka_svejka_i_ii_002.xhtml",
         "id": 1,
         "role": "break",
-        "numberedChildren": false,
         "inToc": false,
-        "children": [],
         "title": "",
-        "subtitle": ""
+        "subtitle": "",
+        "listType": "plain",
+        "children": []
       },
       {
         "filename": "osudy_dobreho_vojaka_svejka_i_ii_003.md",
         "xhtml": "osudy_dobreho_vojaka_svejka_i_ii_003.xhtml",
         "id": 2,
         "role": "colophon",
-        "numberedChildren": false,
         "inToc": false,
-        "children": [],
         "title": "",
-        "subtitle": ""
+        "subtitle": "",
+        "listType": "plain",
+        "children": []
       },
       {
         "filename": "osudy_dobreho_vojaka_svejka_i_ii_004.md",
         "xhtml": "osudy_dobreho_vojaka_svejka_i_ii_004.xhtml",
         "id": 3,
         "role": "colophon",
-        "numberedChildren": false,
         "inToc": false,
-        "children": [],
         "title": "",
-        "subtitle": ""
+        "subtitle": "",
+        "listType": "plain",
+        "children": []
       },
       {
         "filename": "osudy_dobreho_vojaka_svejka_i_ii_005.md",
         "xhtml": "osudy_dobreho_vojaka_svejka_i_ii_005.xhtml",
         "id": 4,
         "role": "chapter",
-        "numberedChildren": false,
         "inToc": true,
-        "children": [],
         "title": "ÚVOD",
-        "subtitle": ""
+        "subtitle": "",
+        "listType": "plain",
+        "children": []
       },
       {
         "filename": "osudy_dobreho_vojaka_svejka_i_ii_006.md",
         "xhtml": "osudy_dobreho_vojaka_svejka_i_ii_006.xhtml",
         "id": 5,
         "role": "chapter",
-        "numberedChildren": false,
         "inToc": true,
-        "children": [],
         "title": "DÍL I. V ZÁZEMÍ",
-        "subtitle": ""
-      },
-      {
-        "filename": "osudy_dobreho_vojaka_svejka_i_ii_007.md",
-        "xhtml": "osudy_dobreho_vojaka_svejka_i_ii_007.xhtml",
-        "id": 6,
-        "role": "chapter",
-        "numberedChildren": false,
-        "inToc": true,
-        "children": [],
-        "title": "1. Zasáhnutí dobrého vojáka Švejka do světové války",
-        "subtitle": ""
-      },
-      {
-        "filename": "osudy_dobreho_vojaka_svejka_i_ii_008.md",
-        "xhtml": "osudy_dobreho_vojaka_svejka_i_ii_008.xhtml",
-        "id": 7,
-        "role": "chapter",
-        "numberedChildren": false,
-        "inToc": true,
-        "children": [],
-        "title": "2. Dobrý voják Švejk na policejním ředitelství",
-        "subtitle": ""
-      },
-      {
-        "filename": "osudy_dobreho_vojaka_svejka_i_ii_009.md",
-        "xhtml": "osudy_dobreho_vojaka_svejka_i_ii_009.xhtml",
-        "id": 8,
-        "role": "chapter",
-        "numberedChildren": false,
-        "inToc": true,
-        "children": [],
-        "title": "3. Švejk před soudními lékaři",
-        "subtitle": ""
-      },
-      {
-        "filename": "osudy_dobreho_vojaka_svejka_i_ii_010.md",
-        "xhtml": "osudy_dobreho_vojaka_svejka_i_ii_010.xhtml",
-        "id": 9,
-        "role": "chapter",
-        "numberedChildren": false,
-        "inToc": true,
-        "children": [],
-        "title": "4. Švejka vyhodili z blázince",
-        "subtitle": ""
-      },
-      {
-        "filename": "osudy_dobreho_vojaka_svejka_i_ii_011.md",
-        "xhtml": "osudy_dobreho_vojaka_svejka_i_ii_011.xhtml",
-        "id": 10,
-        "role": "chapter",
-        "numberedChildren": false,
-        "inToc": true,
-        "children": [],
-        "title": "5. Švejk na policejním komisařství v Salmově ulici",
-        "subtitle": ""
-      },
-      {
-        "filename": "osudy_dobreho_vojaka_svejka_i_ii_012.md",
-        "xhtml": "osudy_dobreho_vojaka_svejka_i_ii_012.xhtml",
-        "id": 11,
-        "role": "chapter",
-        "numberedChildren": false,
-        "inToc": true,
-        "children": [],
-        "title": "6. Švejk opět doma, proraziv začarovaný kruh",
-        "subtitle": ""
-      },
-      {
-        "filename": "osudy_dobreho_vojaka_svejka_i_ii_013.md",
-        "xhtml": "osudy_dobreho_vojaka_svejka_i_ii_013.xhtml",
-        "id": 12,
-        "role": "chapter",
-        "numberedChildren": false,
-        "inToc": true,
-        "children": [],
-        "title": "7. Švejk jde na vojnu",
-        "subtitle": ""
-      },
-      {
-        "filename": "osudy_dobreho_vojaka_svejka_i_ii_014.md",
-        "xhtml": "osudy_dobreho_vojaka_svejka_i_ii_014.xhtml",
-        "id": 13,
-        "role": "chapter",
-        "numberedChildren": false,
-        "inToc": true,
-        "children": [],
-        "title": "8. Švejk simulantem",
-        "subtitle": ""
-      },
-      {
-        "filename": "osudy_dobreho_vojaka_svejka_i_ii_015.md",
-        "xhtml": "osudy_dobreho_vojaka_svejka_i_ii_015.xhtml",
-        "id": 14,
-        "role": "chapter",
-        "numberedChildren": false,
-        "inToc": true,
-        "children": [],
-        "title": "9. Švejk na garnizóně",
-        "subtitle": ""
-      },
-      {
-        "filename": "osudy_dobreho_vojaka_svejka_i_ii_016.md",
-        "xhtml": "osudy_dobreho_vojaka_svejka_i_ii_016.xhtml",
-        "id": 15,
-        "role": "chapter",
-        "numberedChildren": false,
-        "inToc": true,
-        "children": [],
-        "title": "10. Švejk vojenským sluhou u polního kuráta",
-        "subtitle": ""
-      },
-      {
-        "filename": "osudy_dobreho_vojaka_svejka_i_ii_017.md",
-        "xhtml": "osudy_dobreho_vojaka_svejka_i_ii_017.xhtml",
-        "id": 16,
-        "role": "chapter",
-        "numberedChildren": false,
-        "inToc": true,
-        "children": [],
-        "title": "11. Švejk jede s polním kurátem sloužit polní mši",
-        "subtitle": ""
-      },
-      {
-        "filename": "osudy_dobreho_vojaka_svejka_i_ii_018.md",
-        "xhtml": "osudy_dobreho_vojaka_svejka_i_ii_018.xhtml",
-        "id": 17,
-        "role": "chapter",
-        "numberedChildren": false,
-        "inToc": true,
-        "children": [],
-        "title": "12. Náboženská debata",
-        "subtitle": ""
-      },
-      {
-        "filename": "osudy_dobreho_vojaka_svejka_i_ii_019.md",
-        "xhtml": "osudy_dobreho_vojaka_svejka_i_ii_019.xhtml",
-        "id": 18,
-        "role": "chapter",
-        "numberedChildren": false,
-        "inToc": true,
-        "children": [],
-        "title": "13. Švejk jde zaopatřovat",
-        "subtitle": ""
-      },
-      {
-        "filename": "osudy_dobreho_vojaka_svejka_i_ii_020.md",
-        "xhtml": "osudy_dobreho_vojaka_svejka_i_ii_020.xhtml",
-        "id": 19,
-        "role": "chapter",
-        "numberedChildren": false,
-        "inToc": true,
-        "children": [],
-        "title": "14. Švejk vojenským sluhou u nadporučíka Lukáše",
-        "subtitle": ""
-      },
-      {
-        "filename": "osudy_dobreho_vojaka_svejka_i_ii_021.md",
-        "xhtml": "osudy_dobreho_vojaka_svejka_i_ii_021.xhtml",
-        "id": 20,
-        "role": "chapter",
-        "numberedChildren": false,
-        "inToc": true,
-        "children": [],
-        "title": "15. Katastrofa",
-        "subtitle": ""
+        "subtitle": "",
+        "listType": "plain",
+        "children": [
+          {
+            "filename": "osudy_dobreho_vojaka_svejka_i_ii_007.md",
+            "xhtml": "osudy_dobreho_vojaka_svejka_i_ii_007.xhtml",
+            "id": 6,
+            "role": "chapter",
+            "inToc": true,
+            "title": "1. Zasáhnutí dobrého vojáka Švejka do světové války",
+            "subtitle": "",
+            "listType": "plain",
+            "children": []
+          },
+          {
+            "filename": "osudy_dobreho_vojaka_svejka_i_ii_008.md",
+            "xhtml": "osudy_dobreho_vojaka_svejka_i_ii_008.xhtml",
+            "id": 7,
+            "role": "chapter",
+            "inToc": true,
+            "title": "2. Dobrý voják Švejk na policejním ředitelství",
+            "subtitle": "",
+            "listType": "plain",
+            "children": []
+          },
+          {
+            "filename": "osudy_dobreho_vojaka_svejka_i_ii_009.md",
+            "xhtml": "osudy_dobreho_vojaka_svejka_i_ii_009.xhtml",
+            "id": 8,
+            "role": "chapter",
+            "inToc": true,
+            "title": "3. Švejk před soudními lékaři",
+            "subtitle": "",
+            "listType": "plain",
+            "children": []
+          },
+          {
+            "filename": "osudy_dobreho_vojaka_svejka_i_ii_010.md",
+            "xhtml": "osudy_dobreho_vojaka_svejka_i_ii_010.xhtml",
+            "id": 9,
+            "role": "chapter",
+            "inToc": true,
+            "title": "4. Švejka vyhodili z blázince",
+            "subtitle": "",
+            "listType": "plain",
+            "children": []
+          },
+          {
+            "filename": "osudy_dobreho_vojaka_svejka_i_ii_011.md",
+            "xhtml": "osudy_dobreho_vojaka_svejka_i_ii_011.xhtml",
+            "id": 10,
+            "role": "chapter",
+            "inToc": true,
+            "title": "5. Švejk na policejním komisařství v Salmově ulici",
+            "subtitle": "",
+            "listType": "plain",
+            "children": []
+          },
+          {
+            "filename": "osudy_dobreho_vojaka_svejka_i_ii_012.md",
+            "xhtml": "osudy_dobreho_vojaka_svejka_i_ii_012.xhtml",
+            "id": 11,
+            "role": "chapter",
+            "inToc": true,
+            "title": "6. Švejk opět doma, proraziv začarovaný kruh",
+            "subtitle": "",
+            "listType": "plain",
+            "children": []
+          },
+          {
+            "filename": "osudy_dobreho_vojaka_svejka_i_ii_013.md",
+            "xhtml": "osudy_dobreho_vojaka_svejka_i_ii_013.xhtml",
+            "id": 12,
+            "role": "chapter",
+            "inToc": true,
+            "title": "7. Švejk jde na vojnu",
+            "subtitle": "",
+            "listType": "plain",
+            "children": []
+          },
+          {
+            "filename": "osudy_dobreho_vojaka_svejka_i_ii_014.md",
+            "xhtml": "osudy_dobreho_vojaka_svejka_i_ii_014.xhtml",
+            "id": 13,
+            "role": "chapter",
+            "inToc": true,
+            "title": "8. Švejk simulantem",
+            "subtitle": "",
+            "listType": "plain",
+            "children": []
+          },
+          {
+            "filename": "osudy_dobreho_vojaka_svejka_i_ii_015.md",
+            "xhtml": "osudy_dobreho_vojaka_svejka_i_ii_015.xhtml",
+            "id": 14,
+            "role": "chapter",
+            "inToc": true,
+            "title": "9. Švejk na garnizóně",
+            "subtitle": "",
+            "listType": "plain",
+            "children": []
+          },
+          {
+            "filename": "osudy_dobreho_vojaka_svejka_i_ii_016.md",
+            "xhtml": "osudy_dobreho_vojaka_svejka_i_ii_016.xhtml",
+            "id": 15,
+            "role": "chapter",
+            "inToc": true,
+            "title": "10. Švejk vojenským sluhou u polního kuráta",
+            "subtitle": "",
+            "listType": "plain",
+            "children": []
+          },
+          {
+            "filename": "osudy_dobreho_vojaka_svejka_i_ii_017.md",
+            "xhtml": "osudy_dobreho_vojaka_svejka_i_ii_017.xhtml",
+            "id": 16,
+            "role": "chapter",
+            "inToc": true,
+            "title": "11. Švejk jede s polním kurátem sloužit polní mši",
+            "subtitle": "",
+            "listType": "plain",
+            "children": []
+          },
+          {
+            "filename": "osudy_dobreho_vojaka_svejka_i_ii_018.md",
+            "xhtml": "osudy_dobreho_vojaka_svejka_i_ii_018.xhtml",
+            "id": 17,
+            "role": "chapter",
+            "inToc": true,
+            "title": "12. Náboženská debata",
+            "subtitle": "",
+            "listType": "plain",
+            "children": []
+          },
+          {
+            "filename": "osudy_dobreho_vojaka_svejka_i_ii_019.md",
+            "xhtml": "osudy_dobreho_vojaka_svejka_i_ii_019.xhtml",
+            "id": 18,
+            "role": "chapter",
+            "inToc": true,
+            "title": "13. Švejk jde zaopatřovat",
+            "subtitle": "",
+            "listType": "plain",
+            "children": []
+          },
+          {
+            "filename": "osudy_dobreho_vojaka_svejka_i_ii_020.md",
+            "xhtml": "osudy_dobreho_vojaka_svejka_i_ii_020.xhtml",
+            "id": 19,
+            "role": "chapter",
+            "inToc": true,
+            "title": "14. Švejk vojenským sluhou u nadporučíka Lukáše",
+            "subtitle": "",
+            "listType": "plain",
+            "children": []
+          },
+          {
+            "filename": "osudy_dobreho_vojaka_svejka_i_ii_021.md",
+            "xhtml": "osudy_dobreho_vojaka_svejka_i_ii_021.xhtml",
+            "id": 20,
+            "role": "chapter",
+            "inToc": true,
+            "title": "15. Katastrofa",
+            "subtitle": "",
+            "listType": "plain",
+            "children": []
+          }
+        ]
       },
       {
         "filename": "osudy_dobreho_vojaka_svejka_i_ii_022.md",
         "xhtml": "osudy_dobreho_vojaka_svejka_i_ii_022.xhtml",
         "id": 21,
         "role": "chapter",
-        "numberedChildren": false,
         "inToc": true,
-        "children": [],
         "title": "DOSLOV K PRVNÍMU DÍLU „V ZÁZEMÍ“",
-        "subtitle": ""
+        "subtitle": "",
+        "listType": "plain",
+        "children": []
       },
       {
         "filename": "osudy_dobreho_vojaka_svejka_i_ii_023.md",
         "xhtml": "osudy_dobreho_vojaka_svejka_i_ii_023.xhtml",
         "id": 22,
         "role": "chapter",
-        "numberedChildren": false,
         "inToc": true,
-        "children": [],
         "title": "DÍL II. NA FRONTĚ",
-        "subtitle": ""
-      },
-      {
-        "filename": "osudy_dobreho_vojaka_svejka_i_ii_024.md",
-        "xhtml": "osudy_dobreho_vojaka_svejka_i_ii_024.xhtml",
-        "id": 23,
-        "role": "chapter",
-        "numberedChildren": false,
-        "inToc": true,
-        "children": [],
-        "title": "1. Švejkovy nehody ve vlaku",
-        "subtitle": ""
-      },
-      {
-        "filename": "osudy_dobreho_vojaka_svejka_i_ii_025.md",
-        "xhtml": "osudy_dobreho_vojaka_svejka_i_ii_025.xhtml",
-        "id": 24,
-        "role": "chapter",
-        "numberedChildren": false,
-        "inToc": true,
-        "children": [],
-        "title": "2. Švejkova budějovická anabaze",
-        "subtitle": ""
-      },
-      {
-        "filename": "osudy_dobreho_vojaka_svejka_i_ii_026.md",
-        "xhtml": "osudy_dobreho_vojaka_svejka_i_ii_026.xhtml",
-        "id": 25,
-        "role": "chapter",
-        "numberedChildren": false,
-        "inToc": true,
-        "children": [],
-        "title": "3. Švejkovy příhody v Királyhidě",
-        "subtitle": ""
-      },
-      {
-        "filename": "osudy_dobreho_vojaka_svejka_i_ii_027.md",
-        "xhtml": "osudy_dobreho_vojaka_svejka_i_ii_027.xhtml",
-        "id": 26,
-        "role": "chapter",
-        "numberedChildren": false,
-        "inToc": true,
-        "children": [],
-        "title": "4. Nová utrpení",
-        "subtitle": ""
-      },
-      {
-        "filename": "osudy_dobreho_vojaka_svejka_i_ii_028.md",
-        "xhtml": "osudy_dobreho_vojaka_svejka_i_ii_028.xhtml",
-        "id": 27,
-        "role": "chapter",
-        "numberedChildren": false,
-        "inToc": true,
-        "children": [],
-        "title": "5. Z Mostu nad Litavou k Sokalu",
-        "subtitle": ""
+        "subtitle": "",
+        "listType": "plain",
+        "children": [
+          {
+            "filename": "osudy_dobreho_vojaka_svejka_i_ii_024.md",
+            "xhtml": "osudy_dobreho_vojaka_svejka_i_ii_024.xhtml",
+            "id": 23,
+            "role": "chapter",
+            "inToc": true,
+            "title": "1. Švejkovy nehody ve vlaku",
+            "subtitle": "",
+            "listType": "plain",
+            "children": []
+          },
+          {
+            "filename": "osudy_dobreho_vojaka_svejka_i_ii_025.md",
+            "xhtml": "osudy_dobreho_vojaka_svejka_i_ii_025.xhtml",
+            "id": 24,
+            "role": "chapter",
+            "inToc": true,
+            "title": "2. Švejkova budějovická anabaze",
+            "subtitle": "",
+            "listType": "plain",
+            "children": []
+          },
+          {
+            "filename": "osudy_dobreho_vojaka_svejka_i_ii_026.md",
+            "xhtml": "osudy_dobreho_vojaka_svejka_i_ii_026.xhtml",
+            "id": 25,
+            "role": "chapter",
+            "inToc": true,
+            "title": "3. Švejkovy příhody v Királyhidě",
+            "subtitle": "",
+            "listType": "plain",
+            "children": []
+          },
+          {
+            "filename": "osudy_dobreho_vojaka_svejka_i_ii_027.md",
+            "xhtml": "osudy_dobreho_vojaka_svejka_i_ii_027.xhtml",
+            "id": 26,
+            "role": "chapter",
+            "inToc": true,
+            "title": "4. Nová utrpení",
+            "subtitle": "",
+            "listType": "plain",
+            "children": []
+          },
+          {
+            "filename": "osudy_dobreho_vojaka_svejka_i_ii_028.md",
+            "xhtml": "osudy_dobreho_vojaka_svejka_i_ii_028.xhtml",
+            "id": 27,
+            "role": "chapter",
+            "inToc": true,
+            "title": "5. Z Mostu nad Litavou k Sokalu",
+            "subtitle": "",
+            "listType": "plain",
+            "children": []
+          }
+        ]
       },
       {
         "filename": "osudy_dobreho_vojaka_svejka_i_ii_029.md",
         "xhtml": "osudy_dobreho_vojaka_svejka_i_ii_029.xhtml",
         "id": 28,
         "role": "colophon",
-        "numberedChildren": false,
         "inToc": false,
-        "children": [],
         "title": "",
-        "subtitle": ""
+        "subtitle": "",
+        "listType": "plain",
+        "children": []
       }
     ]
   },
@@ -358,7 +359,7 @@
       "identifier": "urn:uuid:296c0919-9963-415a-a386-6c26c077b931",
       "author": "Jaroslav Hašek",
       "publisher": "Městská knihovna v Praze",
-      "modified": "2021-09-20T09:51:17.487Z"
+      "modified": "2021-12-02T19:23:00.445Z"
     },
     "chapters": [
       {
@@ -625,7 +626,6 @@
       "user": "books-are-next",
       "repo": "osudy-dobreho-vojaka-svejka-za-svetove-valky-I.-II."
     },
-    "generatedAt": 1632131478454
+    "generatedAt": 1638472981742
   }
 }
-
