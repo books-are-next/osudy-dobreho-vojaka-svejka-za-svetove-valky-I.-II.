@@ -1,5 +1,6 @@
 ---
-title: 15. Katastrofa
+title: 15\. Katastrofa
+contentType: prose
 ---
 
 Plukovník Bedřich Kraus, mající též přídomek von Zillergut, po nějaké vesničce v Solnohradech, kterou jeho předkové prožrali již ve století osmnáctém, byl úctyhodným pitomcem. Když něco vypravoval, mluvil samé pozitivní věci, tázaje se přitom, zdali všichni rozumí nejprimitivnějším výrazům:

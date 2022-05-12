@@ -1,5 +1,6 @@
 ---
-title: 1. Zasáhnutí dobrého vojáka Švejka do světové války
+title: 1\. Zasáhnutí dobrého vojáka Švejka do světové války
+contentType: prose
 ---
 
 „Tak nám zabili Ferdinanda,“ řekla posluhovačka panu Švejkovi, který opustiv před léty vojenskou službu, když byl definitivně prohlášen vojenskou lékařskou komisí za blba, živil se prodejem psů, ošklivých nečistokrevných oblud, kterým padělal rodokmeny.

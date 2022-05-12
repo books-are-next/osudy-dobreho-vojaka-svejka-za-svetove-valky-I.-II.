@@ -1,5 +1,6 @@
 ---
-title: "3. Švejkovy příhody v\_Királyhidě"
+title: "3\\. Švejkovy příhody v\_Királyhidě"
+contentType: prose
 ---
 
 Jednadevadesátý pluk se stěhoval do Mostu nad Litavou – Királyhidy.

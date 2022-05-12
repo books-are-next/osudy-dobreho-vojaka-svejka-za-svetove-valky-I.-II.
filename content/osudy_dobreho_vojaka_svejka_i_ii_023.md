@@ -1,5 +1,6 @@
 ---
-title: DÍL II. NA FRONTĚ
+title: DÍL II\. NA FRONTĚ
+contentType: prose
 ---
 
 

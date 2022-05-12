@@ -1,5 +1,6 @@
 ---
-title: "DÍL I. V\_ZÁZEMÍ"
+title: "DÍL I\\. V\_ZÁZEMÍ"
+contentType: prose
 ---
 
 

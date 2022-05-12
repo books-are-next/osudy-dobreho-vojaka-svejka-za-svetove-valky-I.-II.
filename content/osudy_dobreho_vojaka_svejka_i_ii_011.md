@@ -1,5 +1,6 @@
 ---
-title: "5. Švejk na policejním komisařství v\_Salmově ulici"
+title: "5\\. Švejk na policejním komisařství v\_Salmově ulici"
+contentType: prose
 ---
 
 Po krásných slunných dnech v blázinci přišly na Švejka hodiny plné pronásledování. Policejní inspektor Braun aranžoval scénu setkání se Švejkem s krutostí římských pochopů doby roztomilého císaře Nerona. Tvrdě, jako tenkrát, když oni říkali: „Hoďte toho lumpa křesťana lvům,“ řekl inspektor Braun: „Dejte ho za katr!“

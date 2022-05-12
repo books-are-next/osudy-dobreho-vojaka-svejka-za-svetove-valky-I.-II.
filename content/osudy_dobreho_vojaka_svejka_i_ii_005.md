@@ -1,5 +1,6 @@
 ---
 title: ÚVOD
+contentType: prose
 ---
 
 _Veliká doba žádá velké lidi. Jsou nepoznaní hrdinové, skromní, bez slávy a historie Napoleona. Rozbor jejich povahy zastínil by i slávu Alexandra Makedonského. Dnes můžete potkat v pražských ulicích ošumělého muže, který sám ani neví, co vlastně znamená v historii nové velké doby. Jde skromně svou cestou, neobtěžuje nikoho, a není též obtěžován žurnalisty, kteří by ho prosili o interview. Kdybyste se ho otázali, jak se jmenuje, odpověděl by vám prostince a skromně: „Já jsem Švejk…“_

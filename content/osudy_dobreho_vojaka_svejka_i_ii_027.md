@@ -1,5 +1,6 @@
 ---
-title: 4. Nová utrpení
+title: 4\. Nová utrpení
+contentType: prose
 ---
 
 Plukovník Schröder se zalíbením pozoroval bledý obličej nadporučíka Lukáše, s velkými kruhy pod očima, který v rozpacích nedíval se na plukovníka, ale úkradkem, jako by něco studoval, díval se na plán dislokace mužstev ve vojenském táboře, který byl také jedinou ozdobou v celé kanceláři plukovníka.

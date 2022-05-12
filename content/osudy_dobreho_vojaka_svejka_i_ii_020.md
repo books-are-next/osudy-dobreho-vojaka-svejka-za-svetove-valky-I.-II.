@@ -1,5 +1,6 @@
 ---
-title: "14. Švejk vojenským sluhou u\_nadporučíka Lukáše"
+title: "14\\. Švejk vojenským sluhou u\_nadporučíka Lukáše"
+contentType: prose
 ---
 
 ## 1

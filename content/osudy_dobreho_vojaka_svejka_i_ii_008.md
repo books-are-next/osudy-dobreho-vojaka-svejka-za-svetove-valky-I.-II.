@@ -1,5 +1,6 @@
 ---
-title: 2. Dobrý voják Švejk na policejním ředitelství
+title: 2\. Dobrý voják Švejk na policejním ředitelství
+contentType: prose
 ---
 
 Sarajevský atentát naplnil policejní ředitelství četnými oběťmi. Vodili to jednoho po druhém a starý inspektor v přijímací kanceláři říkal svým dobráckým hlasem:

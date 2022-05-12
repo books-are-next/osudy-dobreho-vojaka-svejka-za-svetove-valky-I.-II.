@@ -1,5 +1,6 @@
 ---
-title: 3. Švejk před soudními lékaři
+title: 3\. Švejk před soudními lékaři
+contentType: prose
 ---
 
 Čisté, útulné pokojíky zemského „co trestního“ soudu učinily na Švejka nejpříznivější dojem. Vybílené stěny, černě natřené mříže i tlustý pan Demartini, vrchní dozorce ve vyšetřovací vazbě s fialovými výložky i obrubou na erární čepici. Fialová barva je předepsána nejen zde, nýbrž i při náboženských obřadech na Popeleční středu i Veliký pátek.

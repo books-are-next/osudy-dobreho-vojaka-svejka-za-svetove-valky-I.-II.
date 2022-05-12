@@ -1,5 +1,6 @@
 ---
-title: 13. Švejk jde zaopatřovat
+title: 13\. Švejk jde zaopatřovat
+contentType: prose
 ---
 
 Polní kurát Otto Katz seděl zadumaně nad cirkulářem, který právě přinesl z kasáren. Byl to rezervát ministerstva vojenství:

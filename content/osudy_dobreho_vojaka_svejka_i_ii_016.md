@@ -1,5 +1,6 @@
 ---
-title: "10. Švejk vojenským sluhou u\_polního kuráta"
+title: "10\\. Švejk vojenským sluhou u\_polního kuráta"
+contentType: prose
 ---
 
 ## 1
