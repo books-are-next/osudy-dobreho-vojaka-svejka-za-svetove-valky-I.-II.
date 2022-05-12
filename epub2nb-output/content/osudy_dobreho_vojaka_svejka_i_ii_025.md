@@ -1,5 +1,6 @@
 ---
-title: 2. Švejkova budějovická anabaze
+title: 2\. Švejkova budějovická anabaze
+contentType: prose
 ---
 
 Starověký válečník Xenofón prošel celou Malou Asii a byl bůhvíkde bez mapy. Staří Gótové dělali své výpravy také bez topografické znalosti. Mašírovat pořád kupředu, tomu se říká anabaze. Prodírat se neznámými krajinami. Být obklíčený nepřáteli, kteří číhají na nejbližší příležitost, aby ti zakroutili krk. Když má někdo dobrou hlavu, jako ji měl Xenofón nebo všichni ti loupežní kmenové, kteří přišli do Evropy až bůhvíodkud od Kaspického nebo Azovského moře, dělá pravé divy na pochodu.

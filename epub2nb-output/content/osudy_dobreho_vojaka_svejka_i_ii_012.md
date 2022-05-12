@@ -1,5 +1,6 @@
 ---
-title: 6. Švejk opět doma, proraziv začarovaný kruh
+title: 6\. Švejk opět doma, proraziv začarovaný kruh
+contentType: prose
 ---
 
 Budovou policejního ředitelství vanul duch cizí autority, která zjišťovala, jak dalece je obyvatelstvo nadšeno pro válku. Kromě několika výjimek, lidí, kteří nezapřeli, že jsou synové národa, který má vykrvácet za zájmy jemu úplně cizí, policejní ředitelství představovalo nejkrásnější skupinu byrokratických dravců, kteří měli smysl jedině pro žalář a šibenici, aby uhájili existenci zakroucených paragrafů.

@@ -1,5 +1,6 @@
 ---
-title: "11. Švejk jede s\_polním kurátem sloužit polní mši"
+title: "11\\. Švejk jede s\_polním kurátem sloužit polní mši"
+contentType: prose
 ---
 
 ## 1

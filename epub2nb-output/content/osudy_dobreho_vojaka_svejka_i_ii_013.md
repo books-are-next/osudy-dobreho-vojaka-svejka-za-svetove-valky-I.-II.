@@ -1,5 +1,6 @@
 ---
-title: 7. Švejk jde na vojnu
+title: 7\. Švejk jde na vojnu
+contentType: prose
 ---
 
 V době, kdy lesy na řece Rábu v Haliči viděly utíkat přes Ráb rakouská vojska a dole v Srbsku rakouské divize jedna za druhou dostávaly přes kalhoty to, co jim dávno patřilo, vzpomnělo si rakouské ministerstvo vojenství i na Švejka, aby pomohl mocnářství z bryndy.

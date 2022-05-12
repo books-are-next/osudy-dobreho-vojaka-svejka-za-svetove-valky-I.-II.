@@ -1,5 +1,6 @@
 ---
-title: 9. Švejk na garnizóně
+title: 9\. Švejk na garnizóně
+contentType: prose
 ---
 
 Posledním útočištěm lidí, kteří nechtěli jít do války, byl garnizón. Znal jsem jednoho suplenta, který nechtěl střílet jako matematik u artilérie a kvůli tomu ukradl hodinky jednomu nadporučíkovi, aby se dostal na garnizón. Učinil tak s plnou rozvahou. Válka mu neimponovala a neokouzlovala ho. Střílet do nepřítele a zabíjet na druhé straně šrapnely a granáty stejně takové nešťastné suplenty, matematiky, považoval za blbost.

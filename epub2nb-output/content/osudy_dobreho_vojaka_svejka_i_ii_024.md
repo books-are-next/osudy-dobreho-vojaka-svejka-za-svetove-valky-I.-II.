@@ -1,5 +1,6 @@
 ---
-title: 1. Švejkovy nehody ve vlaku
+title: 1\. Švejkovy nehody ve vlaku
+contentType: prose
 ---
 
 V jednom kupé druhé třídy rychlíku Praha – České Budějovice byli tři, nadporučík Lukáš, naproti kterému seděl starší pán, úplně holohlavý, a Švejk, který stál skromně u dveří k chodbě a chystal se právě vyslechnout nový příval hromobití nadporučíka Lukáše, který, nedbaje přítomnosti holohlavého civilisty, hřímal Švejkovi do duše po celé trati, kterou projeli, že je boží dobytek a podobně.

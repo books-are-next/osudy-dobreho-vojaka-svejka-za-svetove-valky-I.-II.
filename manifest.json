@@ -1,21 +1,51 @@
 {
-  "author": "Jaroslav Hašek",
-  "edition": "beletrie",
-  "identifier": "hasek-osudy-dobreho-vojaka-svejka-za-svetove-valky-iii-9f0df6b",
-  "languagecode": "cs",
-  "modified": "2021-09-20T09:44:19.149Z",
-  "publisher": "Městská knihovna v Praze",
-  "publishershort": "mkp",
+  "preview": {
+    "isPreview": false
+  },
   "title": "Osudy dobrého vojáka Švejka za světové války I.–II.",
-  "revision": "9f0df6b",
+  "author": "Jaroslav Hašek",
+  "publisher": "Městská knihovna v Praze",
+  "edition": "beletrie",
+  "languageCode": "cs",
+  "root": "main",
+  "identifier": "hasek-osudy-dobreho-vojaka-svejka-za-svetove-valky-iii-6d3c465",
+  "revision": "6d3c465",
+  "readingOrder": [
+    "promo.html",
+    "osudy_dobreho_vojaka_svejka_i_ii_005.html",
+    "osudy_dobreho_vojaka_svejka_i_ii_006.html",
+    "osudy_dobreho_vojaka_svejka_i_ii_007.html",
+    "osudy_dobreho_vojaka_svejka_i_ii_008.html",
+    "osudy_dobreho_vojaka_svejka_i_ii_009.html",
+    "osudy_dobreho_vojaka_svejka_i_ii_010.html",
+    "osudy_dobreho_vojaka_svejka_i_ii_011.html",
+    "osudy_dobreho_vojaka_svejka_i_ii_012.html",
+    "osudy_dobreho_vojaka_svejka_i_ii_013.html",
+    "osudy_dobreho_vojaka_svejka_i_ii_014.html",
+    "osudy_dobreho_vojaka_svejka_i_ii_015.html",
+    "osudy_dobreho_vojaka_svejka_i_ii_016.html",
+    "osudy_dobreho_vojaka_svejka_i_ii_017.html",
+    "osudy_dobreho_vojaka_svejka_i_ii_018.html",
+    "osudy_dobreho_vojaka_svejka_i_ii_019.html",
+    "osudy_dobreho_vojaka_svejka_i_ii_020.html",
+    "osudy_dobreho_vojaka_svejka_i_ii_021.html",
+    "osudy_dobreho_vojaka_svejka_i_ii_022.html",
+    "osudy_dobreho_vojaka_svejka_i_ii_023.html",
+    "osudy_dobreho_vojaka_svejka_i_ii_024.html",
+    "osudy_dobreho_vojaka_svejka_i_ii_025.html",
+    "osudy_dobreho_vojaka_svejka_i_ii_026.html",
+    "osudy_dobreho_vojaka_svejka_i_ii_027.html",
+    "osudy_dobreho_vojaka_svejka_i_ii_028.html",
+    "colophon.html"
+  ],
   "generatedAt": {
-    "date": "Thu Dec 02 2021 19:34:35 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1638473675651
+    "date": "Thu May 12 2022 10:36:54 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1652351814387
   },
   "documents": [
     {
-      "title": "Osudy dobrého vojáka Švejka za světové války I.–II.",
-      "file": "osudy_dobreho_vojaka_svejka_i_ii_002.html",
+      "title": "Městská knihovna v Praze",
+      "file": "promo.html",
       "words": 0,
       "chars": 0,
       "ideas": 0,
@@ -23,25 +53,17 @@
       "order": 0,
       "prev": null,
       "next": "osudy_dobreho_vojaka_svejka_i_ii_005.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
+      "toc": []
     },
     {
-      "title": "ÚVOD • Osudy dobrého vojáka Švejka za světové války I.–II.",
+      "title": "ÚVOD",
       "file": "osudy_dobreho_vojaka_svejka_i_ii_005.html",
       "words": 160,
       "chars": 1000,
       "ideas": 5,
       "role": "chapter",
       "order": 1,
-      "prev": "osudy_dobreho_vojaka_svejka_i_ii_002.html",
+      "prev": "promo.html",
       "next": "osudy_dobreho_vojaka_svejka_i_ii_006.html",
       "toc": [
         {
@@ -54,7 +76,7 @@
       ]
     },
     {
-      "title": "DÍL I. V ZÁZEMÍ • Osudy dobrého vojáka Švejka za světové války I.–II.",
+      "title": "DÍL I. V ZÁZEMÍ",
       "file": "osudy_dobreho_vojaka_svejka_i_ii_006.html",
       "words": 4,
       "chars": 15,
@@ -74,10 +96,10 @@
       ]
     },
     {
-      "title": "1. Zasáhnutí dobrého vojáka Švejka do světové války • Osudy dobrého vojáka Švejka za světové války I.–II.",
+      "title": "1. Zasáhnutí dobrého vojáka Švejka do světové války",
       "file": "osudy_dobreho_vojaka_svejka_i_ii_007.html",
-      "words": 2806,
-      "chars": 16574,
+      "words": 2807,
+      "chars": 16577,
       "ideas": 87,
       "role": "chapter",
       "order": 3,
@@ -87,17 +109,17 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Zasáhnutí dobrého vojáka Švejka do světové války",
+          "name": "1. Zasáhnutí dobrého vojáka Švejka do světové války",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "2. Dobrý voják Švejk na policejním ředitelství • Osudy dobrého vojáka Švejka za světové války I.–II.",
+      "title": "2. Dobrý voják Švejk na policejním ředitelství",
       "file": "osudy_dobreho_vojaka_svejka_i_ii_008.html",
-      "words": 2234,
-      "chars": 13539,
+      "words": 2235,
+      "chars": 13542,
       "ideas": 104,
       "role": "chapter",
       "order": 4,
@@ -107,17 +129,17 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Dobrý voják Švejk na policejním ředitelství",
+          "name": "2. Dobrý voják Švejk na policejním ředitelství",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "3. Švejk před soudními lékaři • Osudy dobrého vojáka Švejka za světové války I.–II.",
+      "title": "3. Švejk před soudními lékaři",
       "file": "osudy_dobreho_vojaka_svejka_i_ii_009.html",
-      "words": 1733,
-      "chars": 10702,
+      "words": 1734,
+      "chars": 10705,
       "ideas": 57,
       "role": "chapter",
       "order": 5,
@@ -127,17 +149,17 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Švejk před soudními lékaři",
+          "name": "3. Švejk před soudními lékaři",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "4. Švejka vyhodili z blázince • Osudy dobrého vojáka Švejka za světové války I.–II.",
+      "title": "4. Švejka vyhodili z blázince",
       "file": "osudy_dobreho_vojaka_svejka_i_ii_010.html",
-      "words": 1289,
-      "chars": 7610,
+      "words": 1290,
+      "chars": 7613,
       "ideas": 44,
       "role": "chapter",
       "order": 6,
@@ -147,17 +169,17 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Švejka vyhodili z blázince",
+          "name": "4. Švejka vyhodili z blázince",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "5. Švejk na policejním komisařství v Salmově ulici • Osudy dobrého vojáka Švejka za světové války I.–II.",
+      "title": "5. Švejk na policejním komisařství v Salmově ulici",
       "file": "osudy_dobreho_vojaka_svejka_i_ii_011.html",
-      "words": 2104,
-      "chars": 12533,
+      "words": 2105,
+      "chars": 12536,
       "ideas": 69,
       "role": "chapter",
       "order": 7,
@@ -167,17 +189,17 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Švejk na policejním komisařství v Salmově ulici",
+          "name": "5. Švejk na policejním komisařství v Salmově ulici",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "6. Švejk opět doma, proraziv začarovaný kruh • Osudy dobrého vojáka Švejka za světové války I.–II.",
+      "title": "6. Švejk opět doma, proraziv začarovaný kruh",
       "file": "osudy_dobreho_vojaka_svejka_i_ii_012.html",
-      "words": 2888,
-      "chars": 17442,
+      "words": 2889,
+      "chars": 17445,
       "ideas": 110,
       "role": "chapter",
       "order": 8,
@@ -187,17 +209,17 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Švejk opět doma, proraziv začarovaný kruh",
+          "name": "6. Švejk opět doma, proraziv začarovaný kruh",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "7. Švejk jde na vojnu • Osudy dobrého vojáka Švejka za světové války I.–II.",
+      "title": "7. Švejk jde na vojnu",
       "file": "osudy_dobreho_vojaka_svejka_i_ii_013.html",
-      "words": 1464,
-      "chars": 8948,
+      "words": 1465,
+      "chars": 8951,
       "ideas": 90,
       "role": "chapter",
       "order": 9,
@@ -207,17 +229,17 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Švejk jde na vojnu",
+          "name": "7. Švejk jde na vojnu",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "8. Švejk simulantem • Osudy dobrého vojáka Švejka za světové války I.–II.",
+      "title": "8. Švejk simulantem",
       "file": "osudy_dobreho_vojaka_svejka_i_ii_014.html",
-      "words": 4619,
-      "chars": 27830,
+      "words": 4620,
+      "chars": 27833,
       "ideas": 148,
       "role": "chapter",
       "order": 10,
@@ -227,17 +249,17 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Švejk simulantem",
+          "name": "8. Švejk simulantem",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "9. Švejk na garnizóně • Osudy dobrého vojáka Švejka za světové války I.–II.",
+      "title": "9. Švejk na garnizóně",
       "file": "osudy_dobreho_vojaka_svejka_i_ii_015.html",
-      "words": 6119,
-      "chars": 36442,
+      "words": 6120,
+      "chars": 36445,
       "ideas": 148,
       "role": "chapter",
       "order": 11,
@@ -247,17 +269,17 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Švejk na garnizóně",
+          "name": "9. Švejk na garnizóně",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "10. Švejk vojenským sluhou u polního kuráta • Osudy dobrého vojáka Švejka za světové války I.–II.",
+      "title": "10. Švejk vojenským sluhou u polního kuráta",
       "file": "osudy_dobreho_vojaka_svejka_i_ii_016.html",
-      "words": 6235,
-      "chars": 36631,
+      "words": 6236,
+      "chars": 36635,
       "ideas": 289,
       "role": "chapter",
       "order": 12,
@@ -267,7 +289,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Švejk vojenským sluhou u polního kuráta",
+          "name": "10. Švejk vojenským sluhou u polního kuráta",
           "id": null,
           "children": [
             {
@@ -303,10 +325,10 @@
       ]
     },
     {
-      "title": "11. Švejk jede s polním kurátem sloužit polní mši • Osudy dobrého vojáka Švejka za světové války I.–II.",
+      "title": "11. Švejk jede s polním kurátem sloužit polní mši",
       "file": "osudy_dobreho_vojaka_svejka_i_ii_017.html",
-      "words": 2530,
-      "chars": 15562,
+      "words": 2531,
+      "chars": 15566,
       "ideas": 104,
       "role": "chapter",
       "order": 13,
@@ -316,7 +338,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Švejk jede s polním kurátem sloužit polní mši",
+          "name": "11. Švejk jede s polním kurátem sloužit polní mši",
           "id": null,
           "children": [
             {
@@ -338,10 +360,10 @@
       ]
     },
     {
-      "title": "12. Náboženská debata • Osudy dobrého vojáka Švejka za světové války I.–II.",
+      "title": "12. Náboženská debata",
       "file": "osudy_dobreho_vojaka_svejka_i_ii_018.html",
-      "words": 2010,
-      "chars": 11999,
+      "words": 2011,
+      "chars": 12003,
       "ideas": 59,
       "role": "chapter",
       "order": 14,
@@ -351,17 +373,17 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Náboženská debata",
+          "name": "12. Náboženská debata",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "13. Švejk jde zaopatřovat • Osudy dobrého vojáka Švejka za světové války I.–II.",
+      "title": "13. Švejk jde zaopatřovat",
       "file": "osudy_dobreho_vojaka_svejka_i_ii_019.html",
-      "words": 3920,
-      "chars": 23943,
+      "words": 3921,
+      "chars": 23947,
       "ideas": 164,
       "role": "chapter",
       "order": 15,
@@ -371,17 +393,17 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Švejk jde zaopatřovat",
+          "name": "13. Švejk jde zaopatřovat",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "14. Švejk vojenským sluhou u nadporučíka Lukáše • Osudy dobrého vojáka Švejka za světové války I.–II.",
+      "title": "14. Švejk vojenským sluhou u nadporučíka Lukáše",
       "file": "osudy_dobreho_vojaka_svejka_i_ii_020.html",
-      "words": 12047,
-      "chars": 72107,
+      "words": 12048,
+      "chars": 72111,
       "ideas": 365,
       "role": "chapter",
       "order": 16,
@@ -391,7 +413,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Švejk vojenským sluhou u nadporučíka Lukáše",
+          "name": "14. Švejk vojenským sluhou u nadporučíka Lukáše",
           "id": null,
           "children": [
             {
@@ -441,10 +463,10 @@
       ]
     },
     {
-      "title": "15. Katastrofa • Osudy dobrého vojáka Švejka za světové války I.–II.",
+      "title": "15. Katastrofa",
       "file": "osudy_dobreho_vojaka_svejka_i_ii_021.html",
-      "words": 3344,
-      "chars": 20462,
+      "words": 3345,
+      "chars": 20466,
       "ideas": 127,
       "role": "chapter",
       "order": 17,
@@ -454,14 +476,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Katastrofa",
+          "name": "15. Katastrofa",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "DOSLOV K PRVNÍMU DÍLU „V ZÁZEMÍ“ • Osudy dobrého vojáka Švejka za světové války I.–II.",
+      "title": "DOSLOV K PRVNÍMU DÍLU „V ZÁZEMÍ“",
       "file": "osudy_dobreho_vojaka_svejka_i_ii_022.html",
       "words": 728,
       "chars": 4466,
@@ -481,7 +503,7 @@
       ]
     },
     {
-      "title": "DÍL II. NA FRONTĚ • Osudy dobrého vojáka Švejka za světové války I.–II.",
+      "title": "DÍL II. NA FRONTĚ",
       "file": "osudy_dobreho_vojaka_svejka_i_ii_023.html",
       "words": 4,
       "chars": 17,
@@ -501,10 +523,10 @@
       ]
     },
     {
-      "title": "1. Švejkovy nehody ve vlaku • Osudy dobrého vojáka Švejka za světové války I.–II.",
+      "title": "1. Švejkovy nehody ve vlaku",
       "file": "osudy_dobreho_vojaka_svejka_i_ii_024.html",
-      "words": 5504,
-      "chars": 33534,
+      "words": 5505,
+      "chars": 33537,
       "ideas": 192,
       "role": "chapter",
       "order": 20,
@@ -514,17 +536,17 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Švejkovy nehody ve vlaku",
+          "name": "1. Švejkovy nehody ve vlaku",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "2. Švejkova budějovická anabaze • Osudy dobrého vojáka Švejka za světové války I.–II.",
+      "title": "2. Švejkova budějovická anabaze",
       "file": "osudy_dobreho_vojaka_svejka_i_ii_025.html",
-      "words": 18588,
-      "chars": 113843,
+      "words": 18589,
+      "chars": 113846,
       "ideas": 630,
       "role": "chapter",
       "order": 21,
@@ -534,17 +556,17 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Švejkova budějovická anabaze",
+          "name": "2. Švejkova budějovická anabaze",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "3. Švejkovy příhody v Királyhidě • Osudy dobrého vojáka Švejka za světové války I.–II.",
+      "title": "3. Švejkovy příhody v Királyhidě",
       "file": "osudy_dobreho_vojaka_svejka_i_ii_026.html",
-      "words": 17022,
-      "chars": 102861,
+      "words": 17023,
+      "chars": 102864,
       "ideas": 480,
       "role": "chapter",
       "order": 22,
@@ -554,17 +576,17 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Švejkovy příhody v Királyhidě",
+          "name": "3. Švejkovy příhody v Királyhidě",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "4. Nová utrpení • Osudy dobrého vojáka Švejka za světové války I.–II.",
+      "title": "4. Nová utrpení",
       "file": "osudy_dobreho_vojaka_svejka_i_ii_027.html",
-      "words": 7104,
-      "chars": 42968,
+      "words": 7105,
+      "chars": 42971,
       "ideas": 188,
       "role": "chapter",
       "order": 23,
@@ -574,17 +596,17 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Nová utrpení",
+          "name": "4. Nová utrpení",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "5. Z Mostu nad Litavou k Sokalu • Osudy dobrého vojáka Švejka za světové války I.–II.",
+      "title": "5. Z Mostu nad Litavou k Sokalu",
       "file": "osudy_dobreho_vojaka_svejka_i_ii_028.html",
-      "words": 12219,
-      "chars": 73511,
+      "words": 12220,
+      "chars": 73514,
       "ideas": 419,
       "role": "chapter",
       "order": 24,
@@ -594,18 +616,18 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Z Mostu nad Litavou k Sokalu",
+          "name": "5. Z Mostu nad Litavou k Sokalu",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Tiráž • Osudy dobrého vojáka Švejka za světové války I.–II.",
+      "title": "Tiráž",
       "file": "colophon.html",
-      "words": 155,
-      "chars": 1016,
-      "ideas": 27,
+      "words": 133,
+      "chars": 844,
+      "ideas": 19,
       "role": "colophon",
       "order": null,
       "prev": "osudy_dobreho_vojaka_svejka_i_ii_028.html",
@@ -623,13 +645,13 @@
   ],
   "totals": {
     "all": {
-      "words": 116842,
-      "chars": 705631,
-      "ideas": 3934
+      "words": 116840,
+      "chars": 705525,
+      "ideas": 3926
     },
     "chapters": {
-      "words": 116675,
-      "chars": 704539,
+      "words": 116695,
+      "chars": 704605,
       "ideas": 3903
     }
   }

@@ -1,5 +1,6 @@
 ---
-title: 8. Švejk simulantem
+title: 8\. Švejk simulantem
+contentType: prose
 ---
 
 V této velké době vojenští lékaři dali si neobyčejně záležet, aby ze simulantů vyhnali ďábla sabotáže a vrátili je opět do lůna armády.

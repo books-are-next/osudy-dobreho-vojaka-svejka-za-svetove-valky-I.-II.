@@ -1,5 +1,6 @@
 ---
-title: "5. Z\_Mostu nad Litavou k\_Sokalu"
+title: "5\\. Z\_Mostu nad Litavou k\_Sokalu"
+contentType: prose
 ---
 
 Nadporučík Lukáš chodil rozčileně po kanceláři 11. maršové roty. Byla to tmavá díra v baráku roty, přepažená z chodby prkny. Stůl, dvě židle, baňka s petrolejem a kavalec.

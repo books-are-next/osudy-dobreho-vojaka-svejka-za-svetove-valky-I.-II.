@@ -7,6 +7,28 @@
   font-size: 14px;
 }
 
+#app {
+  display: none;
+}
+
+@keyframes showInfo {
+  0% {
+    opacity: 0;
+  }
+
+  50% {
+    opacity: 0;
+  }
+
+  100% {
+    opacity: 1;
+  }
+}
+
+#loading .info {
+  animation: showInfo 15s;
+}
+
 textarea,
 input[type='text'] {
   font-size: 1rem;
@@ -43,6 +65,11 @@ ul.plain > li {
   grid-gap: 2rem;
 }
 
+.class-buttons {
+  margin-bottom: 1rem;
+  text-align: right;
+}
+
 .controls {
   background-color: white;
   position: absolute;
@@ -68,6 +95,7 @@ ul.plain > li {
   display: none;
 }
 
+.hungry-toggle,
 .show-in-toc {
   display: block;
   margin: 0 0 0 1rem;
@@ -88,6 +116,7 @@ ul.plain > li {
   cursor: pointer;
 }
 
+.hungry-toggle input,
 .show-in-toc input,
 .numbered-children input {
   display: none;
@@ -170,12 +199,25 @@ ul.plain > li {
   text-decoration: line-through;
 }
 
+.removed .hungry-toggle,
 .removed .show-in-toc {
   opacity: 10%;
 }
 
 .not-in-toc h2 {
   opacity: 0.5;
+}
+
+.nestable-handle > div.hungry {
+  color: navy;
+  border: 1px solid navy;
+  border-bottom: 1px dashed navy;
+}
+
+.nestable-handle > div.devoured {
+  color: brown;
+  border: 1px solid brown;
+  border-top: 1px dashed brown;
 }
 
 .toc-preview > ul {
@@ -211,7 +253,7 @@ nav ul li.active {
   display: grid;
   grid-column-gap: 2rem;
   grid-row-gap: 0.5rem;
-  grid-template-columns: 1fr 1fr;
+  grid-template-columns: repeat(4, 1fr);
 }
 
 .metadata h2 {
@@ -219,8 +261,13 @@ nav ul li.active {
   grid-column: 1 / -1;
 }
 
-.metadata label {
+.metadata > label {
   display: block;
+  grid-column: span 2;
+}
+
+.metadata > label.small {
+  grid-column: span 1;
 }
 
 .metadata .chapters,
@@ -405,4 +452,30 @@ nav ul li.active {
 
 .suggested-title:hover {
   background: white;
+}
+
+.replacement-grid {
+  display: grid;
+  grid-template-columns: repeat(6, 1fr);
+  grid-gap: 1rem;
+  border-bottom: 1px solid #aaa;
+  padding-bottom: 1rem;
+  margin-bottom: 1rem;
+}
+
+.replacement-grid p {
+  margin: 0;
+}
+
+.replacement-grid textarea {
+  font-family: monospace;
+  padding: 0.5rem;
+}
+
+.replacement-grid pre {
+  margin: 0;
+  font-family: monospace;
+  background: white;
+  padding: 0.5rem;
+  border-radius: 2px;
 }

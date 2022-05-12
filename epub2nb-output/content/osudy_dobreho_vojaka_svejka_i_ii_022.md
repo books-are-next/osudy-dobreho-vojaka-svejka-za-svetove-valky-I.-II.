@@ -1,5 +1,6 @@
 ---
 title: "DOSLOV K\_PRVNÍMU DÍLU „V\_ZÁZEMÍ“"
+contentType: prose
 ---
 
 _Ukončuje první díl knihy Osudy dobrého vojáka Švejka (V zázemí), oznamuji, že vyjdou rychle za sebou dva díly: Na frontě a V zajetí. I v těch druhých dílech budou vojáci i obyvatelstvo mluvit a vystupovat tak, jak je tomu ve skutečnosti._

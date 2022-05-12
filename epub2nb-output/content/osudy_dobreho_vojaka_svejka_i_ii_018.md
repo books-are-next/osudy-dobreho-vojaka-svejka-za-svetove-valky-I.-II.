@@ -1,5 +1,6 @@
 ---
-title: 12. Náboženská debata
+title: 12\. Náboženská debata
+contentType: prose
 ---
 
 Stávalo se, že Švejk po celé dny neviděl pěstitele vojenských duší. Polní kurát rozděloval své povinnosti s hýřením a přicházíval velice zřídka domů, umazaný, nemytý, jako kocour, když se mrňouká a dělá své výlety po střechách.

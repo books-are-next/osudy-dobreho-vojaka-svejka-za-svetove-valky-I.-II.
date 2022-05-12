@@ -1,5 +1,6 @@
 ---
-title: "4. Švejka vyhodili z\_blázince"
+title: "4\\. Švejka vyhodili z\_blázince"
+contentType: prose
 ---
 
 Když později Švejk líčil život v blázinci, činil tak způsobem neobyčejného chvalořečení:

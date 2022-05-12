@@ -30,6 +30,12 @@
     </div>
   </script>
 
+  <div id="loading">
+    <p>Loading…</p>
+
+    <p class="info">Hmm, there might be some problem. You may try reloading the page. If it doesn’t help, check the publishing process in Github Actions log.</p>
+  </div>
+
   <main>
     <div id="app">
       <p style="float: right" v-if="epub.generatedAt">generated {{ generatedAgo }} m ago</p>
@@ -40,6 +46,7 @@
           <li v-on:click="navToMeta" :class="[tab == 'metadata' ? 'active' : '']">Metadata</li>
           <li v-on:click="navToStructure" :class="[tab == 'structure' ? 'active' : '']">Structure</li>
           <li v-on:click="navToFormat" :class="[tab == 'format' ? 'active' : '']">Format</li>
+          <li v-on:click="navToReplacements" :class="[tab == 'replacements' ? 'active' : '']">Replacements</li>
           <li v-on:click="navToData" :class="[tab == 'data' ? 'active' : '']">Data export</li>
         </ul>
       </nav>
@@ -51,7 +58,7 @@
               slot-scope="{ item }"
               :item="item">
 
-              <div v-bind:class="[ (item.role == 'remove') ? 'removed' : '', !item.inToc ? 'not-in-toc' : '' ]">
+              <div v-bind:class="[ (item.role == 'remove') ? 'removed' : '', !item.inToc ? 'not-in-toc' : '', item.hungry ? 'hungry' : '', item.devoured ? 'devoured' : '' ]">
                 <h2 v-if="item.isSection">Section</h2>
                 <h2 v-else>
                   <icon :role="item.role"></icon>
@@ -62,7 +69,7 @@
                 </h2>
 
                 <div class="controls">
-                  <div v-if="!item.isSection" class="role">
+                  <div v-if="!item.isSection && !item.devoured" class="role">
                     <label title="cover">
                       <input type="radio" value="cover" v-model="item.role">
                       <span class="btn">
@@ -91,6 +98,13 @@
                       </span>
                     </label>
 
+                    <label v-if="!item.isSection" title="promo">
+                      <input type="radio" value="promo" v-model="item.role">
+                      <span class="btn">
+                        <span class="material-icons">label</span> <span class="desc">promo</span>
+                      </span>
+                    </label>
+
                     <label v-if="!item.isSection" title="remove">
                       <input type="radio" value="remove" v-model="item.role">
                       <span class="btn">
@@ -99,7 +113,18 @@
                     </label>
                   </div>
 
-                  <label v-if="!item.isSection" class="show-in-toc">
+                  <label v-if="!item.isSection && item.role === 'chapter' && (!item.children ||  item.children.length == 0)" class="hungry-toggle" @change="updateDevoured">
+                    <span class="btn">
+                      <span class="material-icons">publish</span> <span>hungry</span>
+                    </span>
+
+                    <input type="checkbox" v-model="item.hungry">
+
+                    <span v-if="item.hungry" class="material-icons toggle-on">toggle_on</span>
+                    <span v-else class="material-icons toggle-off">toggle_off</span>
+                  </label>
+
+                  <label v-if="!item.isSection && !item.devoured" class="show-in-toc">
                     <span class="btn">
                       <span class="material-icons">list</span> <span>in TOC</span>
                     </span>
@@ -167,6 +192,22 @@
           Title
           <input type="text" v-model="params.metadata.title">
         </label>
+        <label class="small">
+          Language<br>
+          <select v-model="params.metadata.languageCode">
+            <option value="cs">czech</option>
+            <option value="en">english</option>
+          </select>
+        </label>
+
+        <label class="small">
+          Content template<br>
+          <select v-model="params.metadata.contentType">
+            <option value="prose">prose</option>
+            <option value="poetry">poetry</option>
+            <option value="drama">drama</option>
+          </select>
+        </label>
         <label>
           Subtitle
           <input type="text" v-model="params.metadata.subtitle">
@@ -202,13 +243,6 @@
           Year of publishing
           <input type="text" v-model="params.metadata.yearPublished">
         </label>
-        <label>
-          Language<br>
-          <select v-model="params.metadata.languageCode">
-            <option value="cs">czech</option>
-            <option value="en">english</option>
-          </select>
-        </label>
 
         <h2>Chapter titles
           <p v-if="!params.elements || (params.elements.title == '' && params.elements.subtitle == '')" class="info-box">Select title & subtitle classes in tab “Format” to retrieve automatic title suggestions.</p>
@@ -220,12 +254,21 @@
       </div>
 
       <div v-if="tab == 'format'" class="els">
+        <p class="class-buttons">
+          <button @click="clearClasses">Clear classes</button>
+          <button @click="addMlpClasses">Prefill MLP class set</button>
+        </p>
         <autocomplete v-for="el in elements" v-bind:key="el.name" :label="el.title" rows="5" :items="epub.classes" textarea="true" v-model="params.elements[el.name]"></autocomplete>
 
         <h2>Unused classes</h2>
         <ul class="unused-classes">
           <li v-for="name in unmatchedClassNames"><css-preview :name="name" :styles="css"></css-preview></li>
         </ul>
+      </div>
+
+      <div v-if="tab == 'replacements'" class="replacements">
+        <replacements v-for="(r, index) in params.replacements" :key="index" :item="r" :index="index" @update="updateReplacement" @remove="removeReplacement"></replacements>
+        <button v-on:click="addReplacement">Add replacement</button>
       </div>
 
       <div v-if="tab == 'data'">
