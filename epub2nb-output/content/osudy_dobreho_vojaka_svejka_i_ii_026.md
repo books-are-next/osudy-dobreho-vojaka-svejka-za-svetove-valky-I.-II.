@@ -3,6 +3,8 @@ title: "3\\. Švejkovy příhody v\_Királyhidě"
 contentType: prose
 ---
 
+<section>
+
 Jednadevadesátý pluk se stěhoval do Mostu nad Litavou – Királyhidy.
 
 Právě když po třídenním věznění měl být za tři hodiny Švejk propuštěn na svobodu, byl s jednoročním dobrovolníkem odveden na hlavní strážnici a s eskortou vojáků doprovozen na nádraží.
@@ -129,22 +131,30 @@ A Švejk počal vypravovat své zkušenosti s polním kurátem Otto Katzem tak
 
 Teprve řev z vagónů vzadu přerušil vypravování Švejkovo. Dva­náctá kumpanie, kde byli samí Němci od Krumlovska a Kašperských Hor, hulákala:
 
-  
+</section>
+
+<section>
 
 _„Wann ich kumm, wann ich kumm,  
 wann ich wieda, wieda kumm.“_
 
-  
+</section>
+
+<section>
 
 A z jiného vagónu nějaký zoufalec řval ke vzdalujícím se Budě­jovicům:
 
-  
+</section>
+
+<section>
 
 _„Und du, mein Schatz,  
 bleibst hier.  
 Holarjó, holarjó, holo!“_
 
-  
+</section>
+
+<section>
 
 Bylo to takové hrozné jódlování a ječení, že ho museli kamarádi odtáhnout od otevřených dveří dobytčího vozu.
 
@@ -188,13 +198,17 @@ Byl přerušen výkřikem ze spaní vrchního polního kuráta:
 
 A jednoroční dobrovolník počal zpívat:
 
-  
+</section>
+
+<section>
 
 _„Spi, děťátko, spi, zavři očka svý,  
 pánbůh bude s tebou spáti,  
 andělíček kolíbati, spi, děťátko, spi.“_
 
-  
+</section>
+
+<section>
 
 Zoufalý desátník nereagoval již na nic. Díval se tupě do kraje a dal plný průběh naprosté dezorganizaci v arestantském kupé.
 
@@ -260,19 +274,25 @@ Můj šéf, pan Fuchs, seděl jako vždy v kavárně a četl krajinské noviny
 
 Četl jsem hlasitě před celou kavárenskou publikou:
 
-  
+</section>
+
+<section>
 
 ‚Ctěná redakce!
 
 Upozornil jsem, že váš časopis zavádí názvosloví nezvyklé a neodůvodněné, že příliš málo dbá čistoty jazyka českého, vymýšlí si různá zvířata. Uvedl jsem doklad, že místo všeobecně užívaného starodávného názvu sojka zavádí váš redaktor žaludník, což má podklad v překladě německého názvu Eichelhäher – sojka.‘
 
-  
+</section>
+
+<section>
 
 ‚Sojka,‘ opakoval po mně zoufale majitel časopisu.
 
 Četl jsem klidně dál:
 
-  
+</section>
+
+<section>
 
 ‚Nato jsem od vašeho redaktora Světa zvířat obdržel dopis nesmírně hrubého, osobního a neumaleného rázu, kde jsem byl nazván trestuhodně ignorantským hovadem, což zasluhuje pokárání důrazného. Tak se neodpovídá na věcné vědecké výtky mezi slušnými lidmi. Rád bych věděl, kdo je z nás obou větší hovado. Snad, pravda, neměl jsem činiti výtky dopisnicí a dopsati listem, ale pro nával práce nevšiml jsem si té malichernosti, ale nyní po sprostém výpadu vašeho redaktora Svět zvířat vedu na veřejný pranýř.
 
@@ -282,13 +302,17 @@ Než to jsou věci vedlejší, ač by zajisté nebylo na škodu, kdyby se váš 
 
 Nejde ostatně o osobní polemiku bláznivého chlapa, nýbrž o věc, a proto opakuji znova, že vymýšlet si z překladů názvy jest nepřípustné, když máme všeobecně známý domácí název sojka.‘
 
-  
+</section>
+
+<section>
 
 ‚Ano, sojka,‘ ještě zoufalejším hlasem pronesl můj šéf.
 
 Čtu spokojeně dál, nedaje se přerušovat.
 
-  
+</section>
+
+<section>
 
 ‚Je to darebáctví, když se to děje od neodborníků a surovců. Kdo kdy říkal sojce ořešník? V díle Naši ptáci na str. 148 jest latinský název: Garrulus glandarius B. A., je ten můj pták – sojka.
 
@@ -296,7 +320,9 @@ Redaktor vašeho listu zajisté uzná, že znám lépe svého ptáka, než ho m�
 
 Sojka zůstane sojkou, i kdyby se redaktor Světa zvířat z toho podě…l, a zůstane to jen dokladem, jak lehkomyslně a nevěcně se leckdys píše, byť by se i on dovolával Brehma nápadně neurvale. Ten sprosťák píše, že sojka patří podle Brehma do čeledi krokodýlovitých, str. 452, kde se mluví o ťuhýku čili strakoši obecném (Lanius minor L.). Pak se tento ignorant, smím-li to jeho jméno zdrobnit, dovolává opět Brehma, že sojka patří do čeledi patnácté, a Brehm havranovité počítá do čeledi sedmnácté, k nimž druží se havrani, rod kavek, a jest tak sprostý, že i mne nazval kavkou (Colaeus) a rodem strak, vran modrých, podčeledí blbounů nejapných, ačkoliv na téže stránce jedná se o sojkách hájních a strakách pestrých…‘
 
-  
+</section>
+
+<section>
 
 ‚Sojky hájní,‘ vzdychl můj vydavatel časopisu, chytaje se za hlavu, ‚dejte to sem, ať to dočtu.‘
 
@@ -376,7 +402,9 @@ Vojenský vlak vjížděl do stanice, kde inspekce prohlížela vagóny. Vlak se
 
 Do vagónu vstoupila inspekce.
 
-  
+</section>
+
+<section>
 
 Velitelem vojenského vlaku byl štábem naznačen rezervní důstojník doktor Mráz.
 
@@ -444,12 +472,16 @@ Vodpravili celej materiál do Vídně a nakonec vyšlo to tak, že pokud se tý
 
 Jestli vás, pane kaprál, zavřou,“ pokračoval Švejk s milým úsměvem, „jestli se vám stane nějaký to příkoří, tak nesmíte ztrácet ducha, a jestli voni si budou myslet svoje, vy si taky myslete svoje. Jako jsem znal jednoho uhlíře, kerej byl se mnou zavřenej na začátku války na policejním ředitelství v Praze, nějakej František Škvor, pro velezradu, a později snad taky vodpravenej kvůli nějakej pragmatickej sankci. Ten člověk, když se ho u vejslechu ptali, jestli má nějaký námitky proti protokolu, řek:
 
-  
+</section>
+
+<section>
 
 _‚Ať si bylo, jak si bylo, přece jaksi bylo,  
 ještě nikdy nebylo, aby jaksi nebylo.‘_
 
-  
+</section>
+
+<section>
 
 Potom ho za to dali do temný komůrky a nedali mu nic jíst a pít po dva dny a zas ho vyvedli k vejslechu, a on stál na svým, že ať si bylo, jak si bylo, přece jaksi bylo, ještě nikdy nebylo, aby jaksi nebylo. Může bejt, že šel s tím i pod šibenici, když ho potom dali k vojenskýmu soudu.“
 
@@ -547,12 +579,16 @@ Počal rozdávat cigarety ze své tašky všem, nejen Švejkovi, a prohlašoval
 
 Vrchní polní kurát se odmlčel a potom převáděl rozhovor na kuchařský problém ve Starém i Novém zákoně, kde právě v těch dobách dbali velice na úpravu chutných krmí po bohoslužbách a jiných církevních slavnostech. Potom vyzval všechny, aby něco zazpívali, načež Švejk spustil jako vždycky nešťastně:
 
-  
+</section>
+
+<section>
 
 _„Ide Marína od Hodonína,  
 za ní pan farář s bečicú vína.“_
 
-  
+</section>
+
+<section>
 
 Ale vrchní polní kurát se nerozhněval.
 
@@ -674,7 +710,9 @@ Nadporučík Lukáš si vzdychl.
 
 „Poslušně hlásím, že už lezu, pane obrlajtnant.“
 
-  
+</section>
+
+<section>
 
 Nad vojenským táborem v Mostě panovalo noční ticho. V barácích pro mužstvo třásli se vojáci zimou a v důstojnických barácích otvírali okna, poněvadž bylo přetopeno.
 
@@ -784,51 +822,73 @@ Nemluvil mnoho a pil zato víc, kombinuje, co má vlastně napsat té přísné
 
 Ve velice dobré náladě odešel do malé kavárny U kříže sv. Štěpána, kde zašel do malého chambre séparée, vyhnal odtamtud nějakou Rumunku, která se nabízela, že se svlékne do naha a že si s ní může dělat, co chce, poručil si inkoust, péro a dopisní papír, láhev koňaku a napsal po bedlivé úvaze toto psaní, které se mu zdálo být vůbec nejhezčím, které kdy napsal:
 
-  
+</section>
+
+<section>
 
 _Milostivá paní!_
 
 _Byl jsem včera přítomen v městském divadle hře, která Vás rozhořčila. Sledoval jsem Vás již při celém prvním jednání, Vás i Vašeho pana manžela. Jak jsem pozoroval…_
 
-  
+</section>
+
+<section>
 
 „Jen do něho,“ řekl si nadporučík Lukáš, „jaké má právo ten chlap mít takovou roztomilou ženu. Vždyť vypadá jako oholený pavián.“
 
 Psal dál:
 
-  
+</section>
+
+<section>
 
 _Váš pan manžel s nejlepším porozuměním díval se na oplzlosti prováděné na jevišti ve hře, která ve Vás, milostivá paní, působila odpor, poněvadž to nebylo umění, ale hnusné působení na nejintimnější city člověka._
 
-  
+</section>
+
+<section>
 
 „Ta ženská má poprsí,“ pomyslil si nadporučík Lukáš, „jen přímo do toho!“
 
-  
+</section>
+
+<section>
 
 _Odpusťte, milostivá paní, že mne neznáte, ale přesto že jsem k Vám upřímný. Viděl jsem v životě mnoho žen, ale žádná na mne neučinila takový dojem jako Vy, neboť Váš úsudek a životní názor shoduje se úplně s mým názorem. Jsem přesvědčen, že Váš pan manžel je čistý sobec, který Vás tahá s sebou…_
 
-  
+</section>
+
+<section>
 
 „To nejde,“ řekl k sobě nadporučík Lukáš a přeškrtl „schleppt mit“ a místo toho psal:
 
-  
+</section>
+
+<section>
 
 _… který v zájmu svém vodí Vás, milostivá, s sebou na divadelní představení odpovídající jedině jeho vkusu. Mám rád upřímnost, nevtírám se nijak ve Váš soukromý život, a přál bych si pohovořit s Vámi soukromě o čistém umění…_
 
-  
+</section>
+
+<section>
 
 „Zde v hotelích to nepůjde, budu ji muset zatáhnout do Vídně,“ pomyslil si ještě nadporučík, „vezmu si komandýrovku.“
 
-  
+</section>
+
+<section>
 
 _Proto osměluji se, milostivá paní, poprositi Vás o setkání, abychom se blíže čestně seznámili, což jistě neodřeknete tomu, jehož v nejkratší době očekávají svízelné válečné pochody a který, v případě Vašeho laskavého svolení, zachová si v bitevní vřavě nejkrásnější vzpomínku na duši, která ho stejně pochopila, jako ji on sám chápal. Vaše rozhodnutí bude mi pokynem, Vaše odpověď rozhodujícím okamžikem v životě._
 
-  
+</section>
+
+<section>
 
 Podepsal se, vypil koňak a poručil si ještě jednu láhev, a pije číšku za číškou, takřka po každé větě doopravdy zaslzel, když přečetl své poslední řádky.
 
-  
+</section>
+
+<section>
 
 Bylo devět hodin ráno, když Švejk probudil nadporučíka Lukáše:
 
@@ -924,7 +984,9 @@ A ještě tišeji dodal:
 
 A kdyby byl někdo v průjezdě a rozuměl česky, byl by zaslechl již ze schodů hlasitěji pronesené Vodičkovo heslo: „Ty Maďary neznáš…“, heslo, ku kterému on došel v tichém lokále nad řekou Litavou, mezi zahradami slavné Királyhidy, obklopené vrchy, na které budou vojáci vzpomínat vždy s proklínáním při vzpomínkách na ty všechny übunky do světové války i za světové války, na kterých se cvičili teoreticky masakrům a řežím.
 
-  
+</section>
+
+<section>
 
 Švejk s Vodičkou stáli před dveřmi bytu pana Kákonyiho. Než přitlačil na knoflík zvonku, poznamenal Švejk:
 
@@ -1013,3 +1075,5 @@ Trvalo to hezkou chvíli, ale všechno pěkné má taky své konce. Přišel ber
 Starý sapér Vodička po celou cestu tvrdošíjně mlčel. Až teprve když vcházeli na hauptvachu, řekl zasmušile k Švejkovi:
 
 „Nepovídal jsem ti to, že Maďary neznáš?“
+
+</section>

@@ -3,6 +3,8 @@ title: 15\. Katastrofa
 contentType: prose
 ---
 
+<section>
+
 Plukovník Bedřich Kraus, mající též přídomek von Zillergut, po nějaké vesničce v Solnohradech, kterou jeho předkové prožrali již ve století osmnáctém, byl úctyhodným pitomcem. Když něco vypravoval, mluvil samé pozitivní věci, tázaje se přitom, zdali všichni rozumí nejprimitivnějším výrazům:
 
 „Tedy okno, pánové, ano. Víte, co je to okno?“
@@ -49,12 +51,16 @@ Strašně se vždy rozčiloval, když četl v novinách, že opět přivezli za
 
 Nebyl o nic horší než německý básník Vierordt, který uveřejnil za války verše, aby Německo nenávidělo a zabíjelo s železnou duší milióny francouzských ďáblů:
 
-  
+</section>
+
+<section>
 
 _Ať až k oblakům nad hory  
 hromadí se lidské kosti a kouřící se maso…_
 
-  
+</section>
+
+<section>
 
 Ukončiv vyučování ve škole jednoročních dobrovolníků, vyšel si nadporučík Lukáš na procházku s Maxem.
 
@@ -116,7 +122,9 @@ Plukovník vlastnoručně ho táhl do kasáren k potrestání, spílaje mu moř
 
 „Já ho zabiju, pacholka,“ řekl k sobě, sedaje do elektriky.
 
-  
+</section>
+
+<section>
 
 Mezitím byl dobrý voják Švejk pohřížen v rozmluvu s ordonancí z kasáren. Voják přinesl nadporučíkovi nějaké listiny k podpisu a čekal nyní.
 
@@ -208,22 +216,30 @@ Nadporučík se odvrátil, vzdychl a uznal za vhodné místo Švejkem obírat s
 
 Švejk šukal již v kuchyni a nadporučík Lukáš slyšel zpěv Švejkův:
 
-  
+</section>
+
+<section>
 
 _„Mašíruje Grenevil Prašnou bránou na špacír,  
 šavle se mu blejskají, hezký holky plakají…“_
 
-  
+</section>
+
+<section>
 
 Potom dál z kuchyně ozýval se zpěv:
 
-  
+</section>
+
+<section>
 
 _„My vojáci, my jsme páni,  
 nás milujou holky samy,  
 fasujeme peníze, máme se všudy dobře…“_
 
-  
+</section>
+
+<section>
 
 „Ty se máš jistě dobře, holomku,“ pomyslil si nadporučík a odplivl si.
 
@@ -235,7 +251,9 @@ Ve dveřích se objevila hlava Švejkova:
 
 Řekl to stísněným hlasem a odcházel, vrhaje na Švejka zničující pohled.
 
-  
+</section>
+
+<section>
 
 Nebyl to raport, bylo to něco horšího. Plukovník seděl velice zachmuřeně v křesle, když nadporučík vstoupil do jeho kanceláře.
 
@@ -266,3 +284,5 @@ Vrátiv se domů, řekl k Švejkovi významně:
 „Tak vám, Švejku,“ slavnostním hlasem řekl nadporučík, „oznamuji, že pojedete se mnou _maršbaťákem_, když máte rád takovou zkráceninu. Ale nemyslete si, že na frontě budete vyvádět podobné blbosti jako zde. Máte radost?“
 
 „Poslušně hlásím, pane obrlajtnant, že mám náramnou radost,“ odpověděl dobrý voják Švejk, „to bude něco nádhernýho, když voba padneme spolu za císaře pána a jeho rodinu…“
+
+</section>

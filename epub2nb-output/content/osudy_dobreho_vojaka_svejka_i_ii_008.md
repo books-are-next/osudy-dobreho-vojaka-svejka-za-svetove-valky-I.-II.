@@ -3,6 +3,8 @@ title: 2\. Dobrý voják Švejk na policejním ředitelství
 contentType: prose
 ---
 
+<section>
+
 Sarajevský atentát naplnil policejní ředitelství četnými oběťmi. Vodili to jednoho po druhém a starý inspektor v přijímací kanceláři říkal svým dobráckým hlasem:
 
 „Von se vám ten Ferdinand nevyplatí!“
@@ -175,7 +177,9 @@ Přísný pán psal něco na aktech, a podávaje Švejkovi péro, vyzval ho, ab
 
 A Švejk podepsal udání Bretschneidrovo i tento dodatek:
 
-  
+</section>
+
+<section>
 
 _Vše výše ukázaná obvinění proti mně zakládají se na pravdě._
 
@@ -210,3 +214,5 @@ Ukládaje se na kavalec, řekl Švejk:
 Ráno však ho vzbudili i bez budíčku a přesně v šest hodin Švejka odváželi v zeleném antonu k zemskému trestnímu soudu.
 
 „Ranní ptáče dál doskáče,“ řekl Švejk k svým spolucestujícím, když zelený anton vyjížděl ze vrat policejního ředitelství.
+
+</section>

@@ -3,6 +3,8 @@ title: "5\\. Švejk na policejním komisařství v\_Salmově ulici"
 contentType: prose
 ---
 
+<section>
+
 Po krásných slunných dnech v blázinci přišly na Švejka hodiny plné pronásledování. Policejní inspektor Braun aranžoval scénu setkání se Švejkem s krutostí římských pochopů doby roztomilého císaře Nerona. Tvrdě, jako tenkrát, když oni říkali: „Hoďte toho lumpa křesťana lvům,“ řekl inspektor Braun: „Dejte ho za katr!“
 
 Ani o slovíčko více, ani méně. Jenom oči pana policejního inspektora Brauna zasvítily přitom zvláštní, perverzní rozkoší.
@@ -138,3 +140,5 @@ Někdo z nadšeného davu narazil mu klobouk přes uši a tak za sběhu lidu d
 A kdesi v dálných dálavách historie snášela se k Evropě pravda, že zítřek rozboří i plány přítomnosti.
 
 [^1]: Někteří spisovatelé užívají výrazu „hryžou výčitky svědomí“. Nepovažuji ten výraz úplně přiléhajícím. I tygr člověka žere, a nehryže.
+
+</section>

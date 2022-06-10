@@ -3,6 +3,8 @@ title: 2\. Švejkova budějovická anabaze
 contentType: prose
 ---
 
+<section>
+
 Starověký válečník Xenofón prošel celou Malou Asii a byl bůhvíkde bez mapy. Staří Gótové dělali své výpravy také bez topografické znalosti. Mašírovat pořád kupředu, tomu se říká anabaze. Prodírat se neznámými krajinami. Být obklíčený nepřáteli, kteří číhají na nejbližší příležitost, aby ti zakroutili krk. Když má někdo dobrou hlavu, jako ji měl Xenofón nebo všichni ti loupežní kmenové, kteří přišli do Evropy až bůhvíodkud od Kaspického nebo Azovského moře, dělá pravé divy na pochodu.
 
 Tam někde na severu u Galského moře, kam až se také dostaly římské legie Caesarovy bez mapy, řekly si jednou, že se zas vrátí a pomašírujou jinou cestou, aby ještě víc toho užily, do Říma. A dostaly se tam také. Od té doby se říká patrně, že všechny cesty vedou do Říma.
@@ -13,12 +15,16 @@ Stejně vedou také všechny cesty do Českých Budějovic. O čemž byl plnou 
 
 A tak Švejk se objevil na západ od Milevska v Květově, když již vystřídal všechny vojenské písně, které znal o mašírování vojáků, takže byl nucen začít znova před Květovem s písní:
 
-  
+</section>
+
+<section>
 
 _„Když jsme mašírovali,  
 všechny holky plakaly…“_
 
-  
+</section>
+
+<section>
 
 Nějaká stará babička, která vracela se z kostela, zavedla na cestě od Květova do Vráže, což je neustále západním směrem, řeč se Švejkem křesťanským pozdravem:
 
@@ -786,7 +792,9 @@ Rytmistr byl pevně přesvědčen, že stojí zde na stráži, že něco zachra�
 
 „Tak jsem vám zas měl dneska srandu z našeho starýho mrťafy…“
 
-  
+</section>
+
+<section>
 
 Rytmistr studoval bericht četnického strážmistra z Putimě o Švejkovi. Před ním stál jeho četnický strážmistr Matějka a myslel si, aby mu rytmistr vlezl na záda i se všemi berichty, poněvadž dole u Otavy čekají na něho s partií šnopsa.
 
@@ -832,13 +840,17 @@ Mluvil ohnivě a rytmistr mechanicky kreslil tužkou na kus papíru mrtvý kruh
 
 Rytmistr se dlouho nerozmýšlel a pomyslil si jen, že taková okružní cesta člověka, který chce se dostat k svému regimentu, je známkou nejhlubší lidské degenerace, i dal vyklepat v kanceláři na stroji, šetře všech pravidel a krás úředního slohu:
 
-  
+</section>
+
+<section>
 
 _Slavnému velitelství c. k. pěšího pluku č. 91 v Českých Budě­jovicích._
 
 _V příloze předvádí se Josef Švejk, dle dotyčného tvrzení býti pěšákem téhož pluku, zadržený na základě svého vyjádření v Putimi, okres Písek, četnickou stanicí, podezřelý ze zběhnutí. Týž uvádí, že se odebírá k svému výše označenému pluku. Předvedený jest menší zavalité postavy, souměrného obličeje a nosu s modrýma očima, bez zvláštního znamení. V příloze B1 zasílá se účet za stravování dotyčného k laskavému převedení na účet min. zem. obrany s žádostí o potvrzení přijetí předvedeného. V příloze C1 zasílá se ku potvrzení seznam erárních věcí, které měl zadržený na sobě v době svého zachycení._
 
-  
+</section>
+
+<section>
 
 Cesta z Písku do Budějovic ve vlaku ušla Švejkovi bystře a rychle. Jeho společníkem byl mladý četník, nováček, který nespouštěl ze Švejka oči a měl hrozný strach, aby mu Švejk neutekl. Po celé cestě luštil těžký problém: „Kdybych teď musel jít na malou nebo na velkou stranu, jak to udělám?“
 
@@ -856,7 +868,9 @@ U celé té scény byl praporčík Koťátko, který později vypravoval, že p
 
 Tím skončila Švejkova budějovická anabaze. Je jisto, že kdyby byla popřána Švejkovi volnost pohybu, že by byl sám došel do Budějovic. Jestli úřady se mohly chvástat, že ony dopravily Švejka na místo služby, je to prostě omyl. Při jeho energii a nezmarné chuti bojovat zakročení úřadů v tom případě bylo házením klacků Švejkovi pod nohy.
 
-  
+</section>
+
+<section>
 
 Švejk a nadporučík Lukáš dívali se sobě do očí.
 
@@ -898,7 +912,9 @@ Svou zpověď zakončil jednoroční dobrovolník slavnostně:
 
 „Došlo i na Kartágo, z Ninive udělali zříceniny, milý příteli, ale hlavu vzhůru! Ať si nemyslí, že když mne pošlou na frontu, že dám jednu ránu. Regimentsraport! Vyloučení ze školy! Ať žije c. k. kretenismus! Budu já jim dřepět ve škole a skládat zkoušky. Kadet, fénrich, lajtnant, obrlajtnant. Naseru jim! Offiziersschule. Behandlung jener Schüler derselben, welche einen Jahrgang repetieren müssen! Vojenská paralýza. Nosí se kvér na levém nebo pravém rameni? Kolik má kaprál hvězdiček? Evidenzhaltung Militärreservemänner! – Himlhergot není co kouřit, kamaráde. Nechcete, abych vás naučil plivat na strop? Podívejte se, to se dělá takhle. Myslete si přitom něco, a vaše přání se splní. Jestli rád pijete pivo, mohu vám doporučiti výbornou vodu tamhle ve džbáně. Máte-li hlad a chcete-li chutně pojíst, doporučuji vám Měšťanskou besedu. Mohu vám též rekomendovat, abyste psal z dlouhé chvíle básně. Já již zde složil epopej:
 
-  
+</section>
+
+<section>
 
 _Je profous doma? On spí, hochu, klidně,  
 zde armády je těžiště,  
@@ -911,7 +927,9 @@ když se mu to podaří:
 ‚Říš rakouská nezahyne,  
 sláva vlasti, císaři!‘_
 
-  
+</section>
+
+<section>
 
 Vidíte, kamaráde,“ pokračoval tlustý jednoroční dobrovolník, „pak ať někdo řekne, že mizí mezi lidem úcta k našemu milému mocnářství. Uvězněný muž, který nemá co kouřit a na kterého čeká regimentsraport, podává nejkrásnější případ příchylnosti k trůnu. Skládá ve svých písních hold své širší vlasti, ohrožené ze všech stran výpraskem. Je zbaven svobody, ale z jeho úst plynou verše neochvějné oddanosti. Morituri te salutant, caesar! Mrtví tě pozdravují, císaři, ale profous je pacholek. Máš to pěknou čeládku ve svých službách. Předevčírem dal jsem mu pět korun, aby mně koupil cigarety, a on chlap mizerná dnes ráno řekl, že se zde nesmí kouřit, že by z toho měl opletání a těch pět korun že mně vrátí, až bude lénunk. Ano, kamaráde, nevěřím dnes ničemu. Nejlepší hesla jsou zvrácena. Vězně okrádati! A ten chlap si ještě ke všemu celý den zpívá. ‚Wo man singt, da leg’ dich sicher nieder, böse Leute haben keine Lieder!‘ Ničema, uličník, padouch, zrádce!“
 
@@ -927,12 +945,16 @@ Tlustý jednoroční dobrovolník převalil se na druhý slamník a pokračoval
 
 „To je jisté, že tohle musí jednou všechno prasknout a že to nemůže trvat věčně. Zkuste pumpovat slávu do prasete, tak vám nakonec přece jen vybouchne. Kdybych jel na frontu, tak bych napsal na ešalon:
 
-  
+</section>
+
+<section>
 
 _Lidskými hnáty zúrodníme lán.  
 Acht Pferde oder achtundvierzig Mann.“_
 
-  
+</section>
+
+<section>
 
 Otevřely se dveře a objevil se profous, přinášeje čtvrt porce komisárku pro oba a čerstvou vodu.
 
@@ -954,21 +976,29 @@ Seděli se Švejkem na pryčně a hryzli komisárek.
 
 Dal se do zpěvu:
 
-  
+</section>
+
+<section>
 
 _„Nebála se ani čerta,  
 vtom ji potkal kanonýr.“_
 
-  
+</section>
+
+<section>
 
 „Milý příteli,“ vykládal dál, „pozorujeme-li to všechno v měřítku naší milé monarchie, dospíváme neodvolatelně k tomu závěru, že je to s ní právě tak jako se strýcem Puškina, o kterém ten napsal, že nezbývá jen, poněvadž strýc je chcíplotina:
 
-  
+</section>
+
+<section>
 
 _Vzdychat i myslet pro sebe,  
 kdypak čert vezme tebe!“_
 
-  
+</section>
+
+<section>
 
 Ozvalo se opět zarachocení klíče ve dveřích a profous na chodbě rozsvěcoval petrolejovou lampičku.
 
@@ -1058,27 +1088,35 @@ Anebo,“ pokračoval Švejk, „taky je náramná legrace, když pozůstalí po
 
 „Z toho vyplývá,“ řekl jednoroční dobrovolník, „že všechna sláva polní tráva. Teď vydali ve Vídni Zápisník jednoročního dobrovolníka a tam je tento úchvatný verš v českém překladě:
 
-  
+</section>
+
+<section>
 
 _Byl jednou jednoročák statný,  
 ten za vlast, krále svého pad  
 a příklad podal druhům zdatný,  
 jak za vlast třeba bojovat._
 
-  
+</section>
+
+<section>
 
 _Hle, mrtvolu již na lafetě nesou,  
 na prsa hejtman dal mu řád,  
 modlitby tiché ku nebi se vznesou  
 za toho, který za vlast pad._
 
-  
+</section>
+
+<section>
 
 Tak mně připadá,“ řekl jednoroční dobrovolník po krátké pomlčce, „že duch vojenský v nás upadá, navrhuji, milý příteli, abychom v noční tmě, v tichu našeho vězení, si zazpívali o kanonýrovi Jabůrkovi. To povznese vojenského ducha. Ale musíme řvát, aby to bylo slyšet po celých Mariánských kasárnách. Navrhuji proto, abychom se postavili ke dveřím.“
 
 A z arestu ozval se za chvíli řev, až se na chodbě okna třásla:
 
-  
+</section>
+
+<section>
 
 _„… A u kanónu stál  
 a pořád ládo – ládo…  
@@ -1091,7 +1129,9 @@ a pořád ládo – ládo…
 u kanónu stál  
 a pořád ládoval…“_
 
-  
+</section>
+
+<section>
 
 Na nádvoří ozvaly se kroky a hlasy.
 
@@ -1239,37 +1279,51 @@ Tak se opět setkal Švejk s jednoročním dobrovolníkem v plukovním arestě
 
 Nadporučík Lukáš zdrceně se vypotácel z plukovníkovy kanceláře.
 
-  
+</section>
+
+<section>
 
 Během těch tří dnů, které strávil Švejk ve společnosti jednoročního dobrovolníka Marka, bavil se velice dobře. Každého večera oba pořádali na pryčnách vlastenecké projevy.
 
 Večer z arestu ozývalo se vždy „Zachovej nám, Hospodine“ a „Prinz Eugen, der edle Ritter“. Přezpívali též celou řadu vojenských písniček, a když přicházíval profous, znělo mu na uvítanou:
 
-  
+</section>
+
+<section>
 
 _Ten náš starej profous,  
 ten nesmí zemříti,  
 pro toho si musí  
 čert z pekla přijíti._
 
-  
+</section>
+
+<section>
 
 _Přijde pro něj s vozem  
 a praští s ním vo zem,  
 čerti si s ním v pekle  
 pěkně zatopěj…_
 
-  
+</section>
+
+<section>
 
 A nad pryčnu nakreslil jednoroční dobrovolník profouse a pod něho napsal text staré písničky:
 
-  
+</section>
+
+<section>
 
 _Když jsem šel do Prahy pro jelita,  
 potkal jsem na cestě tajtrlíka.  
 Nebyl to tajtrlík, byl to profous,  
 kdybych byl neutek, byl by mne kous._
 
-  
+</section>
+
+<section>
 
 A zatímco oba tak dráždili profouse, jako v Seville andaluského býka dráždí červeným šátkem, nadporučík Lukáš s úzkostí očekával, kdy se objeví Švejk, aby hlásil, že nastupuje opět službu.
+
+</section>

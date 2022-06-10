@@ -3,6 +3,8 @@ title: 7\. Švejk jde na vojnu
 contentType: prose
 ---
 
+<section>
+
 V době, kdy lesy na řece Rábu v Haliči viděly utíkat přes Ráb rakouská vojska a dole v Srbsku rakouské divize jedna za druhou dostávaly přes kalhoty to, co jim dávno patřilo, vzpomnělo si rakouské ministerstvo vojenství i na Švejka, aby pomohl mocnářství z bryndy.
 
 Švejk, když mu přinesli vyrozumění, že se má za týden dostavit na Střelecký ostrov k lékařské prohlídce, ležel právě v posteli, stižen opětně revmatismem.
@@ -37,7 +39,9 @@ Paní Müllerová se dala do pláče:
 
 A zatímco paní Müllerová, uplakaná a rozechvělá, cedila kávu, dobrý voják Švejk si zpíval na posteli:
 
-  
+</section>
+
+<section>
 
 _„Jenerál Windischgrätz a vojenští páni  
 od východu slunce vojnu započali;  
@@ -46,11 +50,15 @@ Vojnu započali, takto jsou zvolali:
 Pomoz nám Kristus Pán s Panenkou Marií;  
 hop, hop, hop!“_
 
-  
+</section>
+
+<section>
 
 Uděšená paní Müllerová pod dojmem strašného válečného zpěvu zapomněla na kávu a třesouc se na celém těle uděšeně naslouchala, jak dobrý voják Švejk dál zpívá na posteli:
 
-  
+</section>
+
+<section>
 
 _„S Panenkou Marií a ty čtyry mosty,  
 postav si, Pimonte, silnější forposty;  
@@ -65,17 +73,23 @@ Vosumnáctá chaso, neboj se ty nouze,
 vždyť za tebou vezou peníze na voze;  
 hop, hop, hop!“_
 
-  
+</section>
+
+<section>
 
 „Milostpane, proboha jich prosím,“ ozvalo se žalostivě z kuchyně, ale Švejk již končil svou válečnou píseň:
 
-  
+</section>
+
+<section>
 
 _„Peníze na voze a menáž v kočáře,  
 kerejpak regiment tohlencto dokáže?  
 Hop, hop, hop!“_
 
-  
+</section>
+
+<section>
 
 Paní Müllerová vyrazila ze dveří a běžela pro lékaře. Vrátila se za hodinu, zatímco Švejk si zdříml.
 
@@ -131,11 +145,15 @@ Když Švejk revírnímu inspektorovi ukázal, že to má černé na bílém, ž
 
 O celé této události objevil se v Pražských úředních novinách tento článek:
 
-  
+</section>
+
+<section>
 
 _Vlastenectví mrzáka._ Včera dopoledne byli chodci na hlavních pražských třídách svědky scény, která krásně mluví o tom, že v této veliké a vážné době i synové našeho národa mohou dáti nejskvělejší příklady věrnosti a oddanosti k trůnu stařičkého mocnáře. Zdá se nám, že se vrátily doby starých Řeků a Římanů, kdy Mucius Scaevola dal se odvésti do boje, nedbaje své upálené ruky. Nejsvětější city a zájmy byly včera krásně demonstrovány mrzákem o berlích, kterého stará matička vezla na vozíku pro nemocné. Tento syn českého národa dobrovolně, nedbaje své neduživosti, dal se odvésti na vojnu, aby dal svůj život i statky za svého císaře. A jestli jeho volání „Na Bělehrad!“ mělo tak živý ohlas v pražských ulicích, jest to jen svědectvím, že Pražané skýtají vzorné příklady lásky k vlasti a k panovnickému domu.
 
-  
+</section>
+
+<section>
 
 Ve stejném smyslu psal i Prager Tagblatt, který končil svůj článek slovy, že mrzáka dobrovolce vyprovázel zástup Němců, kteří ho svými těly chránili před lynčováním ze strany českých agentů známé Dohody.
 
@@ -178,3 +196,5 @@ Bajonety svítily v záři slunce a na Malé Straně obrátil se Švejk před 
 „Na Bělehrad! Na Bělehrad!“
 
 A maršálek Radecký snivě se díval ze svého pomníku za vzdalujícím se dobrým vojákem Švejkem s rekrutskou kytkou na kabátě, kulhajícím na starých berlích, zatímco sděloval nějaký vážný pán lidem kolem, že vedou dezertéra.
+
+</section>

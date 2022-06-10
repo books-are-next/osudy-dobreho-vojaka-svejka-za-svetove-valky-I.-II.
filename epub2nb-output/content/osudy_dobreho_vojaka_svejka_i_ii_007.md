@@ -3,6 +3,8 @@ title: 1\. Zasáhnutí dobrého vojáka Švejka do světové války
 contentType: prose
 ---
 
+<section>
+
 „Tak nám zabili Ferdinanda,“ řekla posluhovačka panu Švejkovi, který opustiv před léty vojenskou službu, když byl definitivně prohlášen vojenskou lékařskou komisí za blba, živil se prodejem psů, ošklivých nečistokrevných oblud, kterým padělal rodokmeny.
 
 Kromě tohoto zaměstnání byl stižen revmatismem a mazal si právě kolena opodeldokem.
@@ -174,3 +176,5 @@ A zatímco vedli Švejka do přijímací kanceláře, u Kalicha předával pan
 „Neplač, neřvi, co mně mohou udělat kvůli posranýmu obrazu císaře pána?“
 
 A tak zasáhl dobrý voják Švejk do světové války svým milým, roztomilým způsobem. Historiky bude zajímat, že on viděl daleko do budoucnosti. Jestli situace vyvinula se později jinak, než jak on vykládal u Kalicha, musíme mít na zřeteli, že neměl průpravného diplomatického vzdělání.
+
+</section>

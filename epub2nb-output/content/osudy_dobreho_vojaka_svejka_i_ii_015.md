@@ -3,6 +3,8 @@ title: 9\. Švejk na garnizóně
 contentType: prose
 ---
 
+<section>
+
 Posledním útočištěm lidí, kteří nechtěli jít do války, byl garnizón. Znal jsem jednoho suplenta, který nechtěl střílet jako matematik u artilérie a kvůli tomu ukradl hodinky jednomu nadporučíkovi, aby se dostal na garnizón. Učinil tak s plnou rozvahou. Válka mu neimponovala a neokouzlovala ho. Střílet do nepřítele a zabíjet na druhé straně šrapnely a granáty stejně takové nešťastné suplenty, matematiky, považoval za blbost.
 
 „Nechci být nenáviděn pro své násilnictví,“ řekl si a ukradl s klidem hodinky. Zkoumali zprvu jeho duševní stav, a když prohlásil, že se chtěl obohatit, dopravili ho na garnizón. Bylo takových lidí víc, kteří seděli na garnizóně pro krádež nebo podvody. Idealisté i neidealisté. Lidé, kteří považovali vojnu za zdroj příjmů, různí ti účetní poddůstojníci v týlu i na frontě, kteří páchali všemožné podvody s menáží, s žoldem, a potom drobní zlodějové, tisíckrát poctivější než ti chlapi, kteří je sem poslali. Dále na garnizóně seděli vojáci pro různé jiné delikty, čistě vojenského rázu, porušení disciplíny, pokus vzpoury, dezerce. Potom zvláštním typem byli političtí, z kterých osmdesát procent bylo úplně nevinných a z kterých opět devětadevadesát procent bylo odsuzováno.
@@ -19,7 +21,9 @@ A v garnizóně trojice: štábní profous Slavík, hejtman Linhart a šikova
 
 Štábní profous Slavík stal se zlodějem za republiky a je dnes zavřen. Nezakotvil se chudák v republice jako jiní vojenští páni.
 
-  
+</section>
+
+<section>
 
 Je úplně přirozené, že štábní profous Slavík, když přejímal Švejka, vrhl na něho pohled plný němé výčitky:
 
@@ -103,7 +107,9 @@ Polní kurát byl opravdu dnes ve výtečné náladě. Sám ani nevěděl, proč
 
 „Zpívejte něco, hoši,“ křičel dolů, „nebo chcete, abych vás naučil nové písničce? Tak zpívejte za mnou:
 
-  
+</section>
+
+<section>
 
 _Ze všech znejmilejší  
 svou milou já mám,  
@@ -113,7 +119,9 @@ milenců má na tisíce,
 a ta moje znejmilejší  
 je Panenka Maria – – –_
 
-  
+</section>
+
+<section>
 
 Vy se tomu, holomci, nikdy nenaučíte,“ pokračoval polní kurát, „já jsem pro to, všechny vás postřílet; rozumíte mně dobře?! Já to tvrdím z tohoto božího místa, ničemové, neboť bůh je něco, co se vás nebojí a co s vámi zatočí, až budete z toho pitomí, neboť vy váháte obrátit se ke Kristu a raději jdete po trnité cestě hříchu.“
 
@@ -261,7 +269,9 @@ Má se sice tak říkat jen králům a císařům, ale ani prostý štábní pr
 
 Co se týká Švejka, umínil si štábní profous, že Švejk musí alespoň jednu noc přespat ještě na garnizóně, aby také ještě něčeho užil.
 
-  
+</section>
+
+<section>
 
 Noc strávená na garnizóně patří vždy k milým vzpomínkám.
 
@@ -298,3 +308,5 @@ Ale Švejk zklamal jejich naděje. Nevrátil se více do šestnáctky. Devatená
 Nějaký pihovatý voják od zeměbrany, který měl největší fantazii, rozhlásil, že Švejk střelil po svém hejtmanovi a že dnes ho odvedli na motolské cvičiště na popravu.
 
 [^2]: Třicet procent lidí, kteří seděli na garnizóně, sedělo tam přes celou válku, aniž by byli jednou u výslechu.
+
+</section>

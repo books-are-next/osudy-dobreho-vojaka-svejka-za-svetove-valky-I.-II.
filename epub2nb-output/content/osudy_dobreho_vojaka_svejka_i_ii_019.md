@@ -3,6 +3,8 @@ title: 13\. Švejk jde zaopatřovat
 contentType: prose
 ---
 
+<section>
+
 Polní kurát Otto Katz seděl zadumaně nad cirkulářem, který právě přinesl z kasáren. Byl to rezervát ministerstva vojenství:
 
 „Ministerstvo vojenství ruší po dobu války platné předpisy týkající se zaopatřování vojínů armády posledním pomazáním a ustanovuje tyto pravidla pro vojenské duchovní:
@@ -249,16 +251,22 @@ A opakoval svůj výkon rychle a elegantně, zatímco polní kurát bubnoval n
 
 Večer věnovaný rozjímání prošel několik fází. Polní kurát tak zbožně a vroucně přibližoval se k bohu, že ještě ve dvanáct hodin v noci zněl z jeho bytu zpěv:
 
-  
+</section>
+
+<section>
 
 _„Když jsme mašírovali,  
 všechny holky plakaly…“_
 
-  
+</section>
+
+<section>
 
 S ním zpíval i dobrý voják Švejk.
 
-  
+</section>
+
+<section>
 
 Po posledním pomazání ve Vojenské nemocnici toužili dva. Jeden starý major a jeden bankovní disponent, důstojník v záloze. Oba dostali kulku do břicha v Karpatech a leželi vedle sebe. Rezervní důstojník považoval za svou povinnost dát se zaopatřit svátostí umírajících, poněvadž jeho představený toužil po posledním pomazání. Aby se nedal také zaopatřit, považoval za porušení subordinace. Nábožný major to dělal z chytrosti, domnívaje se, že modlitba víry uzdraví nemocného. Tu noc před posledním pomazáním oba však zemřeli, a když se dostavil ráno polní kurát se Švejkem, leželi s obličejem zčernalým pod prostěradlem jako všichni, kteří zemřou zadušením.
 
@@ -333,3 +341,5 @@ Vida v ruce Švejkově lahvičku s ‚posvěceným‘ olejem, zachmuřil se:
 „Zkusím s tím namazat taky zámek,“ dodal Švejk, „strašně vrže, když v noci jdete domů.“
 
 Tak skončilo poslední pomazání, ke kterému nedošlo.
+
+</section>
