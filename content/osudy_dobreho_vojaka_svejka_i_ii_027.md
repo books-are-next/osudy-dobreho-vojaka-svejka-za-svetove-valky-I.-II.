@@ -3,6 +3,8 @@ title: 4\. Nová utrpení
 contentType: prose
 ---
 
+<section>
+
 Plukovník Schröder se zalíbením pozoroval bledý obličej nadporučíka Lukáše, s velkými kruhy pod očima, který v rozpacích nedíval se na plukovníka, ale úkradkem, jako by něco studoval, díval se na plán dislokace mužstev ve vojenském táboře, který byl také jedinou ozdobou v celé kanceláři plukovníka.
 
 Před plukovníkem Schrödrem bylo na stole několik novin s články zatrženými modrou tužkou, které ještě jednou přelétl plukovník zběžně, a řekl, dívaje se na nadporučíka Lukáše:
@@ -45,11 +47,15 @@ Plukovník přelistoval se ve spisech a ukázal nadporučíkovi Lukášovi na t
 
 Myslím, že jsem to dobře stylizoval:
 
-  
+</section>
+
+<section>
 
 _Divizijní soud čís. N a velitelství pluku čís. N prohlašuje, že článek uveřejněný ve zdejším časopise o domnělých výtržnostech mužstva pluku čís. N nezakládá se v ničem na pravdě a od první až do poslední řádky vymyšlen a že vyšetřování zavedené proti oněm časopisům přivodí přísné potrestání viníků._
 
-  
+</section>
+
+<section>
 
 Divizijní soud ve svém přípise na velitelství našeho pluku,“ pokračoval plukovník, „přichází k tomu mínění, že se vlastně o nic jiného nejedná než o soustavné štvaní proti vojenským částem přicházejícím z Cislajtánie do Translajtánie. A porovnejte přitom, kolik vojska odešlo na frontu od nás a kolik od nich. To vám řeknu, že mně je český voják milejší než taková maďarská sběř. Když si vzpomenu, že pod Bělehradem stříleli Maďaři po našem druhém maršbataliónu, který nevěděl, že jsou to Maďaři, kteří po nich střílí, a počal pálit do deutschmajstrů na pravém křídle, a deutschmajstři zas si to také spletli a pustili oheň po bosenském regimentu, který stál vedle! To byla tenkrát situace!
 
@@ -97,7 +103,9 @@ Uslyšev, že Švejka naznačil plukovník ordonancí u 11. kumpanie, zvolal:
 
 „Pomoz nám pánbůh.“
 
-  
+</section>
+
+<section>
 
 U divizijního soudu, v baráku opatřeném mřížemi, vstávali podle předpisu v sedm hodin ráno a dávali do pořádku kavalce válející se v prachu po zemi. Pryčen nebylo. V jednom přepažení v dlouhé místnosti skládali podle předpisu deky na slamník, a kteří byli s prací hotovi, seděli na lavicích podle stěny a buď si hledali vši, ti, kteří přišli z fronty, nebo se bavili vypravováním různých příhod.
 
@@ -121,21 +129,27 @@ Kolem prošel hubený, vytáhlý voják, utrápeného vzezření, s koštětem.
 
 Voják s koštětem odkašlal a spustil:
 
-  
+</section>
+
+<section>
 
 _„Vše zavšiveno, front se drbe celý,  
 veš po nás leze veliká.  
 Pan generál se válí na posteli  
 a každej den se převlíká._
 
-  
+</section>
+
+<section>
 
 _Vším u vojska se velmi dobře daří,  
 i na šarže už přivyká,  
 s vší pruskou už se hbitě páří  
 ten starý všivák rakouský.“_
 
-  
+</section>
+
+<section>
 
 Ztrápený voják-učitel si přisedl na lavici a povzdechl:
 
@@ -217,7 +231,9 @@ Otec že byl alkoholik a zemřel sebevraždou před jeho narozením, matka že 
 
 Panečku, měli jste vidět, jak ho ještě rádi pustili z vojny, a asi pět maníků, kteří seděli s ním v cimře, všichni si to pro všechen případ napsali na papírek asi takhle:
 
-  
+</section>
+
+<section>
 
 _Otec alkoholik. Matka prostitutka._
 
@@ -231,7 +247,9 @@ _Dědeček † ženu, petrolej, zapálil._
 
 _II. babička (cikáni, sirky) † atd._
 
-  
+</section>
+
+<section>
 
 A jeden, když to začal taky přednášet štábnímu lékařovi, už se nedostal ani přes bratrance a štábní lékař, poněvadž už to byl třetí případ, mu řekl: ‚Ty chlape, a tvoje sestřenice z otcovy strany se vrhla ve Vídni z šestýho patra, ty jseš strašně zanedbaného vychování, a tak tě spraví korekce.‘ Tak ho odvedli do korekce, svázali do kozelce, a hned ho přešlo strašně zanedbaný vychování, i otec alkoholik, i matka prostitutka a raději se přihlásil dobrovolně na front.“
 
@@ -343,7 +361,9 @@ To si pamatuj,“ pokračoval Švejk v úvaze, „že se před vojenskejma soud
 
 „Kdybych udělal něco nečestnýho, tak bych se nepřiznal,“ řekl sapér Vodička, „ale když se mne ten kluk auditorská přímo zeptal: Pral jste se?, tak jsem řekl: Ano, pral jsem se. Ztýral jste někoho? Zajisté, pane auditore. Poranil jste při tom někoho? Ovšemže, pane auditore. Ať ví, s kým mluví. A to je právě ta vostuda, že nás vosvobodili. To je, jako kdyby nechtěl věřit tomu, že jsem přerazil vo ty kluky maďarský überšvunk, že jsem z nich udělal nudle, boule a modřiny. Tys byl přece při tom, jak v jeden moment jsem měl tři kluky maďarský na sobě, a jak za chvilku válelo se to všechno na zemi a já šlapal po nich. A po tom po všem zastaví takovej usmrkanej auditorskej kluk s náma vyšetřování. To je, jako by mně řek: ‚Kam se serete, vy a prát se.‘ Až bude po vojně a budu v civilu, já ho, vočumu, někde najdu a pak mu ukážu, jestli se nedovedu prát. Potom přijedu sem do Királyhidy a udělám tady takový binec, že to svět neviděl a že se budou lidi schovávat do sklepa, až se dozvědí, že jsem se přišel podívat na ty rošťáky v Királyhidě, na ty lumpy, na ty pacholky.“
 
-  
+</section>
+
+<section>
 
 V kanceláři bylo všechno odbyto velice rychle. Nějaký felák s hubou ještě zamaštěnou od oběda, podávaje Švejkovi a Vodičkovi papíry s náramně vážnou tváří, nedal si ujít té příležitosti, aby nepronesl k oběma řeč, ve které apeloval na jich vojenského ducha, proplétaje to, poněvadž byl Vasrpolák, různými pěknými výrazy svého nářečí, jako „marekvium“, „glupi rolmopsie“, „krajcová sedmina“, „sviňa porýpaná“ a „dum vám baně na mjesjnuckovy vaši gzichty“.
 
@@ -388,3 +408,5 @@ Potom ozval se ještě, již z velké dálky, Vodička:
 A tak se rozešel dobrý voják Švejk se starým sapérem Vodičkou.
 
 „Wenn die Leute auseinander gehen, da sagen sie Auf Wieder­sehen!“
+
+</section>

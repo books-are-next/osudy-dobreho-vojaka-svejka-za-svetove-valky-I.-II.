@@ -3,6 +3,8 @@ title: "10\\. Švejk vojenským sluhou u\_polního kuráta"
 contentType: prose
 ---
 
+<section>
+
 ## 1
 
 Znovu počíná jeho odysea pod čestným průvodem dvou vojáků s bajonety, kteří ho měli dopravit k polnímu kurátovi.
@@ -109,14 +111,18 @@ A jako poslední trumf počal nepřátelský stůl zpívat: „Loučení, ach l
 
 Švejk vžil se ve vzpomínky, když tu často sedával do vojny. Jak sem chodil policejní komisař Drašner na policejní prohlídku a prostitutky jak se ho bály a skládaly na něho písničky s obsahem opačným. Jak právě jednou zpívaly chórem:
 
-  
+</section>
+
+<section>
 
 _„Za pana Drašnera  
 stala se tu mela,  
 Mařena byla vožralá  
 a Drašnera se nebála.“_
 
-  
+</section>
+
+<section>
 
 Vtom přišel Drašner se svým průvodem, strašný a neúprosný. Bylo to, jako když střelí do koroptví. Civilní strážníci seřadili to všechno do houfu. I on, Švejk, byl tenkrát v tom houfu, poněvadž při své smůle řekl komisaři Drašnerovi, když ho vyzval, aby se legitimoval: „Mají na to povolení od policejního ředitelství?“
 
@@ -292,14 +298,18 @@ Po dlouhém vyjednávání odhodlal se jeden z drožkářů, že je poveze.
 
 Jednu chvíli se zdálo, že drkotáním drožky o dlažbu přichází k rozumu. To se posadil rovně a začal zpívat nějaký úryvek z neznámé písně. Může být též, že to byla jeho fantazie:
 
-  
+</section>
+
+<section>
 
 _„Vzpomínám na zlaté časy,  
 když mne houpal na klíně,  
 bydleli jsme toho času  
 u Domažlic v Merklíně.“_
 
-  
+</section>
+
+<section>
 
 Po chvíli však upadl opět do úplné otupělosti, a obraceje se k Švej­kovi, otázal se, přihmuřuje jedno oko:
 
@@ -541,11 +551,15 @@ V tyto dny spadá též návštěva Švejkova v bytě u jeho staré posluhova
 
 Švejk vzal tu domácí relikvii a četl:
 
-  
+</section>
+
+<section>
 
 _Milá Aninko! Máme se zde velice dobře, všichni jsme zdrávi. Sousedka vedle na posteli má skvrnitý ■■■■ a také jsou zde černé ■■■■. Jinak je vše v pořádku. Jídla máme dost a sbíráme bramborové ■■■ na polívku. Slyšela jsem, že je pan Švejk už ■■■, tak nějak vypátrej, kde leží, abychom po válce mohli mu dát ten hrob obložit. Zapomněla jsem ti říct, že na půdě v pravém rohu je v bedničce jeden malej pejsek ratlíček, štěňátko. Ale to už je kolik neděl, co nedostal nic žrát, od tý doby, kdy si pro mne přišli pro ■■■■■■. Tak myslím, že je už pozdě a že už je ten pejsek taky na pravdě ■■■._
 
-  
+</section>
+
+<section>
 
 A přes celý lístek růžové razítko: Zensuriert. K. k. Konzentrationslager Steinhof.
 
@@ -584,3 +598,5 @@ Přišel až k ránu, probudil Švejka a řekl:
 „Zítra pojedeme sloužit polní mši. Vařte černou kávu s rumem. Anebo ještě lepší, vařte grog.“
 
 [^3]: Je to prostředek dosti osvědčený dostat se do nemocnice. Ale zápach petroleje, který zůstane i v otoku, prozrazuje. Benzín je lepší, protože dříve vyprchá. Později si vstřikovali éter s benzínem a ještě později došli k jinému zdokonalení.
+
+</section>

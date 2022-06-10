@@ -3,6 +3,8 @@ title: 8\. Švejk simulantem
 contentType: prose
 ---
 
+<section>
+
 V této velké době vojenští lékaři dali si neobyčejně záležet, aby ze simulantů vyhnali ďábla sabotáže a vrátili je opět do lůna armády.
 
 Bylo zavedeno několik stupňů trápení simulantů a lidí podezřelých, že jsou simulanti, jakými byli: souchotináři, revmatikové, lidé s kýlou, ledvinovou nemocí, tyfem, cukrovkou, zánětem plic a jinými chorobami.
@@ -175,25 +177,33 @@ Baronka zatím vytahovala dárky z koše. Tucet pečených kuřat, zabalených 
 
 Potom vytáhla z koše tři láhve vína pro rekonvalescenty a dvě krabice cigaret. Vše elegantně rozložila na prázdnou postel vedle Švejka, kam přibyla ještě pěkně vázaná kniha Příběhy ze života našeho mocnáře, kterou napsal nynější zasloužilý šéfredaktor naší úřední Československé republiky, který se ve starém Frantíkovi viděl. Potom se octly na posteli balíčky čokolády s tímž nápisem „Gott strafe England!“ a opět s podobiznami rakouského i německého císaře. Na čokoládě už si nedrželi ruce a každý se udělal pro sebe a ukazovali na sebe záda. Pěkný byl dvouřadový kartáček na zuby s nápisem „Viribus unitis“, aby každý, kdo si čistí zuby, vzpomínal na Rakousko. Elegantním a velice vhodným dárečkem do fronty a do zákopů byla souprava na čištění nehtů. Na krabici byl obrázek, jak praská šrapnel a nějaký člověk v šišáku se žene s bodákem kupředu. Pod tím: „Für Gott, Kaiser und Vaterland!“ Bez obrázku byl balík sušenek, zato byl tam verš:
 
-  
+</section>
+
+<section>
 
 _Österreich, du edles Haus,  
 steck deine Fahne aus,  
 laß sie im Winde weh’n,  
 Österreich muß ewig stehn!_
 
-  
+</section>
+
+<section>
 
 s českým překladem umístěným na druhé straně:
 
-  
+</section>
+
+<section>
 
 _Rakousko, vznešený dům,  
 vystrč prapor svůj,  
 nech ho ve větrech vlát,  
 Rakousko věčně musí stát!_
 
-  
+</section>
+
+<section>
 
 Posledním dárkem byl bílý hyacint v kořenáči.
 
@@ -277,14 +287,18 @@ Vojenští páni podívali se na sebe a zavolali šikovatele.
 
 Švejk odcházel s šikovatelem do kanceláře a po cestě přes nádvoří bručel si:
 
-  
+</section>
+
+<section>
 
 _„Vždycky jsem si myslel,  
 že je vojna špás,  
 že tam budu tejden nebo dvě neděle,  
 přijdu domů zas…“_
 
-  
+</section>
+
+<section>
 
 A zatímco na Švejka řval v kanceláři důstojník mající službu, že takoví chlapi, jako je Švejk, se mají střílet, komise nahoře v nemocničních pokojích pobíjela simulanty. Ze sedmdesáti pacientů zachránili se jen dva. Jeden, který měl uraženou nohu granátem, a druhý s opravdovým kostižerem.
 
@@ -299,3 +313,5 @@ Mluvil dlouho o tom, že každý z těch, kteří opouští nemocnici, aby ode
 Potom na chodbě řekl k tomu naivnímu muži vrchní štábní lékař:
 
 „Pane kolego, mohu vás ubezpečit, že je to všechno marné. Z těch lumpů by ani Radecký, ani ten váš princ Eugen Savojský nevychovali vojáky. Mluvit k nim andělsky nebo ďábelsky, to je všechno jedno. Je to banda.“
+
+</section>

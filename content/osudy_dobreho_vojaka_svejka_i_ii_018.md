@@ -3,6 +3,8 @@ title: 12\. Náboženská debata
 contentType: prose
 ---
 
+<section>
+
 Stávalo se, že Švejk po celé dny neviděl pěstitele vojenských duší. Polní kurát rozděloval své povinnosti s hýřením a přicházíval velice zřídka domů, umazaný, nemytý, jako kocour, když se mrňouká a dělá své výlety po střechách.
 
 Při návratu, mohl-li se vyjadřovat, hovoříval ještě se Švejkem, než usnul, o vznešených cílech, o zápale, o radosti z myšlení.
@@ -118,3 +120,5 @@ Nakonec ho uložili do postele. Než usnul, prohlásil, vztyčuje k přísaze p
 „Věřím v boha otce, syna i ducha svatého. Přineste mně breviář.“
 
 Švejk mu vstrčil do ruky nějakou knihu ležící na nočním stolku, a tak nábožný polní kurát usnul s Dekameronem G. Boccaccia v ruce.
+
+</section>

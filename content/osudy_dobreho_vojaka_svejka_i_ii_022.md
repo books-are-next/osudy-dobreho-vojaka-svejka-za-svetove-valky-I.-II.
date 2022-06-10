@@ -3,6 +3,8 @@ title: "DOSLOV K\_PRVNÍMU DÍLU „V\_ZÁZEMÍ“"
 contentType: prose
 ---
 
+<section>
+
 _Ukončuje první díl knihy Osudy dobrého vojáka Švejka (V zázemí), oznamuji, že vyjdou rychle za sebou dva díly: Na frontě a V zajetí. I v těch druhých dílech budou vojáci i obyvatelstvo mluvit a vystupovat tak, jak je tomu ve skutečnosti._
 
 _Život není žádnou školou uhlazeného chování. Každý mluví tak, jak je schopen. Ceremoniář dr. Guth mluví jinak než hostinský Palivec u Kalicha a tento román není pomůckou k salónnímu ušlechtění a naučnou knihou, jakých výrazů je možno ve společnosti užívat. Jest to historický obraz určité doby._
@@ -23,7 +25,9 @@ _Užívaje ve své knize několika silných výrazů, konstatoval jsem letmo, ja
 
 _Od hostinského Palivce nemůžeme žádati, aby mluvil tak jemně jako pí Laudová, dr. Guth, pí Olga Fastrová a celá řada jiných, kteří by nejraději udělali z celé Československé republiky velký salón s parketami, kde by se chodilo ve fracích, v rukavičkách a mluvilo vybraně a pěstoval jemný mrav salónní, pod jehož rouškou právě salónní lvi oddávají se nejhorším neřestem a výstřednostem._
 
-  
+</section>
+
+<section>
 
 _Při této příležitosti upozorňuji, že hostinský Palivec je naživu. Přečkal válku, kterou proseděl v žaláři, a zůstal stále týmž, jako když měl tu aféru s obrazem císaře Františka Josefa._
 
@@ -37,7 +41,9 @@ _Jeho sebevědomí opravdu stouplo. Jeho sláva je založena na několika silný
 
 _Nehledanými výrazy, prostě a poctivě vyjádřil odpor českého člověka proti byzantismu a sám o tom nevěděl. To bylo v krvi, ta neúcta k císaři a slušným výrazům._
 
-  
+</section>
+
+<section>
 
 _Otto Katz je též naživu. Jest to skutečná figurka polního kuráta. Hodil to všechno po převratě na hřebík, vystoupil z církve, dělá dnes prokuristu v jedné továrně na bronz a barviva v severních Čechách._
 
@@ -48,3 +54,5 @@ _Lidí typu nebožtíka Bretschneidra, státního detektiva starého Rakouska, p
 _Nevím, podaří-li se mně vystihnout touto knihou, co jsem chtěl. Již okolnost, že slyšel jsem jednoho člověka nadávat druhému: „Ty jsi blbej jako Švejk,“ právě tomu nenasvědčuje. Stane-li se však slovo Švejk novou nadávkou v květnatém věnci spílání, musím se spokojit tímto obohacením českého jazyka._
 
 _Jaroslav Hašek_
+
+</section>

@@ -3,6 +3,8 @@ title: "11\\. Švejk jede s\_polním kurátem sloužit polní mši"
 contentType: prose
 ---
 
+<section>
+
 ## 1
 
 Přípravy k usmrcování lidí děly se vždy jménem božím či vůbec nějaké domnělé vyšší bytosti, kterou si lidstvo vymyslilo a stvořilo ve své obrazotvornosti.
@@ -33,7 +35,9 @@ Potom o něm psali jako o mučedníkovi, zatímco naše aeroplány připravova
 
 Měli jsme z toho nehoráznou švandu a na provizorním kříži, kde pochovali zbytky po polním kurátovi, objevil se přes noc tento hřbitovní nápis:
 
-  
+</section>
+
+<section>
 
 _Co stihnout může nás, to stihlo také tebe.  
 Tys nebe sliboval nám, brachu, jistě.  
@@ -104,7 +108,9 @@ Jestli farář tvrdil, že polní oltář nepatří do pohovky, polní kurát se
 
 Nakonec šli do sakristie kostela a farář vydal polní oltář pod touto zápiskou:
 
-  
+</section>
+
+<section>
 
 _Přijal jsem polní oltář, který se náhodou dostal do chrámu ve Vršovicích._
 
@@ -209,3 +215,5 @@ A když byli doma, poukázavše nešťastného drožkáře na velitelství, pok
 Polní kurát podíval se na Švejka, chvíli mlčel, pak mu poklepal na rameno a řekl:
 
 „Můžete vypít to mešní víno, co zbylo v láhvi, a myslete si, že jste vstoupil opět do církve.“
+
+</section>

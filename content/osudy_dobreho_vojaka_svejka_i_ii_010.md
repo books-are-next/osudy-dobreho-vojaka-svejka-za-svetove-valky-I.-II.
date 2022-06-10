@@ -3,6 +3,8 @@ title: "4\\. Švejka vyhodili z\_blázince"
 contentType: prose
 ---
 
+<section>
+
 Když později Švejk líčil život v blázinci, činil tak způsobem neobyčejného chvalořečení:
 
 „Vopravdu nevím, proč se ti blázni zlobějí, když je tam drží. Člověk tam může lézt nahej po podlaze, vejt jako šakal, zuřit a kousat. Jestli by to člověk udělal někde na promenádě, tak by se lidi divili, ale tam to patří k něčemu prachvobyčejnýmu. Je tam taková svoboda, vo kerej se ani socialistům nikdy nezdálo. Člověk se tam může vydávat i za pánaboha nebo za Panenku Marii, nebo za papeže, nebo za anglickýho krále, nebo za císaře pána, nebo za sv. Václava, ačkoliv ten poslední byl pořád svázanej a nahej a ležel v izolaci. Byl tam taky jeden, kerej křičel, že je arcibiskupem, ale ten nic jiného nedělal, než jen žral a ještě něco dělal, s odpuštěním, víte, jak se to může rýmovat, ale tam se žádnej za to nestydí. Jeden se tam dokonce vydával za svatýho Cyrila a Metoděje, aby dostával dvě porce. A jeden pán byl tam těhotnej a zval každýho na křtiny. Moc tam bylo zavřenejch šachistů, politiků, rybářů a skautů, sběratelů známek a fotografů amatérů. Jeden tam byl kvůli nějakým starým hrncům, kterým říkal popelnice. Jeden byl pořád ve svěrací kazajce, aby nemohl vypočítat, kdy bude konec světa. Taky jsem se tam sešel s několika profesory. Jeden z nich pořád chodil za mnou a vykládal, že kolíbka cikánů byla v Krkonoších, a ten druhý mně vysvětloval, že uvnitř zeměkoule je ještě jedna mnohem větší než ta vrchní.
@@ -45,25 +47,33 @@ Nato ho lékaři požádali, aby si sedl na židli, a jeden ho klepal do kolena
 
 A Švejk spustil:
 
-  
+</section>
+
+<section>
 
 _„Což ten mladý mnich v tom křesle  
 čelo v ruku pravou kloní,  
 dvě hořké, žhavé slzy  
 po bledých lících se roní…_
 
-  
+</section>
+
+<section>
 
 Dál to neumím,“ pokračoval Švejk. „Jestli chcete, tak vám zazpívám:
 
-  
+</section>
+
+<section>
 
 _Jak je mi teskno okolo srdce,  
 co těžce, bolně zdvíhá ňadra má,  
 když tiše sedím, do dálky hledím,  
 tam, tam do dálky touha má…_
 
-  
+</section>
+
+<section>
 
 A také to dál neumím,“ vzdychl Švejk. „Znám ještě první sloku z ‚Kde domov můj‘ a potom ‚Jenerál Windischgrätz a vojenští páni od východu slunce vojnu započali‘ a ještě pár takových národních písniček jako ‚Zachovej nám, Hospodine‘ a ‚Když jsme táhli k Jaroměři‘ a ‚Tisíckrát pozdravujeme Tebe‘…“
 
@@ -90,3 +100,5 @@ Od toho okamžiku, kdy ošetřovatelé dostali rozkaz, aby vrátili Švejkovi je
 Švejk prohlásil, že když někoho vyhazují z blázince, že ho nesmí vyhodit bez oběda.
 
 Výtržnosti učinil konec vrátným přivolaný policejní strážník, který Švejka předvedl na policejní komisařství do Salmovy ulice.
+
+</section>

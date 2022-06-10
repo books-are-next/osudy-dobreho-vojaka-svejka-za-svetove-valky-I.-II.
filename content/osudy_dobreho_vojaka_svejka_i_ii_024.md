@@ -3,6 +3,8 @@ title: 1\. Švejkovy nehody ve vlaku
 contentType: prose
 ---
 
+<section>
+
 V jednom kupé druhé třídy rychlíku Praha – České Budějovice byli tři, nadporučík Lukáš, naproti kterému seděl starší pán, úplně holohlavý, a Švejk, který stál skromně u dveří k chodbě a chystal se právě vyslechnout nový příval hromobití nadporučíka Lukáše, který, nedbaje přítomnosti holohlavého civilisty, hřímal Švejkovi do duše po celé trati, kterou projeli, že je boží dobytek a podobně.
 
 Nešlo o nic jiného než o maličkost, o počet zavazadel, která Švejk opatroval.
@@ -187,7 +189,9 @@ Když se vlak hnul, vyhlédl nadporučík Lukáš z okna a viděl na peróně 
 
 Nadporučík Lukáš si povzdechl. Nebyl to povzdech lítosti. Bylo mu lehce u srdce, že Švejk zůstal na peróně. Dokonce i ten plešatý generálmajor nezdál se mu být takovou protivnou obludou.
 
-  
+</section>
+
+<section>
 
 Vlak již dávno supěl k Českým Budějovicím, ale na peróně nádraží lidí kolem Švejka neubývalo.
 
@@ -283,13 +287,17 @@ Takovými plakáty, jejichž text, s vymyšlenými vzácnými vzory, v kancel�
 
 Zatímco šikovatel šel shánět nějakého důstojníka, Švejk si přečetl na plakátu:
 
-  
+</section>
+
+<section>
 
 **VOZATAJEC JOSEF BONG**
 
 Vojáci zdravotního sboru dopravovali těžce raněné k vozům, připraveným v kryté úžlabině. Jakmile byl plný, odjelo se s ním na obvaziště. Rusové, vypátravše tyto vozy, počali je obstřelovati granáty. Kůň vozatajce Josefa Bonga od c. a k. 3. vozatajské švadrony byl usmrcen střepinou granátu. Bong bědoval: „Ubohý můj bělouši, je veta po tobě!“ Vtom sám zasažen byl kusem granátu. Přesto vypřáhnul svého koně a odtáhl trojspřeží za bezpečný úkryt. Nato se vrátil pro postroj svého usmrceného koně. Rusové stříleli stále. „Jen si střílejte, zpropadení zuřivci, já postroj tady nenechám!“ a snímal dál postroj z koně, bruče si ona slova. Konečně byl hotov a vláčel se s postrojem zpět k vozu. Zde mu bylo vyslechnouti hromobití od zdravotních vojínů pro jeho dlouhou nepřítomnost. „Nechtěl jsem tam nechat postroj, je skoro nový. Bylo by ho škoda, pomyslil jsem si. Nemáme nazbyt takových věcí,“ omlouval se statečný vojín, odjížděje k obvazišti, kde se teprve hlásil jako raněný. Jeho rytmistr ozdobil později prsa jeho stříbrnou medailí za statečnost.
 
-  
+</section>
+
+<section>
 
 Když Švejk dočetl a šikovatel se ještě nevracel, řekl k landverákům na strážnici:
 
@@ -375,24 +383,34 @@ A za půl hodiny, když Švejka napojili ještě černou kávou a dali mu krom
 
 Zpíval si starou vojenskou píseň:
 
-  
+</section>
+
+<section>
 
 _„Když jsme táhli k Jaroměři,  
 ať si nám to kdo chce věří…“_
 
-  
+</section>
+
+<section>
 
 A čertví jak se to stalo, že dobrý voják Švejk místo na jih k Budějovicům šel pořád rovně na západ.
 
 Šel sněhy silnice, ve mraze, zahalen v svůj vojenský plášť, jako poslední z gardy Napoleonovy vracející se z výpravy na Moskvu, s tím toliko rozdílem, že si zpíval vesele:
 
-  
+</section>
+
+<section>
 
 _„Já jsem si vyšel na špacír  
 do háje zelenýho.“_
 
-  
+</section>
+
+<section>
 
 A v zasněžených lesích v nočním tichu hučelo to ozvěnou, až se po vesnicích rozštěkali psi.
 
 Když ho zpěv omrzel, sedl si Švejk na hromádku štěrku, zapálil si dýmku a odpočinuv si šel dál, vstříc novým dobrodružstvím budějovické anabaze.
+
+</section>

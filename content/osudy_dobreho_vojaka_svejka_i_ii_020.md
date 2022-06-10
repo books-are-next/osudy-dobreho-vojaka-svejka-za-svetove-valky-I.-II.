@@ -3,6 +3,8 @@ title: "14\\. Švejk vojenským sluhou u\_nadporučíka Lukáše"
 contentType: prose
 ---
 
+<section>
+
 ## 1
 
 Štěstí Švejkovo nemělo dlouhého trvání. Nelítostný osud přerval přátelský poměr mezi ním a polním kurátem. Jestli polní kurát až do té události byl osobou sympatickou, to, co nyní provedl, je s to strhnout z něho sympatickou tvářnost.
@@ -135,13 +137,17 @@ Jinak byl hodný člověk a nebál se svých představených a pečoval o svo
 
 Měl rád na pochodu, když zpívali vojáci písničky. Museli zpívat, i když šli na cvičení i ze cvičení. A jda vedle své roty, zpíval s nimi:
 
-  
+</section>
+
+<section>
 
 _„A když bylo v půlnoci,  
 voves z pytle vyskočí,  
 žumtarijá bum!“_
 
-  
+</section>
+
+<section>
 
 Těšil se oblibě vojáků, poněvadž byl neobyčejně spravedlivým a neměl ve zvyku někoho týrat.
 
@@ -349,7 +355,9 @@ A poručík v záloze, v civilu pokladník nějaké banky, stál nad těmi pl
 
 Co přečetl, neudělalo na nadporučíka příznivý dojem:
 
-  
+</section>
+
+<section>
 
 _Lieber Heinrich! Mein Mann verfolgt mich. Ich muß bei Dir ein paar Tage gastieren. Dein Bursch ist ein großes Mistvieh. Ich bin unglücklich._
 
@@ -371,7 +379,9 @@ Nadporučík vzdychl ještě jednou hlasitě, což opakoval též Švejk po něm
 
 Nadporučík seděl nyní na stole se sklopenou hlavou, mlčel a přemýšlel, ale nevymyslil si prozatím ničeho, než že nakonec sedl ke stolu, vzal obálku, papír a napsal na úřední formát:
 
-  
+</section>
+
+<section>
 
 _Drahá Katy! V službě do 9 hod. večer. Přijdu v deset. Prosím, by ses cítila u mne jako ve své domácnosti. Co se týká Švejka, mého sluhy, dal jsem mu již rozkazy, aby Ti ve všem vyhověl._
 
@@ -511,11 +521,15 @@ Oba rozloučili se přátelsky s nadporučíkem a obchodník s chmelem byl ta
 
 Vrátiv se do ložnice, kde paní Katy se oblékala na cestu, našel nadporučík na umyvadle 400 korun a tento lístek:
 
-  
+</section>
+
+<section>
 
 _Pane nadporučíku! Nezastal jste se mne před tou opicí, mým mužem, idiotem prvního řádu. Dovolil jste, aby mne odvlékl s sebou jako nějakou věc, kterou zapomenul v bytě. Přitom dovolil jste si udělat poznámku, že jste mně nabídl pohostinství. Doufám, že jsem vám nezpůsobila větší útraty než přiložených 400 korun, o které prosím byste se rozdělil se svým sluhou._
 
-  
+</section>
+
+<section>
 
 Nadporučík Lukáš chvíli stál s lístkem v ruce a pak jej pomalu roztrhal. S úsměvem podíval se na peníze ležící na umyvadle, a vida, že v rozčilení zapomněla hřebínek do vlasů na stolku, když si před zrcadlem upravovala vlasy, uložil jej mezi své fetišistické relikvie.
 
@@ -559,7 +573,9 @@ Byli jste někdy v psinci a viděli jste tam takové uděšené zjevy psí? Ti
 
 Jest několik systémů, jak se kradou psi. Buď přímo, něco na způsob kapesní krádeže, nebo podvodným vylákáním nešťastného tvora k sobě. Pes jest zvíře věrné, ale jen v čítance neb v přírodopise. Dejte očichat i nejvěrnějšímu psu smaženou koňskou uzenku, a je ztracen. Zapomene na pána, vedle kterého kráčí, otočí se a jde za vámi, přičemž mu z tlamy tekou sliny a v předzvěsti a tušení velké radosti nad uzenkou vrtí přívětivě ocasem a protahuje nozdry jako nejbujnější hřebec, když ho vedou ke klisně.
 
-  
+</section>
+
+<section>
 
 Na Malé Straně u Zámeckých schodů je malý výčep piva. Jednoho dne seděli tam v šeru vzadu dva muži. Jeden voják a druhý civilista. Nakloněni k sobě šeptali si tajemně. Vyhlíželi jako spiklenci z dob Benátské republiky.
 
@@ -591,7 +607,9 @@ Oba přátelé si opět ťukli. Ještě když Švejk se živil prodejem psů do 
 
 Kradl ze zásady jen čistokrevné psy a mohl být soudním znalcem. Dodával do všech psinců i soukromým osobám, jak se to dalo, a šel-li po ulici, tu na něho vrčeli psi, které kdysi ukradl, a když stál někde u výkladní skříně, často nějaký mstivý pes vyzdvihl u něho za zády nožičku a pokropil mu kalhoty.
 
-  
+</section>
+
+<section>
 
 V osm hodin ráno druhého dne bylo vidět dobrého vojáka Švejka chodit na rohu Havlíčkova náměstí a parku. Čekal na služku se stájovým pinčem. Konečně se dočkal a kolem něho přeběhl vousatý pes, rozježený, ostrosrstý, s moudrýma černýma očima. Byl veselý jako všichni psi, když si odbyli svou potřebu, a hnal se k vrabcům snídajícím koňský trus na ulici.
 
@@ -744,3 +762,5 @@ Zatímco Švejk koupal Maxa, plukovník, bývalý jeho majitel, strašně doma l
 „Der Teufel soll den Kerl buserieren,“ ozývalo se v bytě plukovníka, až se třásla okna, „mit solchen Meuchelmördern werde ich bald fertig.“
 
 Nad Švejkem i nadporučíkem Lukášem vznášela se ve vzduchu katastrofa.
+
+</section>

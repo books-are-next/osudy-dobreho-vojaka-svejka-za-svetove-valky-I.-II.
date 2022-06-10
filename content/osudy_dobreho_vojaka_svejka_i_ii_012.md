@@ -3,6 +3,8 @@ title: 6\. Švejk opět doma, proraziv začarovaný kruh
 contentType: prose
 ---
 
+<section>
+
 Budovou policejního ředitelství vanul duch cizí autority, která zjišťovala, jak dalece je obyvatelstvo nadšeno pro válku. Kromě několika výjimek, lidí, kteří nezapřeli, že jsou synové národa, který má vykrvácet za zájmy jemu úplně cizí, policejní ředitelství představovalo nejkrásnější skupinu byrokratických dravců, kteří měli smysl jedině pro žalář a šibenici, aby uhájili existenci zakroucených paragrafů.
 
 Přitom nakládali se svými oběťmi s jízlivou vlídností, uvažujíce předem každé slovo.
@@ -220,3 +222,5 @@ V jeho služebním spisku na policejním ředitelství byla zanesena do rubriky
 Když se později dověděl Švejk o té tragické události, řekl:
 
 „To mně jenom vrtá hlavou, jak ho dají při posledním soudu dohromady.“
+
+</section>
