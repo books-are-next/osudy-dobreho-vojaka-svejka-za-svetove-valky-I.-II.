@@ -22,7 +22,7 @@ V MKP 2. elektronické vydání
 </section>  
 <section>  
 </section>  
-1. vydání z 10. 6. 2022.
+1. vydání z 11. 6. 2022.
 
 ***
 
