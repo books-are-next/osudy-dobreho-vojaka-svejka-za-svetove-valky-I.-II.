@@ -2,7 +2,6 @@
 <html>
   <head>
     <meta charset="utf-8">
-    <link rel="icon" href="./favicon.png">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no">
     <meta name="apple-mobile-web-app-title" content="{{ .Title }}">
     <meta name="apple-mobile-web-app-capable" content="yes">
@@ -16,13 +15,9 @@
     {{ $styleHash:= $style | resources.Fingerprint }}
     <link rel="stylesheet" href="{{ $style.Permalink }}" media="screen" integrity="{{ $styleHash.Data.Integrity }}">
 
-    {{ $accentBase := int (substr (replaceRE "[abcdef]" "" (md5 (.Site.GetPage "/_book").Params.meta.edition)) -6) }}
-    {{ $accentHue := mod (add (mod $accentBase 360) 309) 360 }}
-    <style>
-      :root {
-        --accent-color: hsl({{ $accentHue }}, 71%, 37%);
-      }
-    </style>
+    <meta name="nb-research" content="Tato kniha je dočasně součástí výzkumu, který nám pomůže vylepšit webové knihy. Sbíráme pouze anonymní data o tom, jak čtete knihu. Pro použití cookies potřebujeme Váš souhlas. Děkujeme! (<a href='https://www.mlp.cz/cz/o-knihovne/cisla-dokumenty-povinne-informace/povinne-dostupne-informace/cookies/'>Jaké cookies používáme?</a>)">
+    <meta name="nb-research-orgs" content="Městská knihovna v Praze a Masarykova univerzita">
+    <meta name="nb-research-ga" content="UA-187132260-1">
 
     {{ with .Params.promo }}
       <link rel="stylesheet" href="{{ .baseUrl }}promo.css">

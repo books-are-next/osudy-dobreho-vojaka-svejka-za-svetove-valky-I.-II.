@@ -1,14 +1,16 @@
 {
   "name": "@next-book/boilerplate",
-  "version": "0.0.11",
+  "version": "0.0.15",
   "description": "Quick start for publishing web books with next-book.",
   "main": "",
   "scripts": {
     "cleanup": "rm -r ./_temp",
     "build:js": "webpack --mode production",
-    "build": "npm run build:js && hugo --config config.toml && node filters.js && publish-nb --src _temp --out _book && npm run cleanup",
-    "server": "npm run build:js && hugo --config config.toml && node filters.js && publish-nb -w --src _temp --out _book",
+    "build:cover": "cover ./_temp",
+    "build": "npm run calc-accent && npm run build:js && hugo --config config.toml && node filters.js && npm run build:cover && publish-nb --src _temp --out _book && npm run cleanup",
+    "server": "npm run calc-accent && npm run build:js && hugo --config config.toml && node filters.js && npm run build:cover && publish-nb -w --src _temp --out _book",
     "test": "echo \"Error: no test specified\" && exit 1",
+    "calc-accent": "node calc-accent.mjs",
     "epub-exists": "node epub-exists.js"
   },
   "author": "Jan Martinek",
@@ -17,10 +19,12 @@
     "@babel/plugin-proposal-class-properties": "^7.14.5",
     "@babel/preset-env": "^7.14.5",
     "@babel/preset-react": "^7.14.5",
-    "@next-book/epub2nb": "^0.1.3",
-    "@next-book/interface": "^0.1.34",
-    "@next-book/publisher": "^0.3.11",
+    "@next-book/cover": "^1.0.1",
+    "@next-book/epub2nb": "^0.1.11",
+    "@next-book/interface": "^1.0.1",
+    "@next-book/publisher": "^1.0.0",
     "babel-loader": "^8.2.2",
+    "d3-color": "^3.1.0",
     "webpack": "^5.40.0",
     "webpack-cli": "^4.7.2"
   }
