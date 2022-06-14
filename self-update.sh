@@ -1,14 +1,13 @@
 #!/bin/bash
 
 
-# Remove old files
+# Remove old folders
 
-rm -rf layouts assets static config.toml README.* package.json package-lock.json filters.js webpack.config.js
+rm -rf layouts assets static
 
 
 # Get current boilerplate code from repo
 
-shopt -s dotglob
 git clone https://github.com/next-book/boilerplate.git _current_bp
 
 
@@ -21,8 +20,13 @@ mv _current_bp/README.* .
 mv _current_bp/config.toml .
 mv _current_bp/package.json .
 mv _current_bp/package-lock.json .
-mv _current_bp/filters.js filters.js
 mv _current_bp/webpack.config.js webpack.config.js
+mv _current_bp/filters.js filters.js
+mv _current_bp/calc-accent.mjs calc-accent.mjs
+mv _current_bp/self-update.sh self-update.sh
+mv _current_bp/.browserslistrc .browserslistrc
+mv _current_bp/babel.config.json babel.config.json
+
 
 
 # Remove imported repo dir
