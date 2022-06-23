@@ -21,7 +21,7 @@
     "@babel/preset-react": "^7.14.5",
     "@next-book/cover": "^1.0.1",
     "@next-book/epub2nb": "^0.1.11",
-    "@next-book/interface": "^1.0.1",
+    "@next-book/interface": "^1.0.3",
     "@next-book/publisher": "^1.0.0",
     "babel-loader": "^8.2.2",
     "d3-color": "^3.1.0",
