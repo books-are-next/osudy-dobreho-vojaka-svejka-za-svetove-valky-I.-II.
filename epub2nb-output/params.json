@@ -61,7 +61,7 @@
             "filename": "osudy_dobreho_vojaka_svejka_i_ii_003.md",
             "xhtml": "osudy_dobreho_vojaka_svejka_i_ii_003.xhtml",
             "id": 2,
-            "role": "colophon",
+            "role": "about",
             "inToc": false,
             "title": "",
             "subtitle": "",
@@ -72,7 +72,7 @@
             "filename": "osudy_dobreho_vojaka_svejka_i_ii_004.md",
             "xhtml": "osudy_dobreho_vojaka_svejka_i_ii_004.xhtml",
             "id": 3,
-            "role": "colophon",
+            "role": "about",
             "inToc": false,
             "title": "",
             "subtitle": "",
@@ -349,7 +349,7 @@
             "filename": "osudy_dobreho_vojaka_svejka_i_ii_029.md",
             "xhtml": "osudy_dobreho_vojaka_svejka_i_ii_029.xhtml",
             "id": 28,
-            "role": "colophon",
+            "role": "about",
             "inToc": false,
             "title": "",
             "subtitle": "",
@@ -633,6 +633,6 @@
       "user": "books-are-next",
       "repo": "osudy-dobreho-vojaka-svejka-za-svetove-valky-I.-II."
     },
-    "generatedAt": 1655979289902
+    "generatedAt": 1657182258981
   }
 }
