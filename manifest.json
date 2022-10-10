@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "hasek-osudy-dobreho-vojaka-svejka-za-svetove-valky-iii-22c8380",
-  "revision": "22c8380",
+  "identifier": "hasek-osudy-dobreho-vojaka-svejka-za-svetove-valky-iii-23cc469",
+  "revision": "23cc469",
   "readingOrder": [
     "promo.html",
     "osudy_dobreho_vojaka_svejka_i_ii_005.html",
@@ -39,8 +39,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Fri Oct 07 2022 14:06:03 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1665151563473
+    "date": "Mon Oct 10 2022 15:58:38 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1665417518180
   },
   "documents": [
     {
@@ -626,7 +626,7 @@
       "title": "Tiráž",
       "file": "about.html",
       "words": 147,
-      "chars": 951,
+      "chars": 952,
       "ideas": 19,
       "role": "about",
       "order": null,
@@ -646,7 +646,7 @@
   "totals": {
     "all": {
       "words": 116854,
-      "chars": 705632,
+      "chars": 705633,
       "ideas": 3926
     },
     "chapters": {
