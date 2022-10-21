@@ -1,6 +1,10 @@
 name: Publish book
 
 on:
+  workflow_run:
+    workflows: ["Self-update boilerplate"]
+    types:
+      - completed
   workflow_dispatch:
   push:
     branches:
